@@ -8,14 +8,14 @@ function showPropertyMenu(argument0, argument1, argument2) {
 	if (ds_map_size(argument0) == 0)
 	    return false;
 
-	var key, menu, res, keys, i, new, old, exists, _x, _y, newPropIdx, fullName;
+	var key, menu, res, keys, i, newval, old, exists, _x, _y, newPropIdx, fullName;
 	_x = window_mouse_get_x() + window_get_x();
 	_y = window_mouse_get_y() + window_get_y();
 	newPropIdx = -1;
 
 	do
 	{
-	    new = "";
+	    newval = "";
 	    menu = "";
 	    i = 0;
 	    for(key=ds_map_find_first(argument0); is_string(key); key=ds_map_find_next(argument0, key))
@@ -63,8 +63,8 @@ function showPropertyMenu(argument0, argument1, argument2) {
 	                }
 	                else
 	                {
-	                    new = get_string("Value for " + prop + ":", "")
-	                    ds_map_add(argument0, prop, new);
+	                    newval = get_string("Value for " + prop + ":", "")
+	                    ds_map_add(argument0, prop, newval);
 	                }
 	            }            
 	        }
@@ -96,19 +96,19 @@ function showPropertyMenu(argument0, argument1, argument2) {
 	            }
 	            else
 	            {
-	                new = get_string("New value for " + prop + ":", old);                    
+	                newval = get_string("New value for " + prop + ":", old);                    
 	                if (exists)
-	                    ds_map_replace(argument1, prop, new);
+	                    ds_map_replace(argument1, prop, newval);
 	                else
-	                    ds_map_add(argument1, prop, new);
+	                    ds_map_add(argument1, prop, newval);
 	            }
 	        }
 	    }
 	    else
-	        new = " ";
+	        newval = " ";
     
 	    // Destroy de property if the contents are empty
-	    if (argument2 > 0 && new == "")
+	    if (argument2 > 0 && newval == "")
 	    {
 	        ds_map_delete(argument1, prop);
 	        i -= 1;
