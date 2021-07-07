@@ -5,7 +5,7 @@ if(global.useLobbyServer) {
 ds_list_destroy(global.players);
 socket_destroy(global.tcpListener);
 socket_destroy(global.serverSocket);
-buffer_destroy(serverId);
+fct_buffer_destroy(serverId);
 
 with(Player)
     instance_destroy();

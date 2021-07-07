@@ -6,7 +6,7 @@ function sendLobbyRegistration() {
 	noOfOccupiedSlots = getNumberOfOccupiedSlots();
 
 	var lobbyBuffer;
-	lobbyBuffer = buffer_create();
+	lobbyBuffer = fct_buffer_create();
 	set_little_endian(lobbyBuffer, false);
 
 	parseUuid("b5dae2e8-424f-9ed0-0fcb-8c21c7ca1352", lobbyBuffer); // Message Type "register"
@@ -35,7 +35,7 @@ function sendLobbyRegistration() {
 	write_buffer(lobbyBuffer, global.protocolUuid);
 
 	udp_send(lobbyBuffer, LOBBY_SERVER_HOST, LOBBY_SERVER_PORT);
-	buffer_destroy(lobbyBuffer);
+	fct_buffer_destroy(lobbyBuffer);
 
 
 

@@ -61,7 +61,7 @@ function __http_prepare_request(argument0, argument1, argument2, argument3, argu
 	    line = 0;
 	    statusCode = -1;
 	    reasonPhrase = "";
-	    responseBody = buffer_create();
+	    responseBody = fct_buffer_create();
 	    responseBodySize = -1;
 	    responseBodyProgress = -1;
 	    responseHeaders = ds_map_create();
@@ -109,7 +109,7 @@ function __http_prepare_request(argument0, argument1, argument2, argument3, argu
 	    // Request body meta data
 	    if (requestBody)
 	    {
-	        write_string(socket, "Content-Length: " + string(buffer_size(requestBody)) + CRLF);
+	        write_string(socket, "Content-Length: " + string(fct_buffer_size(requestBody)) + CRLF);
 	        write_string(socket, "Content-Type: " + requestBodyMimeType + CRLF);
 	    }
         

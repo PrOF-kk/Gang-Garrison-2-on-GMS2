@@ -22,7 +22,7 @@ function __http_client_destroy() {
 
 	if (!destroyed) {
 	    socket_destroy_abortive(socket);
-	    buffer_destroy(responseBody);
+	    fct_buffer_destroy(responseBody);
 	    ds_map_destroy(responseHeaders);
 	}
 	destroyed = true;

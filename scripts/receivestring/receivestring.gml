@@ -2,9 +2,9 @@ function receivestring(argument0, argument1) {
 	/* Receive a string with length prefix. Blocks until the complete string is read */
 
 	var size,buffer,result;
-	buffer = buffer_create();
+	buffer = fct_buffer_create();
 	if(receiveCompleteMessage(argument0, argument1, buffer) > 0) {
-	    buffer_destroy(buffer);
+	    fct_buffer_destroy(buffer);
 	    return "";
 	}
 
@@ -15,12 +15,12 @@ function receivestring(argument0, argument1) {
 	}
 
 	if(receiveCompleteMessage(argument0, size, buffer) > 0) {
-	    buffer_destroy(buffer);
+	    fct_buffer_destroy(buffer);
 	    return "";
 	}
 
 	result = read_string(buffer, size);
-	buffer_destroy(buffer);
+	fct_buffer_destroy(buffer);
 	return result;
 
 

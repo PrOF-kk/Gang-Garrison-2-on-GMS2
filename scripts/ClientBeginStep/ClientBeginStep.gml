@@ -19,14 +19,14 @@ function ClientBeginStep() {
 
 	if(downloadingMap)
 	{
-	    while(tcp_receive(global.serverSocket, min(1024, downloadMapBytes-buffer_size(downloadMapBuffer))))
+	    while(tcp_receive(global.serverSocket, min(1024, downloadMapBytes-fct_buffer_size(downloadMapBuffer))))
 	    {
 	        write_buffer(downloadMapBuffer, global.serverSocket);
-	        if(buffer_size(downloadMapBuffer) == downloadMapBytes)
+	        if(fct_buffer_size(downloadMapBuffer) == downloadMapBytes)
 	        {
 	            write_buffer_to_file(downloadMapBuffer, "Maps/" + downloadMapName + ".png");
 	            downloadingMap = false;
-	            buffer_destroy(downloadMapBuffer);
+	            fct_buffer_destroy(downloadMapBuffer);
 	            downloadMapBuffer = -1;
 	            exit;
 	        }
@@ -155,7 +155,7 @@ function ClientBeginStep() {
 	                    socket_send(global.serverSocket);
 	                    receiveCompleteMessage(global.serverSocket,4,global.tempBuffer);
 	                    downloadMapBytes = read_uint(global.tempBuffer);
-	                    downloadMapBuffer = buffer_create();
+	                    downloadMapBuffer = fct_buffer_create();
 	                    downloadingMap = true;
 	                    roomchange=true;
 	                }
@@ -554,7 +554,7 @@ function ClientBeginStep() {
 	        case REWARD_CHALLENGE_CODE:
 	            var challengeData;
 	            receiveCompleteMessage(global.serverSocket,16,global.tempBuffer);
-	            challengeData = read_binstring(global.tempBuffer, buffer_size(global.tempBuffer));
+	            challengeData = read_binstring(global.tempBuffer, fct_buffer_size(global.tempBuffer));
 	            challengeData += socket_remote_ip(global.serverSocket);
 
 	            write_ubyte(global.serverSocket, REWARD_CHALLENGE_RESPONSE);
@@ -623,7 +623,7 @@ function ClientBeginStep() {
 	            packetID = read_ubyte(global.tempBuffer);
 
 	            // get packet data
-	            buf = buffer_create();
+	            buf = fct_buffer_create();
 	            write_buffer_part(buf, global.tempBuffer, packetLen - 1);
 
 	            // try to enqueue
@@ -634,7 +634,7 @@ function ClientBeginStep() {
 	            if (!success)
 	            {
 	                // clear up buffer
-	                buffer_destroy(buf);
+	                fct_buffer_destroy(buf);
 	                show_error("ERROR when reading plugin packet: no such plugin packet ID " + string(packetID), true);
 	            }
 	            break;

@@ -18,9 +18,9 @@ function serviceJoiningPlayer() {
 	        socket_send(socket);
 	        global.mapBytesRemainingInStep -= bytesToSend;
 	        cumulativeMapBytes -= bytesToSend;
-	        if(!buffer_bytes_left(mapDownloadBuffer))
+	        if(!fct_buffer_bytes_left(mapDownloadBuffer))
 	        {
-	            buffer_destroy(mapDownloadBuffer);
+	            fct_buffer_destroy(mapDownloadBuffer);
 	            mapDownloadBuffer = -1;
 	            state = STATE_EXPECT_COMMAND;
 	            expectedBytes = 1;
@@ -42,7 +42,7 @@ function serviceJoiningPlayer() {
 	case STATE_EXPECT_HELLO:
 	    var sameProtocol, noOfPlayers;
 	    sameProtocol = (read_ubyte(socket) == HELLO);
-	    buffer_set_readpos(global.protocolUuid, 0)
+	    fct_buffer_set_readpos(global.protocolUuid, 0)
 	    for(i=0; i<4; i+=1)
 	        if(read_uint(socket) != read_uint(global.protocolUuid))
 	            sameProtocol = false;
@@ -132,14 +132,14 @@ function serviceJoiningPlayer() {
 	    case DOWNLOAD_MAP:
 	        if(advertisedMapMd5 != "" and file_exists("Maps/" + advertisedMap + ".png"))
 	        {   // If the md5 was empty, we advertised an internal map, which obviously can't be downloaded.
-	            buffer_destroy(mapDownloadBuffer);
-	            mapDownloadBuffer = buffer_create();
+	            fct_buffer_destroy(mapDownloadBuffer);
+	            mapDownloadBuffer = fct_buffer_create();
 	            if(!append_file_to_buffer(mapDownloadBuffer, "Maps/" + advertisedMap + ".png")) {
-	                buffer_destroy(mapDownloadBuffer);
+	                fct_buffer_destroy(mapDownloadBuffer);
 	                mapDownloadBuffer = -1;
 	                break;
 	            }
-	            write_uint(socket, buffer_size(mapDownloadBuffer));
+	            write_uint(socket, fct_buffer_size(mapDownloadBuffer));
 	            newState = STATE_CLIENT_DOWNLOADING;
 	        }
 	        break;

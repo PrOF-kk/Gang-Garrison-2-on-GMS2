@@ -17,7 +17,7 @@ if(!socket)
     // start the next auth check
     socket = tcp_connect(AUTH_SERVER_HOST, AUTH_SERVER_PORT);
     write_buffer(socket, authbuffer);
-    buffer_destroy(authbuffer);
+    fct_buffer_destroy(authbuffer);
     socket_send(socket);
 }
 else if(!tcp_eof(socket))
@@ -27,16 +27,16 @@ else if(!tcp_eof(socket))
 }
 else
 {
-    if(!socket_has_error(socket) and instance_exists(currentPlayer) and buffer_size(responseBuffer)>0)
+    if(!socket_has_error(socket) and instance_exists(currentPlayer) and fct_buffer_size(responseBuffer)>0)
     {
         var rewards;
-        rewards = read_string(responseBuffer, buffer_size(responseBuffer));
+        rewards = read_string(responseBuffer, fct_buffer_size(responseBuffer));
         rewardAuthSuccess(currentPlayer, rewards);
     }
     
     socket_destroy(socket);
     socket = 0;
     currentPlayer = noone;
-    buffer_clear(responseBuffer);
+    fct_buffer_clear(responseBuffer);
 }
 

@@ -342,7 +342,7 @@ function processClientCommands(argument0, argument1) {
 	            packetID = read_ubyte(socket);
             
 	            // get packet data
-	            buf = buffer_create();
+	            buf = fct_buffer_create();
 	            write_buffer_part(buf, socket, socket_receivebuffer_size(socket));
 
 	            // try to enqueue
@@ -352,7 +352,7 @@ function processClientCommands(argument0, argument1) {
 	            if (!success)
 	            {
 	                // clear up buffer
-	                buffer_destroy(buf);
+	                fct_buffer_destroy(buf);
 
 	                // kick player
 	                write_ubyte(player.socket, KICK);

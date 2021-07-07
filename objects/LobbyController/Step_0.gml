@@ -47,7 +47,7 @@
                         key = read_string(lobbysocket, read_ubyte(lobbysocket));
                         if(key=="protocol_id")
                         {
-                            buffer_set_readpos(global.protocolUuid, 0);
+                            fct_buffer_set_readpos(global.protocolUuid, 0);
                             sameProtocolId = true;
                             repeat(read_ushort(lobbysocket))
                                 if(read_ubyte(global.protocolUuid) != read_ubyte(lobbysocket))

@@ -18,7 +18,7 @@ function rewardAuthStart(argument0, argument1, argument2, argument3, argument4) 
 	if(ds_queue_size(RewardAuthChecker.workQueue) > 50) exit;
 
 	// Prepare buffer to query the server
-	authbuffer = buffer_create();
+	authbuffer = fct_buffer_create();
 	parseUuid("205e2d84-4833-89d4-15d9-c0249667df1c", authbuffer);
 	write_ushort(authbuffer, string_length(answer)+string_length(challenge)+1+string_length(rewardId));
 	write_binstring(authbuffer, answer);

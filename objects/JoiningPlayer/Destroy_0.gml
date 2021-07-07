@@ -1,3 +1,3 @@
-buffer_destroy(mapDownloadBuffer);
+fct_buffer_destroy(mapDownloadBuffer);
 socket_destroy_abortive(socket);
 

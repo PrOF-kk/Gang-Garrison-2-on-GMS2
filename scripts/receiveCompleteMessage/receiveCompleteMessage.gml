@@ -14,7 +14,7 @@ function receiveCompleteMessage(argument0, argument1, argument2) {
 	// argument 2: Buffer
 
 	var buffer;
-	buffer_clear(argument2);
+	fct_buffer_clear(argument2);
 
 	do {
 	    if(socket_has_error(argument0)) {

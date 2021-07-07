@@ -24,7 +24,7 @@ function GameServerCreate() {
 	    global.serverSocket = -1;
     
 	    var i;
-	    serverId = buffer_create();
+	    serverId = fct_buffer_create();
 	    for (i = 0; i < 16; i += 1)
 	        write_ubyte(serverId, irandom(255));
     

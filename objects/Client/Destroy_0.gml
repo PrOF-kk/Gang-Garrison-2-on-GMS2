@@ -1,8 +1,8 @@
 if(not nocreate) {
     socket_destroy(global.serverSocket);
     ds_list_destroy(global.players);
-    buffer_destroy(global.deserializeBuffer);
-    buffer_destroy(downloadMapBuffer);
+    fct_buffer_destroy(global.deserializeBuffer);
+    fct_buffer_destroy(downloadMapBuffer);
     
     with(Player)
         instance_destroy();

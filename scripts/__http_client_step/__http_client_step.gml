@@ -129,20 +129,20 @@ function __http_client_step(argument0) {
 	                {
 	                    // Chunked transfer, let's decode it
 	                    var actualResponseBody, actualResponseSize;
-	                    actualResponseBody = buffer_create();
+	                    actualResponseBody = fct_buffer_create();
 	                    actualResponseBodySize = 0;
 
 	                    // Parse chunks
 	                    // chunk          = chunk-size [ chunk-extension ] CRLF
 	                    //                  chunk-data CRLF
 	                    // chunk-size     = 1*HEX
-	                    while (buffer_bytes_left(responseBody))
+	                    while (fct_buffer_bytes_left(responseBody))
 	                    {
 	                        var chunkSize, c;
 	                        chunkSize = "";
                         
 	                        // Read chunk size byte by byte 
-	                        while (buffer_bytes_left(responseBody))
+	                        while (fct_buffer_bytes_left(responseBody))
 	                        {
 	                            c = read_string(responseBody, 1);
 	                            if (c == CR or c == ";")
@@ -155,7 +155,7 @@ function __http_client_step(argument0) {
 	                        if (c == ";")
 	                        {
 	                            // skip all extension stuff
-	                            while (buffer_bytes_left(responseBody) && c != CR)
+	                            while (fct_buffer_bytes_left(responseBody) && c != CR)
 	                            {
 	                                c = read_string(responseBody, 1);
 	                            }
@@ -169,7 +169,7 @@ function __http_client_step(argument0) {
 	                            {
 	                                errored = true;
 	                                error = "header of chunk in chunked transfer did not end in CRLF";
-	                                buffer_destroy(actualResponseBody);
+	                                fct_buffer_destroy(actualResponseBody);
 	                                return __http_client_destroy();
 	                            }
 	                            // chunk-size is empty - something's up!
@@ -177,7 +177,7 @@ function __http_client_step(argument0) {
 	                            {
 	                                errored = true;
 	                                error = "empty chunk-size in a chunked transfer";
-	                                buffer_destroy(actualResponseBody);
+	                                fct_buffer_destroy(actualResponseBody);
 	                                return __http_client_destroy();
 	                            }
 	                            chunkSize = __http_parse_hex(chunkSize);
@@ -186,15 +186,15 @@ function __http_client_step(argument0) {
 	                            {
 	                                errored = true;
 	                                error = "chunk-size was not hexadecimal in a chunked transfer";
-	                                buffer_destroy(actualResponseBody);
+	                                fct_buffer_destroy(actualResponseBody);
 	                                return __http_client_destroy();
 	                            }
 	                            // Is the chunk bigger than the remaining response?
-	                            if (chunkSize + 2 > buffer_bytes_left(responseBody))
+	                            if (chunkSize + 2 > fct_buffer_bytes_left(responseBody))
 	                            {
 	                                errored = true;
 	                                error = "chunk-size was greater than remaining data in a chunked transfer";
-	                                buffer_destroy(actualResponseBody);
+	                                fct_buffer_destroy(actualResponseBody);
 	                                return __http_client_destroy();
 	                            }
 	                            // OK, everything's good, read the chunk
@@ -222,11 +222,11 @@ function __http_client_step(argument0) {
 	                            // Parse header lines
 	                            var line;
 	                            line = 1;
-	                            while (buffer_bytes_left(responseBody))
+	                            while (fct_buffer_bytes_left(responseBody))
 	                            {
 	                                var linebuf;
 	                                linebuf = "";
-	                                while (buffer_bytes_left(responseBody))
+	                                while (fct_buffer_bytes_left(responseBody))
 	                                {
 	                                    c = read_string(responseBody, 1);
 	                                    if (c != CR)
@@ -248,7 +248,7 @@ function __http_client_step(argument0) {
 	                        }
 	                    }
 	                    responseBodySize = actualResponseBodySize;
-	                    buffer_destroy(responseBody);
+	                    fct_buffer_destroy(responseBody);
 	                    responseBody = actualResponseBody;
 	                }
 	                else

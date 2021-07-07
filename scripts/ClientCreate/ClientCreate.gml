@@ -15,7 +15,7 @@ function ClientCreate() {
 	    noReloadPlugins = false;
     
 	    global.players = ds_list_create();
-	    global.deserializeBuffer = buffer_create();
+	    global.deserializeBuffer = fct_buffer_create();
 	    global.isHost = false;
 
 	    global.myself = -1;
