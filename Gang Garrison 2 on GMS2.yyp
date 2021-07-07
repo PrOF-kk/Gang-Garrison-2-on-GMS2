@@ -1099,7 +1099,6 @@
     {"id":{"name":"getCharacterSpriteId","path":"scripts/getCharacterSpriteId/getCharacterSpriteId.yy",},"order":19,},
     {"id":{"name":"format_timer_value","path":"scripts/format_timer_value/format_timer_value.yy",},"order":21,},
     {"id":{"name":"getRelativePathIfDescendant","path":"scripts/getRelativePathIfDescendant/getRelativePathIfDescendant.yy",},"order":23,},
-    {"id":{"name":"asset_get_index","path":"scripts/asset_get_index/asset_get_index.yy",},"order":25,},
     {"id":{"name":"ggon_decode","path":"scripts/ggon_decode/ggon_decode.yy",},"order":1,},
     {"id":{"name":"ggon_encode","path":"scripts/ggon_encode/ggon_encode.yy",},"order":3,},
     {"id":{"name":"ggon_tokenise","path":"scripts/ggon_tokenise/ggon_tokenise.yy",},"order":5,},
