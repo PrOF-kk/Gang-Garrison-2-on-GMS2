@@ -1,0 +1,9 @@
+alpha=0.01;
+done = false;
+newteam = -1;
+door = -1;
+redteam=0;
+blueteam=0;
+y=-120;
+afk=false;
+balance = calculateTeamBalance();

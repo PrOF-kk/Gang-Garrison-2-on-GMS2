@@ -1,0 +1,163 @@
+{
+  "bboxMode": 0,
+  "collisionKind": 1,
+  "type": 0,
+  "origin": 4,
+  "preMultiplyAlpha": false,
+  "edgeFiltering": false,
+  "collisionTolerance": 0,
+  "swfPrecision": 2.525,
+  "bbox_left": 0,
+  "bbox_right": 119,
+  "bbox_top": 0,
+  "bbox_bottom": 81,
+  "HTile": false,
+  "VTile": false,
+  "For3D": false,
+  "width": 120,
+  "height": 82,
+  "textureGroupId": {
+    "name": "Default",
+    "path": "texturegroups/Default",
+  },
+  "swatchColours": null,
+  "gridX": 0,
+  "gridY": 0,
+  "frames": [
+    {"compositeImage":{"FrameId":{"name":"163b6cd3-a2a6-4cf6-a387-46865ce24c14","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"163b6cd3-a2a6-4cf6-a387-46865ce24c14","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":{"name":"b23277c3-74f0-44f0-8739-c0d35cf86a0f","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"FaucetLogoS","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"163b6cd3-a2a6-4cf6-a387-46865ce24c14","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"5e4f4d3d-dfcf-4855-8bef-9db2a2b429d2","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"5e4f4d3d-dfcf-4855-8bef-9db2a2b429d2","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":{"name":"b23277c3-74f0-44f0-8739-c0d35cf86a0f","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"FaucetLogoS","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"5e4f4d3d-dfcf-4855-8bef-9db2a2b429d2","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"76edb550-9e99-4647-a1dd-d5026ff7e043","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"76edb550-9e99-4647-a1dd-d5026ff7e043","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":{"name":"b23277c3-74f0-44f0-8739-c0d35cf86a0f","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"FaucetLogoS","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"76edb550-9e99-4647-a1dd-d5026ff7e043","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"bdb14b25-ccb6-4bcf-b334-ebb3e639197f","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"bdb14b25-ccb6-4bcf-b334-ebb3e639197f","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":{"name":"b23277c3-74f0-44f0-8739-c0d35cf86a0f","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"FaucetLogoS","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"bdb14b25-ccb6-4bcf-b334-ebb3e639197f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"a2d4d738-eaa2-4e2f-bd82-3d18efbb3bbd","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"a2d4d738-eaa2-4e2f-bd82-3d18efbb3bbd","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":{"name":"b23277c3-74f0-44f0-8739-c0d35cf86a0f","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"FaucetLogoS","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"a2d4d738-eaa2-4e2f-bd82-3d18efbb3bbd","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"6e70bcda-bb4d-4a89-b0c2-f1bf479d6e15","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"6e70bcda-bb4d-4a89-b0c2-f1bf479d6e15","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":{"name":"b23277c3-74f0-44f0-8739-c0d35cf86a0f","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"FaucetLogoS","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"6e70bcda-bb4d-4a89-b0c2-f1bf479d6e15","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"c6ecb9a5-6648-4474-af48-e360883595b0","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"c6ecb9a5-6648-4474-af48-e360883595b0","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":{"name":"b23277c3-74f0-44f0-8739-c0d35cf86a0f","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"FaucetLogoS","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"c6ecb9a5-6648-4474-af48-e360883595b0","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"a67621de-44d5-4194-917f-61a1f6a15c4e","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"a67621de-44d5-4194-917f-61a1f6a15c4e","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":{"name":"b23277c3-74f0-44f0-8739-c0d35cf86a0f","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"FaucetLogoS","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"a67621de-44d5-4194-917f-61a1f6a15c4e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"b8eef9a1-caee-4f7c-b7ab-64b3be825cc2","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"b8eef9a1-caee-4f7c-b7ab-64b3be825cc2","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":{"name":"b23277c3-74f0-44f0-8739-c0d35cf86a0f","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"FaucetLogoS","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"b8eef9a1-caee-4f7c-b7ab-64b3be825cc2","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"799fe82b-830c-4b8e-ba04-d46bd41d618a","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"799fe82b-830c-4b8e-ba04-d46bd41d618a","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":{"name":"b23277c3-74f0-44f0-8739-c0d35cf86a0f","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"FaucetLogoS","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"799fe82b-830c-4b8e-ba04-d46bd41d618a","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"8bf610d0-d4af-4015-ac88-49a7a9c47d0d","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"8bf610d0-d4af-4015-ac88-49a7a9c47d0d","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":{"name":"b23277c3-74f0-44f0-8739-c0d35cf86a0f","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"FaucetLogoS","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"8bf610d0-d4af-4015-ac88-49a7a9c47d0d","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"42b978d6-9320-41e8-a3e4-225ce40f0f96","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"42b978d6-9320-41e8-a3e4-225ce40f0f96","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":{"name":"b23277c3-74f0-44f0-8739-c0d35cf86a0f","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"FaucetLogoS","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"42b978d6-9320-41e8-a3e4-225ce40f0f96","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"457067cb-cc5d-415c-a265-d969c9363ece","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"457067cb-cc5d-415c-a265-d969c9363ece","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":{"name":"b23277c3-74f0-44f0-8739-c0d35cf86a0f","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"FaucetLogoS","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"457067cb-cc5d-415c-a265-d969c9363ece","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"9e6e4769-1433-4a1b-a8a6-3a44c7cf4a58","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"9e6e4769-1433-4a1b-a8a6-3a44c7cf4a58","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":{"name":"b23277c3-74f0-44f0-8739-c0d35cf86a0f","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"FaucetLogoS","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"9e6e4769-1433-4a1b-a8a6-3a44c7cf4a58","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"5ddabd6a-7542-4108-875e-ede2ba09d238","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"5ddabd6a-7542-4108-875e-ede2ba09d238","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":{"name":"b23277c3-74f0-44f0-8739-c0d35cf86a0f","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"FaucetLogoS","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"5ddabd6a-7542-4108-875e-ede2ba09d238","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"82efa7e1-d1da-4b12-848b-9dd87595d364","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"82efa7e1-d1da-4b12-848b-9dd87595d364","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":{"name":"b23277c3-74f0-44f0-8739-c0d35cf86a0f","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"FaucetLogoS","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"82efa7e1-d1da-4b12-848b-9dd87595d364","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"b45466e5-e67e-4d6d-b2ae-ba015719e91e","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"b45466e5-e67e-4d6d-b2ae-ba015719e91e","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":{"name":"b23277c3-74f0-44f0-8739-c0d35cf86a0f","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"FaucetLogoS","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"b45466e5-e67e-4d6d-b2ae-ba015719e91e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"84a562d9-9c0c-480e-a6ba-af3eeb9f8621","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"84a562d9-9c0c-480e-a6ba-af3eeb9f8621","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":{"name":"b23277c3-74f0-44f0-8739-c0d35cf86a0f","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"FaucetLogoS","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"84a562d9-9c0c-480e-a6ba-af3eeb9f8621","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e59cf2c3-700b-49bd-adfa-8673fbf22ab3","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e59cf2c3-700b-49bd-adfa-8673fbf22ab3","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":{"name":"b23277c3-74f0-44f0-8739-c0d35cf86a0f","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"FaucetLogoS","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"e59cf2c3-700b-49bd-adfa-8673fbf22ab3","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f221095e-c7bc-4012-9a36-77eb6428c4c7","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f221095e-c7bc-4012-9a36-77eb6428c4c7","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":{"name":"b23277c3-74f0-44f0-8739-c0d35cf86a0f","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"FaucetLogoS","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"f221095e-c7bc-4012-9a36-77eb6428c4c7","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"69d8b077-658d-4245-b870-34c0c0e0c182","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"69d8b077-658d-4245-b870-34c0c0e0c182","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":{"name":"b23277c3-74f0-44f0-8739-c0d35cf86a0f","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"FaucetLogoS","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"69d8b077-658d-4245-b870-34c0c0e0c182","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"5d6eb926-24fb-42f3-8d54-ce8806ce8fde","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"5d6eb926-24fb-42f3-8d54-ce8806ce8fde","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"LayerId":{"name":"b23277c3-74f0-44f0-8739-c0d35cf86a0f","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"FaucetLogoS","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","name":"5d6eb926-24fb-42f3-8d54-ce8806ce8fde","tags":[],"resourceType":"GMSpriteFrame",},
+  ],
+  "sequence": {
+    "spriteId": {"name":"FaucetLogoS","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},
+    "timeUnits": 1,
+    "playback": 1,
+    "playbackSpeed": 1.0,
+    "playbackSpeedType": 1,
+    "autoRecord": true,
+    "volume": 1.0,
+    "length": 22.0,
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
+    "tracks": [
+      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"f4925e86-9d28-407f-9c64-b696d63a41aa","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"163b6cd3-a2a6-4cf6-a387-46865ce24c14","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"da997d99-52fc-41c0-afdc-2784414b5413","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5e4f4d3d-dfcf-4855-8bef-9db2a2b429d2","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"e3f41bd8-f0ce-466a-84ad-4d3b7ea65653","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"76edb550-9e99-4647-a1dd-d5026ff7e043","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"1b16434c-717a-4b4c-a451-d0ca916427b6","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"bdb14b25-ccb6-4bcf-b334-ebb3e639197f","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"88110050-4bae-42c5-acde-68ee38ada32c","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a2d4d738-eaa2-4e2f-bd82-3d18efbb3bbd","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"2261b6cc-6200-465b-af22-fc00911b2c6d","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6e70bcda-bb4d-4a89-b0c2-f1bf479d6e15","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"20e96bb9-f96d-42d2-a278-f0bbaeef0b56","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c6ecb9a5-6648-4474-af48-e360883595b0","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"40838260-0bc2-424b-80a7-d1c6064093ae","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a67621de-44d5-4194-917f-61a1f6a15c4e","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"435d8a1d-ff63-4bb6-b81b-ac263afd4dc5","Key":8.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b8eef9a1-caee-4f7c-b7ab-64b3be825cc2","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"2221c138-a53f-41bd-bff9-60a68c099608","Key":9.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"799fe82b-830c-4b8e-ba04-d46bd41d618a","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"2ca89afc-8d52-451f-9622-585b352e6fb5","Key":10.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8bf610d0-d4af-4015-ac88-49a7a9c47d0d","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"d84a8382-2e07-4a35-b8c8-30cfdfc5f5d9","Key":11.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"42b978d6-9320-41e8-a3e4-225ce40f0f96","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"6e758664-a498-4867-9e4a-a13f6aa992f7","Key":12.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"457067cb-cc5d-415c-a265-d969c9363ece","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"12500093-b17c-427c-b0e3-5c649dcd356f","Key":13.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9e6e4769-1433-4a1b-a8a6-3a44c7cf4a58","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"b0c08c6d-db98-47f6-8573-f5297b142f7a","Key":14.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5ddabd6a-7542-4108-875e-ede2ba09d238","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"417b2d4a-4631-4e93-b716-20c87b439f82","Key":15.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"82efa7e1-d1da-4b12-848b-9dd87595d364","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"a5abf31c-6f4c-4f4f-b26f-14c2cec9d394","Key":16.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b45466e5-e67e-4d6d-b2ae-ba015719e91e","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"0c8c476b-0727-496a-9cee-193f0f2a3af0","Key":17.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"84a562d9-9c0c-480e-a6ba-af3eeb9f8621","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"5daeb54d-801b-41b9-a059-59cd30c02fec","Key":18.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e59cf2c3-700b-49bd-adfa-8673fbf22ab3","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"08f70a39-d815-4478-8d20-f60d8b1d246a","Key":19.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f221095e-c7bc-4012-9a36-77eb6428c4c7","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"e480d530-7fb3-490a-b441-033865d46cdb","Key":20.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"69d8b077-658d-4245-b870-34c0c0e0c182","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"dec63ad9-40b7-4eb8-ba72-95d07dbdd763","Key":21.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5d6eb926-24fb-42f3-8d54-ce8806ce8fde","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+    ],
+    "visibleRange": {"x":0.0,"y":0.0,},
+    "lockOrigin": false,
+    "showBackdrop": true,
+    "showBackdropImage": false,
+    "backdropImagePath": "",
+    "backdropImageOpacity": 0.5,
+    "backdropWidth": 1920,
+    "backdropHeight": 1080,
+    "backdropXOffset": 0.0,
+    "backdropYOffset": 0.0,
+    "xorigin": 60,
+    "yorigin": 41,
+    "eventToFunction": {},
+    "eventStubScript": null,
+    "parent": {"name":"FaucetLogoS","path":"sprites/FaucetLogoS/FaucetLogoS.yy",},
+    "resourceVersion": "1.3",
+    "name": "",
+    "tags": [],
+    "resourceType": "GMSequence",
+  },
+  "layers": [
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b23277c3-74f0-44f0-8739-c0d35cf86a0f","tags":[],"resourceType":"GMImageLayer",},
+  ],
+  "nineSlice": null,
+  "parent": {
+    "name": "GameElements",
+    "path": "folders/Sprites/GameElements.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "FaucetLogoS",
+  "tags": [],
+  "resourceType": "GMSprite",
+}

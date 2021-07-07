@@ -1,0 +1,4 @@
+{
+    readyToShoot = true;
+}
+

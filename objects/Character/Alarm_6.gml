@@ -1,0 +1,2 @@
+canEat = true;
+

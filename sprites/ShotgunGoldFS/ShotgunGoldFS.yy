@@ -1,0 +1,171 @@
+{
+  "bboxMode": 0,
+  "collisionKind": 0,
+  "type": 0,
+  "origin": 9,
+  "preMultiplyAlpha": false,
+  "edgeFiltering": false,
+  "collisionTolerance": 0,
+  "swfPrecision": 2.525,
+  "bbox_left": 8,
+  "bbox_right": 47,
+  "bbox_top": 22,
+  "bbox_bottom": 31,
+  "HTile": false,
+  "VTile": false,
+  "For3D": false,
+  "width": 60,
+  "height": 50,
+  "textureGroupId": {
+    "name": "Default",
+    "path": "texturegroups/Default",
+  },
+  "swatchColours": null,
+  "gridX": 0,
+  "gridY": 0,
+  "frames": [
+    {"compositeImage":{"FrameId":{"name":"9f60179e-6d87-407e-a4ed-a78b5d2b9b9e","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"9f60179e-6d87-407e-a4ed-a78b5d2b9b9e","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":{"name":"2ebfc8c1-d6df-460d-af76-1c4eab7e9f56","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"ShotgunGoldFS","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"9f60179e-6d87-407e-a4ed-a78b5d2b9b9e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d2b878b6-95ee-496e-b603-f66369b69ac5","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d2b878b6-95ee-496e-b603-f66369b69ac5","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":{"name":"2ebfc8c1-d6df-460d-af76-1c4eab7e9f56","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"ShotgunGoldFS","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"d2b878b6-95ee-496e-b603-f66369b69ac5","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"ebafd172-77e7-4415-8dab-40b82084563d","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"ebafd172-77e7-4415-8dab-40b82084563d","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":{"name":"2ebfc8c1-d6df-460d-af76-1c4eab7e9f56","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"ShotgunGoldFS","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"ebafd172-77e7-4415-8dab-40b82084563d","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"5486993b-9604-46fd-977f-f937f89ddb9a","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"5486993b-9604-46fd-977f-f937f89ddb9a","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":{"name":"2ebfc8c1-d6df-460d-af76-1c4eab7e9f56","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"ShotgunGoldFS","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"5486993b-9604-46fd-977f-f937f89ddb9a","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"3880b85d-67b0-4565-9f9f-d8fe15bbec00","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"3880b85d-67b0-4565-9f9f-d8fe15bbec00","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":{"name":"2ebfc8c1-d6df-460d-af76-1c4eab7e9f56","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"ShotgunGoldFS","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"3880b85d-67b0-4565-9f9f-d8fe15bbec00","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"b97e4993-e4d3-4b49-aadd-a0daa93295bf","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"b97e4993-e4d3-4b49-aadd-a0daa93295bf","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":{"name":"2ebfc8c1-d6df-460d-af76-1c4eab7e9f56","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"ShotgunGoldFS","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"b97e4993-e4d3-4b49-aadd-a0daa93295bf","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d20413cc-310b-4a62-9618-4c16ded09400","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d20413cc-310b-4a62-9618-4c16ded09400","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":{"name":"2ebfc8c1-d6df-460d-af76-1c4eab7e9f56","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"ShotgunGoldFS","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"d20413cc-310b-4a62-9618-4c16ded09400","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"9d98fc2c-502a-4445-b942-5fd711db2419","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"9d98fc2c-502a-4445-b942-5fd711db2419","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":{"name":"2ebfc8c1-d6df-460d-af76-1c4eab7e9f56","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"ShotgunGoldFS","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"9d98fc2c-502a-4445-b942-5fd711db2419","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f51b4bc7-1ce1-4be0-be33-9a936de0cec2","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f51b4bc7-1ce1-4be0-be33-9a936de0cec2","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":{"name":"2ebfc8c1-d6df-460d-af76-1c4eab7e9f56","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"ShotgunGoldFS","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"f51b4bc7-1ce1-4be0-be33-9a936de0cec2","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"476dda4e-daee-4541-b0e0-51691e6b3c65","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"476dda4e-daee-4541-b0e0-51691e6b3c65","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":{"name":"2ebfc8c1-d6df-460d-af76-1c4eab7e9f56","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"ShotgunGoldFS","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"476dda4e-daee-4541-b0e0-51691e6b3c65","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"3cb0a72e-ad6c-4335-b481-5ea59baba4bc","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"3cb0a72e-ad6c-4335-b481-5ea59baba4bc","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":{"name":"2ebfc8c1-d6df-460d-af76-1c4eab7e9f56","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"ShotgunGoldFS","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"3cb0a72e-ad6c-4335-b481-5ea59baba4bc","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"66d0b1ea-84be-409c-aa05-288cf01a5fd9","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"66d0b1ea-84be-409c-aa05-288cf01a5fd9","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":{"name":"2ebfc8c1-d6df-460d-af76-1c4eab7e9f56","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"ShotgunGoldFS","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"66d0b1ea-84be-409c-aa05-288cf01a5fd9","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e37cc706-a7f3-4620-b386-cd45e20008ee","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e37cc706-a7f3-4620-b386-cd45e20008ee","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":{"name":"2ebfc8c1-d6df-460d-af76-1c4eab7e9f56","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"ShotgunGoldFS","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"e37cc706-a7f3-4620-b386-cd45e20008ee","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"5e39a67e-b23c-401b-953e-d1390cfa5de3","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"5e39a67e-b23c-401b-953e-d1390cfa5de3","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":{"name":"2ebfc8c1-d6df-460d-af76-1c4eab7e9f56","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"ShotgunGoldFS","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"5e39a67e-b23c-401b-953e-d1390cfa5de3","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"55d79574-cd22-4198-9f5a-2b18aecf71ac","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"55d79574-cd22-4198-9f5a-2b18aecf71ac","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":{"name":"2ebfc8c1-d6df-460d-af76-1c4eab7e9f56","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"ShotgunGoldFS","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"55d79574-cd22-4198-9f5a-2b18aecf71ac","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"5ae02a5f-7cfe-4cdc-bb1b-3f90d093fa9a","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"5ae02a5f-7cfe-4cdc-bb1b-3f90d093fa9a","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":{"name":"2ebfc8c1-d6df-460d-af76-1c4eab7e9f56","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"ShotgunGoldFS","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"5ae02a5f-7cfe-4cdc-bb1b-3f90d093fa9a","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f115712a-2307-4d40-ab2a-c2bf9f127473","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f115712a-2307-4d40-ab2a-c2bf9f127473","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":{"name":"2ebfc8c1-d6df-460d-af76-1c4eab7e9f56","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"ShotgunGoldFS","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"f115712a-2307-4d40-ab2a-c2bf9f127473","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"1c348df9-03f5-4b09-8450-5ceb07f81fa3","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"1c348df9-03f5-4b09-8450-5ceb07f81fa3","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":{"name":"2ebfc8c1-d6df-460d-af76-1c4eab7e9f56","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"ShotgunGoldFS","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"1c348df9-03f5-4b09-8450-5ceb07f81fa3","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"0ed4367f-b520-4f60-8c1a-f29c28516df3","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"0ed4367f-b520-4f60-8c1a-f29c28516df3","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":{"name":"2ebfc8c1-d6df-460d-af76-1c4eab7e9f56","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"ShotgunGoldFS","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"0ed4367f-b520-4f60-8c1a-f29c28516df3","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"71c91382-1fd5-4a49-9bab-743bb1a37f52","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"71c91382-1fd5-4a49-9bab-743bb1a37f52","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":{"name":"2ebfc8c1-d6df-460d-af76-1c4eab7e9f56","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"ShotgunGoldFS","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"71c91382-1fd5-4a49-9bab-743bb1a37f52","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"9dcec3d3-2960-4550-b926-37d181918354","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"9dcec3d3-2960-4550-b926-37d181918354","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":{"name":"2ebfc8c1-d6df-460d-af76-1c4eab7e9f56","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"ShotgunGoldFS","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"9dcec3d3-2960-4550-b926-37d181918354","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"1311b12b-e1fd-4dcc-a791-b7b7f2fcee57","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"1311b12b-e1fd-4dcc-a791-b7b7f2fcee57","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":{"name":"2ebfc8c1-d6df-460d-af76-1c4eab7e9f56","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"ShotgunGoldFS","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"1311b12b-e1fd-4dcc-a791-b7b7f2fcee57","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"2f26b148-b116-452c-97eb-68fd335c9e57","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"2f26b148-b116-452c-97eb-68fd335c9e57","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":{"name":"2ebfc8c1-d6df-460d-af76-1c4eab7e9f56","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"ShotgunGoldFS","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"2f26b148-b116-452c-97eb-68fd335c9e57","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e441dbc6-5c59-4966-81db-468b6085b395","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e441dbc6-5c59-4966-81db-468b6085b395","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"LayerId":{"name":"2ebfc8c1-d6df-460d-af76-1c4eab7e9f56","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"ShotgunGoldFS","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","name":"e441dbc6-5c59-4966-81db-468b6085b395","tags":[],"resourceType":"GMSpriteFrame",},
+  ],
+  "sequence": {
+    "spriteId": {"name":"ShotgunGoldFS","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},
+    "timeUnits": 1,
+    "playback": 1,
+    "playbackSpeed": 1.0,
+    "playbackSpeedType": 1,
+    "autoRecord": true,
+    "volume": 1.0,
+    "length": 24.0,
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
+    "tracks": [
+      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"2e9c8223-87e4-45ec-9a8b-69eb5dcedf4b","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9f60179e-6d87-407e-a4ed-a78b5d2b9b9e","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"ac070e64-c45a-430f-bd1f-d5149ac76526","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d2b878b6-95ee-496e-b603-f66369b69ac5","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"11383bb1-aef4-4ade-9416-a846a284dc29","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ebafd172-77e7-4415-8dab-40b82084563d","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"0fc57336-dff8-4fab-8343-78e3b8a9300d","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5486993b-9604-46fd-977f-f937f89ddb9a","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"097f89a8-5eea-4b26-82c9-77004176d2e8","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3880b85d-67b0-4565-9f9f-d8fe15bbec00","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"a1973c46-e0e4-41bc-b38d-60c850c9c229","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b97e4993-e4d3-4b49-aadd-a0daa93295bf","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"1c1aa1ce-5d2b-4986-b110-3569370fc79f","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d20413cc-310b-4a62-9618-4c16ded09400","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"b008079e-a927-4d93-98a0-156bd55746a4","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9d98fc2c-502a-4445-b942-5fd711db2419","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"c58d9a5d-8441-4ff2-b3ee-6e1f86395d88","Key":8.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f51b4bc7-1ce1-4be0-be33-9a936de0cec2","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"b1626495-1320-43eb-b9df-315f21302d1f","Key":9.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"476dda4e-daee-4541-b0e0-51691e6b3c65","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"ccb91fdf-694d-4352-ad73-8df6c8d37933","Key":10.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3cb0a72e-ad6c-4335-b481-5ea59baba4bc","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"daa8b52a-3e10-47af-b7f5-d889ff201023","Key":11.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"66d0b1ea-84be-409c-aa05-288cf01a5fd9","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"a7ae13ad-168d-49d8-910a-1d7d5746cfba","Key":12.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e37cc706-a7f3-4620-b386-cd45e20008ee","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"0bcc31fc-400e-4db7-9dd6-ec5ef2298650","Key":13.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5e39a67e-b23c-401b-953e-d1390cfa5de3","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"bcb5d40c-35fb-43a5-8d84-e852083dce4b","Key":14.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"55d79574-cd22-4198-9f5a-2b18aecf71ac","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"90796fbd-f9d5-4a24-be98-6a64be14db5b","Key":15.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5ae02a5f-7cfe-4cdc-bb1b-3f90d093fa9a","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"ff1cf4d2-a518-496b-b11f-d2241e6e2e88","Key":16.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f115712a-2307-4d40-ab2a-c2bf9f127473","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"17b084c2-f039-40f4-bb7d-d8e9cbf68984","Key":17.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1c348df9-03f5-4b09-8450-5ceb07f81fa3","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"1d632e80-8a50-4b6e-ac7a-48491c303983","Key":18.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0ed4367f-b520-4f60-8c1a-f29c28516df3","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"0442efbd-49da-4047-a642-003f8d9fe038","Key":19.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"71c91382-1fd5-4a49-9bab-743bb1a37f52","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"36e79ef9-f4a2-493d-8a7e-84178d8f4d2c","Key":20.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9dcec3d3-2960-4550-b926-37d181918354","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"6588fdbe-7dbf-496e-8e1d-c03114a602b1","Key":21.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1311b12b-e1fd-4dcc-a791-b7b7f2fcee57","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"aaee591e-96c8-46ba-88e7-36873ab3e2a1","Key":22.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2f26b148-b116-452c-97eb-68fd335c9e57","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"d95d6560-e234-4d91-9ed1-728270616a14","Key":23.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e441dbc6-5c59-4966-81db-468b6085b395","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+    ],
+    "visibleRange": {"x":0.0,"y":0.0,},
+    "lockOrigin": false,
+    "showBackdrop": true,
+    "showBackdropImage": false,
+    "backdropImagePath": "",
+    "backdropImageOpacity": 0.5,
+    "backdropWidth": 1920,
+    "backdropHeight": 1080,
+    "backdropXOffset": 0.0,
+    "backdropYOffset": 0.0,
+    "xorigin": 20,
+    "yorigin": 23,
+    "eventToFunction": {},
+    "eventStubScript": null,
+    "parent": {"name":"ShotgunGoldFS","path":"sprites/ShotgunGoldFS/ShotgunGoldFS.yy",},
+    "resourceVersion": "1.3",
+    "name": "",
+    "tags": [],
+    "resourceType": "GMSequence",
+  },
+  "layers": [
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"2ebfc8c1-d6df-460d-af76-1c4eab7e9f56","tags":[],"resourceType":"GMImageLayer",},
+  ],
+  "nineSlice": null,
+  "parent": {
+    "name": "Firing",
+    "path": "folders/Sprites/Alternative Sprites/2012 Haxxy Rewards/Weapons/Firing.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "ShotgunGoldFS",
+  "tags": [],
+  "resourceType": "GMSprite",
+}

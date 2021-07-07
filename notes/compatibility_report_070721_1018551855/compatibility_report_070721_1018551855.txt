@@ -1,0 +1,2615 @@
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Converting GML script: ${project_dir}\scripts\game_init\game_init.gml
+Converted string - line 323: "\Maps" -> "\\Maps"
+Converted string - line 323: "\Maps" -> "\\Maps"
+Converted string - line 364: "\Plugins" -> "\\Plugins"
+Converted string - line 364: "\Plugins" -> "\\Plugins"
+Converted string - line 371: "\SOFTWARE\Microsoft\Windows NT\CurrentVersion\" -> "\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\"
+Converted string - line 372: "\SOFTWARE\Microsoft\Windows NT\CurrentVersion\" -> "\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\"
+Converted string - line 375: "\SOFTWARE\Microsoft\Windows NT\CurrentVersion\" -> "\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\"
+
+Converting GML script: ${project_dir}\scripts\value_to_string\value_to_string.gml
+Converted string - line 10: '"' -> "\""
+Converted string - line 10: '"' -> "\""
+
+Converting GML script: ${project_dir}\scripts\test_assert_equals\test_assert_equals.gml
+Error: variable 'message' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\scripts\test_assert_map_key_value\test_assert_map_key_value.gml
+Error: variable 'message' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\scripts\test_ggon\test_ggon.gml
+Converted string - line 8: '_.+-2717281982abcdfoobar' -> "_.+-2717281982abcdfoobar"
+Converted string - line 9: '_.+-2717281982abcdfoobar' -> "_.+-2717281982abcdfoobar"
+Converted string - line 12: "'foobar\n\r\t\0blah'" -> "'foobar\\n\\r\\t\\0blah'"
+Converted string - line 59: 'items' -> "items"
+Converted string - line 61: 'length' -> "length"
+Converted string - line 61: '2' -> "2"
+Converted string - line 63: '0' -> "0"
+Converted string - line 65: 'type' -> "type"
+Converted string - line 65: 'foo' -> "foo"
+Converted string - line 66: 'x' -> "x"
+Converted string - line 66: '12.0' -> "12.0"
+Converted string - line 67: 'y' -> "y"
+Converted string - line 67: '13.5' -> "13.5"
+Converted string - line 68: '1' -> "1"
+Converted string - line 70: 'type' -> "type"
+Converted string - line 70: 'bar' -> "bar"
+Converted string - line 71: 'x' -> "x"
+Converted string - line 71: '12.0' -> "12.0"
+Converted string - line 72: 'y' -> "y"
+Converted string - line 72: '13.5' -> "13.5"
+Converted string - line 74: 'sub items' -> "sub items"
+Converted string - line 76: 'length' -> "length"
+Converted string - line 76: '0' -> "0"
+Converted string - line 106: '{' -> "{"
+Converted string - line 115: '{' -> "{"
+Converted string - line 124: '{' -> "{"
+
+Converting GML script: ${project_dir}\scripts\ClientInputstate\ClientInputstate.gml
+Converted builtin - line 7: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 7: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 8: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 7: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 8: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\scripts\ServerMessageString\ServerMessageString.gml
+Error: variable 'message' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\scripts\calculateVolume\calculateVolume.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 4: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\scripts\calculatePan\calculatePan.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\scripts\ClientCreate\ClientCreate.gml
+Converted string - line 11: 'skippedPlugins' -> "skippedPlugins"
+
+Converting GML script: ${project_dir}\scripts\ClientBeginStep\ClientBeginStep.gml
+Error: variable 'message' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+Converted string - line 49: "\" -> "\\"
+Converted string - line 67: ',' -> ","
+Converted string - line 71: '' -> ""
+Converted string - line 75: '@' -> "@"
+Converted string - line 76: '- ' -> "- "
+Converted string - line 76: '#' -> "#"
+Converted string - line 87: 'You need these plugins to play on this server: #' -> "You need these plugins to play on this server: #"
+Converted string - line 90: '#Do you want to download them and join the server?' -> "#Do you want to download them and join the server?"
+Converted string - line 91: 'Download and join' -> "Download and join"
+Converted string - line 92: '' -> ""
+Converted string - line 93: 'Disconnect' -> "Disconnect"
+Converted string - line 104: 'These optional plugins are suggested for this server: #' -> "These optional plugins are suggested for this server: #"
+Converted string - line 107: '#Do you want to download them?' -> "#Do you want to download them?"
+Converted string - line 108: 'Download' -> "Download"
+Converted string - line 109: '' -> ""
+Converted string - line 110: 'Skip' -> "Skip"
+Converted string - line 486: "\" -> "\\"
+
+Converting GML script: ${project_dir}\scripts\GameServerCreate\GameServerCreate.gml
+Converted string - line 98: 'arena_' -> "arena_"
+Converted string - line 103: 'arena_' -> "arena_"
+Converted string - line 130: 'failure' -> "failure"
+Converted string - line 154: '' -> ""
+
+Converting GML script: ${project_dir}\scripts\acceptJoiningPlayer\acceptJoiningPlayer.gml
+Converted string - line 9: '127.0.0.1' -> "127.0.0.1"
+Converted string - line 9: '::1' -> "::1"
+
+Converting GML script: ${project_dir}\scripts\doEventPlayerDeath\doEventPlayerDeath.gml
+Converted builtin - line 109: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 301: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 110: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 302: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 111: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 112: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted string - line 117: 'Tombstone_' -> "Tombstone_"
+Converted string - line 133: 'PumpkinGibs' -> "PumpkinGibs"
+Converted string - line 169: 'PumpkinGibs' -> "PumpkinGibs"
+Converted string - line 175: 'PumpkinGibs' -> "PumpkinGibs"
+Converted string - line 238: 'GS' -> "GS"
+Converted string - line 283: 'Ghost' -> "Ghost"
+
+Converting GML script: ${project_dir}\scripts\compareServersByCompatAndPing\compareServersByCompatAndPing.gml
+Converted description /// @description  Compare two Server objects by compatibility and ping
+
+Converting GML script: ${project_dir}\scripts\checkClasslimits\checkClasslimits.gml
+Converted description /// @description  Select and return an acceptable new class for a player, based on the classlimits.
+
+Converting GML script: ${project_dir}\scripts\md5_bin\md5_bin.gml
+Error: variable 'variable_global_exists' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\scripts\initRewards\initRewards.gml
+Converted string - line 60: 'Badge_Trn1Orng' -> "Badge_Trn1Orng"
+Converted string - line 61: 'Badge_Trn1Gold' -> "Badge_Trn1Gold"
+Converted string - line 62: 'Badge_Trn2Orng' -> "Badge_Trn2Orng"
+Converted string - line 63: 'Badge_Trn2Gold' -> "Badge_Trn2Gold"
+Converted string - line 64: 'Badge_Trn3Orng' -> "Badge_Trn3Orng"
+Converted string - line 65: 'Badge_Trn3Gold' -> "Badge_Trn3Gold"
+Converted string - line 66: 'Badge_RayBannDark' -> "Badge_RayBannDark"
+Converted string - line 67: 'Badge_RayBannLight' -> "Badge_RayBannLight"
+Converted string - line 68: 'Badge_CommunityGld' -> "Badge_CommunityGld"
+Converted string - line 69: 'Badge_CommunityGrn' -> "Badge_CommunityGrn"
+Converted string - line 70: 'Badge_Dev' -> "Badge_Dev"
+Converted string - line 71: 'Badge_Admn' -> "Badge_Admn"
+Converted string - line 72: 'Badge_Haxxy' -> "Badge_Haxxy"
+Converted string - line 73: 'Badge_RunnerRbn' -> "Badge_RunnerRbn"
+Converted string - line 74: 'Badge_FirebugRbn' -> "Badge_FirebugRbn"
+Converted string - line 75: 'Badge_RocketmanRbn' -> "Badge_RocketmanRbn"
+Converted string - line 76: 'Badge_OverweightRbn' -> "Badge_OverweightRbn"
+Converted string - line 77: 'Badge_DetonatorRbn' -> "Badge_DetonatorRbn"
+Converted string - line 78: 'Badge_HealerRbn' -> "Badge_HealerRbn"
+Converted string - line 79: 'Badge_ConstructorRbn' -> "Badge_ConstructorRbn"
+Converted string - line 80: 'Badge_InfiltratorRbn' -> "Badge_InfiltratorRbn"
+Converted string - line 81: 'Badge_RiflemanRbn' -> "Badge_RiflemanRbn"
+Converted string - line 82: 'Badge_Runner' -> "Badge_Runner"
+Converted string - line 83: 'Badge_Firebug' -> "Badge_Firebug"
+Converted string - line 84: 'Badge_Rocketman' -> "Badge_Rocketman"
+Converted string - line 85: 'Badge_Overweight' -> "Badge_Overweight"
+Converted string - line 86: 'Badge_Detonator' -> "Badge_Detonator"
+Converted string - line 87: 'Badge_Healer' -> "Badge_Healer"
+Converted string - line 88: 'Badge_Constructor' -> "Badge_Constructor"
+Converted string - line 89: 'Badge_Infiltrator' -> "Badge_Infiltrator"
+Converted string - line 90: 'Badge_Rifleman' -> "Badge_Rifleman"
+Converted string - line 91: 'Badge_Moneybag' -> "Badge_Moneybag"
+Converted string - line 92: 'Badge_ChessWhite' -> "Badge_ChessWhite"
+Converted string - line 93: 'Badge_ChessBlack' -> "Badge_ChessBlack"
+Converted string - line 94: 'Badge_B-BallBlitz' -> "Badge_B-BallBlitz"
+Converted string - line 95: 'Badge_Elton-Jump-athon' -> "Badge_Elton-Jump-athon"
+Converted string - line 96: 'Badge_2spooky4u' -> "Badge_2spooky4u"
+Converted string - line 97: 'Badge_Rebel-ution' -> "Badge_Rebel-ution"
+Converted string - line 98: 'Badge_GloryDays' -> "Badge_GloryDays"
+Converted string - line 99: 'Badge_DynamicDuo' -> "Badge_DynamicDuo"
+Converted string - line 100: 'Badge_ArmyOfOne' -> "Badge_ArmyOfOne"
+Converted string - line 101: 'Badge_ThreeMajor' -> "Badge_ThreeMajor"
+Converted string - line 102: 'Badge_ThreeMinor' -> "Badge_ThreeMinor"
+Converted string - line 103: 'Badge_ThreeCTF' -> "Badge_ThreeCTF"
+Converted string - line 104: 'Badge_ThreeEtc' -> "Badge_ThreeEtc"
+Converted string - line 105: 'Badge_ThreeKoTH' -> "Badge_ThreeKoTH"
+Converted string - line 106: 'Badge_BBall2015' -> "Badge_BBall2015"
+Converted string - line 107: 'Badge_Elton2015' -> "Badge_Elton2015"
+Converted string - line 108: 'Badge_InevitableOne2015' -> "Badge_InevitableOne2015"
+Converted string - line 109: 'Badge_Warpacks2015' -> "Badge_Warpacks2015"
+Converted string - line 110: 'Badge_BannsLawsOfRobotics' -> "Badge_BannsLawsOfRobotics"
+
+Converting GML script: ${project_dir}\scripts\parseRewards\parseRewards.gml
+Converted string - line 12: ':' -> ":"
+
+Converting GML script: ${project_dir}\scripts\unparseRewards\unparseRewards.gml
+Converted string - line 8: '' -> ""
+Converted string - line 13: ':' -> ":"
+
+Converting GML script: ${project_dir}\scripts\loadplugins\loadplugins.gml
+Converted string - line 6: "\Plugins\" -> "\\Plugins\\"
+Converted string - line 22: "\last_plugin.log" -> "\\last_plugin.log"
+Converted string - line 38: "\last_plugin.log" -> "\\last_plugin.log"
+
+Converting GML script: ${project_dir}\scripts\getpluginhashes\getpluginhashes.gml
+Converted string - line 8: '' -> ""
+Converted string - line 11: ',' -> ","
+Converted string - line 26: 'Error loading server-sent plugins - invalid plugin name:#"' -> "Error loading server-sent plugins - invalid plugin name:#\""
+Converted string - line 26: '"' -> "\""
+Converted string - line 27: 'failure' -> "failure"
+Converted string - line 32: 'Error loading server-sent plugins - duplicate plugin:#"' -> "Error loading server-sent plugins - duplicate plugin:#\""
+Converted string - line 32: '"' -> "\""
+Converted string - line 33: 'failure' -> "failure"
+Converted string - line 43: "\ServerPluginsDebug\" -> "\\ServerPluginsDebug\\"
+Converted string - line 46: "\ServerPluginsDebug\" -> "\\ServerPluginsDebug\\"
+Converted string - line 66: 'Error loading server-sent plugins - getting hash failed for "' -> "Error loading server-sent plugins - getting hash failed for \""
+Converted string - line 66: '":#404 Not Found - This most likely means there is no plugin with that name. Are you sure you spelled it correctly? Please note that plugin names are always lowercase, and you cannot have spaces between the commas in ServerPluginList.' -> "\":#404 Not Found - This most likely means there is no plugin with that name. Are you sure you spelled it correctly? Please note that plugin names are always lowercase, and you cannot have spaces between the commas in ServerPluginList."
+Converted string - line 68: 'Error loading server-sent plugins - getting hash failed for "' -> "Error loading server-sent plugins - getting hash failed for \""
+Converted string - line 68: '":#' -> "\":#"
+Converted string - line 68: ' ' -> " "
+Converted string - line 81: ',' -> ","
+Converted string - line 83: '@' -> "@"
+Converted string - line 91: 'failure' -> "failure"
+
+Converting GML script: ${project_dir}\scripts\loadserverplugins\loadserverplugins.gml
+Converted builtin - line 110: background_index[0] -> __background_get( e__BG.Index, 0 )
+Converted builtin - line 110: background_xscale[0] -> __background_get( e__BG.XScale, 0 )
+Converted builtin - line 110: background_yscale[0] -> __background_get( e__BG.YScale, 0 )
+Converted string - line 14: ',' -> ","
+Converted string - line 34: 'Error loading server-sent plugins - invalid plugin name:#"' -> "Error loading server-sent plugins - invalid plugin name:#\""
+Converted string - line 34: '"' -> "\""
+Converted string - line 40: 'Error loading server-sent plugins - duplicate plugin:#"' -> "Error loading server-sent plugins - duplicate plugin:#\""
+Converted string - line 40: '"' -> "\""
+Converted string - line 50: "\ServerPluginsDebug\" -> "\\ServerPluginsDebug\\"
+Converted string - line 51: "\ServerPluginsCache\" -> "\\ServerPluginsCache\\"
+Converted string - line 52: "\" -> "\\"
+Converted string - line 53: "\" -> "\\"
+Converted string - line 58: "\ServerPluginsDebug\" -> "\\ServerPluginsDebug\\"
+Converted string - line 80: "\ServerPluginsCache\" -> "\\ServerPluginsCache\\"
+Converted string - line 115: ' - "' -> " - \""
+Converted string - line 115: '"' -> "\""
+Converted string - line 126: 'Error loading server-sent plugins - download failed for "' -> "Error loading server-sent plugins - download failed for \""
+Converted string - line 126: '":#' -> "\":#"
+Converted string - line 126: ' ' -> " "
+Converted string - line 135: 'Error loading server-sent plugins - download failed for "' -> "Error loading server-sent plugins - download failed for \""
+Converted string - line 135: '":# No such file?' -> "\":# No such file?"
+Converted string - line 148: 'Error loading server-sent plugins - integrity check failed (MD5 hash mismatch) for:#"' -> "Error loading server-sent plugins - integrity check failed (MD5 hash mismatch) for:#\""
+Converted string - line 148: '"' -> "\""
+Converted string - line 157: "\ServerPluginsCache\" -> "\\ServerPluginsCache\\"
+Converted string - line 160: "\ServerPluginsCache" -> "\\ServerPluginsCache"
+Converted string - line 162: "\ServerPluginsCache" -> "\\ServerPluginsCache"
+Converted string - line 165: "\ServerPluginsCache\" -> "\\ServerPluginsCache\\"
+Converted string - line 175: 'Error loading server-sent plugins - extracting zip failed for:#"' -> "Error loading server-sent plugins - extracting zip failed for:#\""
+Converted string - line 175: '"' -> "\""
+Converted string - line 187: "\" -> "\\"
+Converted string - line 190: "\last_plugin.log" -> "\\last_plugin.log"
+Converted string - line 213: "\plugin.gml" -> "\\plugin.gml"
+Converted string - line 222: "\last_plugin.log" -> "\\last_plugin.log"
+
+Converting GML script: ${project_dir}\scripts\extractzip\extractzip.gml
+Converted string - line 5: "\7za.exe" -> "\\7za.exe"
+Converted string - line 5: 'x "' -> "x \""
+Converted string - line 5: '" -o"' -> "\" -o\""
+Converted string - line 5: '" -aoa' -> "\" -aoa"
+
+Converting GML script: ${project_dir}\scripts\CustomMapProcessLevelData\CustomMapProcessLevelData.gml
+Converted builtin - line 18: background_xscale[1] = 6 -> __background_set( e__BG.XScale, 1, 6 )
+Converted builtin - line 19: background_yscale[1] = 6 -> __background_set( e__BG.YScale, 1, 6 )
+
+Converting GML script: ${project_dir}\scripts\CustomMapCreateEntitiesFromEntityData\CustomMapCreateEntitiesFromEntityData.gml
+Converted builtin - line 106: background_xscale[7] = 6 -> __background_set( e__BG.XScale, 7, 6 )
+Converted builtin - line 113: background_xscale[7] = 6 -> __background_set( e__BG.XScale, 7, 6 )
+Converted builtin - line 107: background_yscale[7] = 6 -> __background_set( e__BG.YScale, 7, 6 )
+Converted builtin - line 114: background_yscale[7] = 6 -> __background_set( e__BG.YScale, 7, 6 )
+
+Converting GML script: ${project_dir}\scripts\CustomMapInit\CustomMapInit.gml
+Converted string - line 8: "\custommap_walkmask.png" -> "\\custommap_walkmask.png"
+
+Converting GML script: ${project_dir}\scripts\map_width\map_width.gml
+Converted builtin - line 6: background_width[7] -> __background_get( e__BG.Width, 7 )
+Converted builtin - line 6: background_xscale[7] -> __background_get( e__BG.XScale, 7 )
+
+Converting GML script: ${project_dir}\scripts\map_height\map_height.gml
+Converted builtin - line 6: background_height[7] -> __background_get( e__BG.Height, 7 )
+Converted builtin - line 6: background_yscale[7] -> __background_get( e__BG.YScale, 7 )
+
+Converting GML script: ${project_dir}\scripts\builder_init\builder_init.gml
+Converted string - line 12: '
+    var map;
+    map = get_open_filename("PNG|*.png","");
+    if (map == "") break;
+    
+    with(LevelEntity) instance_destroy();
+    unloadResources();
+    ds_map_clear(Builder.metadata);
+    ds_map_add(Builder.metadata, "type", "meta");
+    ds_map_add(Builder.metadata, "background", "ffffff");
+    
+    CustomMapInit(map)
+    Builder.mapBG = map;  
+    Builder.mapWM = " ";
+    Builder.wmString = compressWalkmask();
+    loadMetadata(Builder.metadata, true);
+' -> "
+    var map;
+    map = get_open_filename("+"\""+@"PNG|*.png"+"\""+@","+"\""+@""+"\""+@");
+    if (map == "+"\""+@""+"\""+@") break;
+    
+    with(LevelEntity) instance_destroy();
+    unloadResources();
+    ds_map_clear(Builder.metadata);
+    ds_map_add(Builder.metadata, "+"\""+@"type"+"\""+@", "+"\""+@"meta"+"\""+@");
+    ds_map_add(Builder.metadata, "+"\""+@"background"+"\""+@", "+"\""+@"ffffff"+"\""+@");
+    
+    CustomMapInit(map)
+    Builder.mapBG = map;  
+    Builder.mapWM = "+"\""+@" "+"\""+@";
+    Builder.wmString = compressWalkmask();
+    loadMetadata(Builder.metadata, true);
+"
+Converted string - line 29: '
+    var bg;
+    bg = get_open_filename("PNG|*.png","");
+    if(bg == "") break;
+    Builder.mapBG = bg;
+    background_replace(BuilderBGB, bg, false, false);
+    background_xscale[7] = 6;
+    background_yscale[7] = 6;
+' -> "
+    var bg;
+    bg = get_open_filename("+"\""+@"PNG|*.png"+"\""+@","+"\""+@""+"\""+@");
+    if(bg == "+"\""+@""+"\""+@") break;
+    Builder.mapBG = bg;
+    background_replace(BuilderBGB, bg, false, false);
+    background_xscale[7] = 6;
+    background_yscale[7] = 6;
+"
+Converted string - line 38: '
+    var wm;
+    wm = get_open_filename("Walkmask Image (PNG or BMP)|*.png; *.bmp","");
+    if(wm == "") break;
+    Builder.mapWM = wm;
+    background_replace(BuilderWMB, wm, true, false);
+    Builder.wmString = compressWalkmask();
+' -> "
+    var wm;
+    wm = get_open_filename("+"\""+@"Walkmask Image (PNG or BMP)|*.png; *.bmp"+"\""+@","+"\""+@""+"\""+@");
+    if(wm == "+"\""+@""+"\""+@") break;
+    Builder.mapWM = wm;
+    background_replace(BuilderWMB, wm, true, false);
+    Builder.wmString = compressWalkmask();
+"
+Converted string - line 46: 'background_visible[7] = argument0;' -> "background_visible[7] = argument0;"
+Converted string - line 47: 'Builder.showWM = argument0;' -> "Builder.showWM = argument0;"
+Converted string - line 48: 'Builder.showGrid = argument0;' -> "Builder.showGrid = argument0;"
+Converted string - line 49: 'ParallaxController.visible = argument0;' -> "ParallaxController.visible = argument0;"
+Converted string - line 50: '
+    if (Builder.mapWM == "") show_message("Select a walkmask first.");
+    else if (Builder.mapBG == "") show_message("Select a background first");
+    else if (validateMap(log2(gamemode))) {    
+        var leveldata;
+        leveldata = compressEntities() + chr(10) + Builder.wmString;
+        GG2DLL_embed_PNG_leveldata(Builder.mapBG, leveldata);
+        
+        // Place a copy in the maps folder
+        if (file_exists("Maps\ggb2_tmp_map.png")) file_delete("Maps\ggb2_tmp_map.png");
+        file_copy(Builder.mapBG, "Maps\ggb2_tmp_map.png");
+        
+        switch(show_message_ext("Compilation completed. The map is saved to " + string(Builder.mapBG) + ".", "Ok", "Test separately", "Test here")) {
+            case 2:             
+                startGG2("-map ggb2_tmp_map");
+            break;       
+            case 3:
+                Builder.selected = -1;
+                Builder.visible = false;
+                global.launchMap = "ggb2_tmp_map";
+                global.isHost = true;
+                global.gameServer = instance_create(0,0,GameServer); 
+            break; 
+        }
+    }
+' -> "
+    if (Builder.mapWM == "+"\""+@""+"\""+@") show_message("+"\""+@"Select a walkmask first."+"\""+@");
+    else if (Builder.mapBG == "+"\""+@""+"\""+@") show_message("+"\""+@"Select a background first"+"\""+@");
+    else if (validateMap(log2(gamemode))) {    
+        var leveldata;
+        leveldata = compressEntities() + chr(10) + Builder.wmString;
+        GG2DLL_embed_PNG_leveldata(Builder.mapBG, leveldata);
+        
+        // Place a copy in the maps folder
+        if (file_exists("+"\""+@"Maps\ggb2_tmp_map.png"+"\""+@")) file_delete("+"\""+@"Maps\ggb2_tmp_map.png"+"\""+@");
+        file_copy(Builder.mapBG, "+"\""+@"Maps\ggb2_tmp_map.png"+"\""+@");
+        
+        switch(show_message_ext("+"\""+@"Compilation completed. The map is saved to "+"\""+@" + string(Builder.mapBG) + "+"\""+@"."+"\""+@", "+"\""+@"Ok"+"\""+@", "+"\""+@"Test separately"+"\""+@", "+"\""+@"Test here"+"\""+@")) {
+            case 2:             
+                startGG2("+"\""+@"-map ggb2_tmp_map"+"\""+@");
+            break;       
+            case 3:
+                Builder.selected = -1;
+                Builder.visible = false;
+                global.launchMap = "+"\""+@"ggb2_tmp_map"+"\""+@";
+                global.isHost = true;
+                global.gameServer = instance_create(0,0,GameServer); 
+            break; 
+        }
+    }
+"
+Converted string - line 76: '
+    if (Builder.mapWM == "") show_message("Select a walkmask first.");
+    else if (Builder.mapBG == "") show_message("Select a background first");
+    else if (validateMap(log2(gamemode))) {
+        // Save to a temporary file
+        if (file_exists("Maps\ggb2_tmp_map.png")) file_delete("Maps\ggb2_tmp_map.png");
+        file_copy(Builder.mapBG, "Maps\ggb2_tmp_map.png");
+        
+        var leveldata;
+        leveldata = compressEntities() + chr(10) + Builder.wmString;
+        GG2DLL_embed_PNG_leveldata("Maps/ggb2_tmp_map.png", leveldata);               
+        
+        switch(show_message_ext("Where do you want to playtest?", "Test separately", "Test here", "Cancel")) {
+            case 1:             
+                startGG2("-map ggb2_tmp_map");
+            break;       
+            case 2:
+                Builder.selected = -1;
+                Builder.visible = false;
+                global.launchMap = "ggb2_tmp_map";
+                global.isHost = true;
+                global.gameServer = instance_create(0,0,GameServer); 
+            break; 
+        }          
+    }
+' -> "
+    if (Builder.mapWM == "+"\""+@""+"\""+@") show_message("+"\""+@"Select a walkmask first."+"\""+@");
+    else if (Builder.mapBG == "+"\""+@""+"\""+@") show_message("+"\""+@"Select a background first"+"\""+@");
+    else if (validateMap(log2(gamemode))) {
+        // Save to a temporary file
+        if (file_exists("+"\""+@"Maps\ggb2_tmp_map.png"+"\""+@")) file_delete("+"\""+@"Maps\ggb2_tmp_map.png"+"\""+@");
+        file_copy(Builder.mapBG, "+"\""+@"Maps\ggb2_tmp_map.png"+"\""+@");
+        
+        var leveldata;
+        leveldata = compressEntities() + chr(10) + Builder.wmString;
+        GG2DLL_embed_PNG_leveldata("+"\""+@"Maps/ggb2_tmp_map.png"+"\""+@", leveldata);               
+        
+        switch(show_message_ext("+"\""+@"Where do you want to playtest?"+"\""+@", "+"\""+@"Test separately"+"\""+@", "+"\""+@"Test here"+"\""+@", "+"\""+@"Cancel"+"\""+@")) {
+            case 1:             
+                startGG2("+"\""+@"-map ggb2_tmp_map"+"\""+@");
+            break;       
+            case 2:
+                Builder.selected = -1;
+                Builder.visible = false;
+                global.launchMap = "+"\""+@"ggb2_tmp_map"+"\""+@";
+                global.isHost = true;
+                global.gameServer = instance_create(0,0,GameServer); 
+            break; 
+        }          
+    }
+"
+Converted string - line 102: '
+    Builder.symmetry = argument0;
+    return argument0;
+' -> "
+    Builder.symmetry = argument0;
+    return argument0;
+"
+Converted string - line 106: '
+    Builder.scale = argument0;
+    return argument0;
+' -> "
+    Builder.scale = argument0;
+    return argument0;
+"
+Converted string - line 110: '
+    Builder.moveSpeed = 32 + 32*argument0;
+    return argument0;
+' -> "
+    Builder.moveSpeed = 32 + 32*argument0;
+    return argument0;
+"
+Converted string - line 114: '
+    showPropertyMenu(Builder.metadata, Builder.metadata, true);
+    loadMetadata(Builder.metadata, true);   // Reload
+' -> "
+    showPropertyMenu(Builder.metadata, Builder.metadata, true);
+    loadMetadata(Builder.metadata, true);   // Reload
+"
+Converted string - line 118: '
+    var prop;
+    prop = get_string("Resource name:", "");
+    if (prop != "")
+    {
+        resource = get_open_filename("Resource (PNG, GIF)|*.png;*.gif;","");
+        if (resource == "")
+            break;
+        ds_map_add(Builder.metadata, prop, resourceToString(resource));
+        loadMetadata(Builder.metadata, true);
+    }
+' -> "
+    var prop;
+    prop = get_string("+"\""+@"Resource name:"+"\""+@", "+"\""+@""+"\""+@");
+    if (prop != "+"\""+@""+"\""+@")
+    {
+        resource = get_open_filename("+"\""+@"Resource (PNG, GIF)|*.png;*.gif;"+"\""+@","+"\""+@""+"\""+@");
+        if (resource == "+"\""+@""+"\""+@")
+            break;
+        ds_map_add(Builder.metadata, prop, resourceToString(resource));
+        loadMetadata(Builder.metadata, true);
+    }
+"
+Converted string - line 131: '
+    if (Builder.mapBG == "")
+        show_message("Load a map first");
+    else
+    {
+        if (!directory_exists(working_directory + "/Maps/Decompiled"))
+            directory_create(working_directory + "/Maps/Decompiled");
+        
+        // Walkmask
+        if (file_exists(temp_directory+"\custommap_walkmask.png"))
+            file_copy(temp_directory+"\custommap_walkmask.png", working_directory + "/Maps/Decompiled/walkmask.png");    
+       
+        // External sprites     
+        var resource;
+        for(resource=ds_map_find_first(Builder.metadata); is_string(resource); resource = ds_map_find_next(Builder.metadata, resource))
+        {   
+            var bg;
+            if (string_copy(resource,1, 3) == "bg_")
+                bg = true;
+            else
+                bg = false;
+                
+            stringToResource(ds_map_find_value(Builder.metadata, resource), bg, working_directory + "/Maps/Decompiled/" + resource);
+        }  
+        show_message("The map has been decompiled to " + working_directory + "/Maps/Decompiled/ .");
+    }
+' -> "
+    if (Builder.mapBG == "+"\""+@""+"\""+@")
+        show_message("+"\""+@"Load a map first"+"\""+@");
+    else
+    {
+        if (!directory_exists(working_directory + "+"\""+@"/Maps/Decompiled"+"\""+@"))
+            directory_create(working_directory + "+"\""+@"/Maps/Decompiled"+"\""+@");
+        
+        // Walkmask
+        if (file_exists(temp_directory+"+"\""+@"\custommap_walkmask.png"+"\""+@"))
+            file_copy(temp_directory+"+"\""+@"\custommap_walkmask.png"+"\""+@", working_directory + "+"\""+@"/Maps/Decompiled/walkmask.png"+"\""+@");    
+       
+        // External sprites     
+        var resource;
+        for(resource=ds_map_find_first(Builder.metadata); is_string(resource); resource = ds_map_find_next(Builder.metadata, resource))
+        {   
+            var bg;
+            if (string_copy(resource,1, 3) == "+"\""+@"bg_"+"\""+@")
+                bg = true;
+            else
+                bg = false;
+                
+            stringToResource(ds_map_find_value(Builder.metadata, resource), bg, working_directory + "+"\""+@"/Maps/Decompiled/"+"\""+@" + resource);
+        }  
+        show_message("+"\""+@"The map has been decompiled to "+"\""+@" + working_directory + "+"\""+@"/Maps/Decompiled/ ."+"\""+@");
+    }
+"
+Converted string - line 158: '
+    unloadResources();
+    ds_map_clear(Builder.metadata);
+    loadEntities();
+' -> "
+    unloadResources();
+    ds_map_clear(Builder.metadata);
+    loadEntities();
+"
+Converted string - line 163: 'saveEntities();' -> "saveEntities();"
+Converted string - line 164: '
+    if (show_question("Are you sure you want to scrap your entities?")) {
+        unloadResources();
+        ds_map_clear(Builder.metadata);
+        ds_map_add(Builder.metadata, "type", "meta");
+        ds_map_add(Builder.metadata, "background", "ffffff");
+        ds_map_add(Builder.metadata, "void", "000000");
+        with (LevelEntity) instance_destroy();
+    }
+' -> "
+    if (show_question("+"\""+@"Are you sure you want to scrap your entities?"+"\""+@")) {
+        unloadResources();
+        ds_map_clear(Builder.metadata);
+        ds_map_add(Builder.metadata, "+"\""+@"type"+"\""+@", "+"\""+@"meta"+"\""+@");
+        ds_map_add(Builder.metadata, "+"\""+@"background"+"\""+@", "+"\""+@"ffffff"+"\""+@");
+        ds_map_add(Builder.metadata, "+"\""+@"void"+"\""+@", "+"\""+@"000000"+"\""+@");
+        with (LevelEntity) instance_destroy();
+    }
+"
+Converted string - line 178: '
+    var redCount, blueCount;
+    redCount = 0;
+    blueCount = 0;
+    with(LevelEntity) {
+        if (type == "redintel") redCount += 1;
+        else if (type == "blueintel") blueCount += 1;
+    }
+    if (redCount != 1 || blueCount != 1) return false;
+    return true;
+' -> "
+    var redCount, blueCount;
+    redCount = 0;
+    blueCount = 0;
+    with(LevelEntity) {
+        if (type == "+"\""+@"redintel"+"\""+@") redCount += 1;
+        else if (type == "+"\""+@"blueintel"+"\""+@") blueCount += 1;
+    }
+    if (redCount != 1 || blueCount != 1) return false;
+    return true;
+"
+Converted string - line 189: '
+    var controlpoints, zones;
+    controlpoints = 0;
+    zones = 0;
+    with(LevelEntity) {
+        if (type == "controlPoint1" || type == "controlPoint2" || type == "controlPoint3" || type == "controlPoint4" || type == "controlPoint5") controlpoints += 1;
+        else if (type == "CapturePoint") zones += 1;
+    }
+    if (controlpoints == 0 || controlpoints > 5 || zones == 0) return false;
+    return true;
+' -> "
+    var controlpoints, zones;
+    controlpoints = 0;
+    zones = 0;
+    with(LevelEntity) {
+        if (type == "+"\""+@"controlPoint1"+"\""+@" || type == "+"\""+@"controlPoint2"+"\""+@" || type == "+"\""+@"controlPoint3"+"\""+@" || type == "+"\""+@"controlPoint4"+"\""+@" || type == "+"\""+@"controlPoint5"+"\""+@") controlpoints += 1;
+        else if (type == "+"\""+@"CapturePoint"+"\""+@") zones += 1;
+    }
+    if (controlpoints == 0 || controlpoints > 5 || zones == 0) return false;
+    return true;
+"
+Converted string - line 200: '
+    var controlpoints, zones, gates;
+    controlpoints = 0;
+    zones = 0;
+    gates = 0;
+    with(LevelEntity) {
+        if (type == "controlPoint1" || type == "controlPoint2" || type == "controlPoint3" || type == "controlPoint4" || type == "controlPoint5") controlpoints += 1;
+        else if (type == "CapturePoint") zones += 1;
+        else if (type == "SetupGate") gates += 1;
+    }
+    if (controlpoints == 0 || controlpoints >= 5 || zones == 0 || gates == 0) return false;
+    return true;
+' -> "
+    var controlpoints, zones, gates;
+    controlpoints = 0;
+    zones = 0;
+    gates = 0;
+    with(LevelEntity) {
+        if (type == "+"\""+@"controlPoint1"+"\""+@" || type == "+"\""+@"controlPoint2"+"\""+@" || type == "+"\""+@"controlPoint3"+"\""+@" || type == "+"\""+@"controlPoint4"+"\""+@" || type == "+"\""+@"controlPoint5"+"\""+@") controlpoints += 1;
+        else if (type == "+"\""+@"CapturePoint"+"\""+@") zones += 1;
+        else if (type == "+"\""+@"SetupGate"+"\""+@") gates += 1;
+    }
+    if (controlpoints == 0 || controlpoints >= 5 || zones == 0 || gates == 0) return false;
+    return true;
+"
+Converted string - line 213: '
+    var controlpoints, zones;
+    controlpoints = 0;
+    zones = 0;
+    with(LevelEntity) {
+        if (type == "KothControlPoint") controlpoints += 1;
+        else if (type == "CapturePoint") zones += 1;
+    }
+    if (controlpoints != 1 || zones == 0) return false;
+    return true;
+' -> "
+    var controlpoints, zones;
+    controlpoints = 0;
+    zones = 0;
+    with(LevelEntity) {
+        if (type == "+"\""+@"KothControlPoint"+"\""+@") controlpoints += 1;
+        else if (type == "+"\""+@"CapturePoint"+"\""+@") zones += 1;
+    }
+    if (controlpoints != 1 || zones == 0) return false;
+    return true;
+"
+Converted string - line 224: '
+    var redcontrolpoints, bluecontrolpoints, zones;
+    redcontrolpoints = 0;
+    bluecontrolpoints = 0;
+    zones = 0;
+    with(LevelEntity) {
+        if (type == "KothRedControlPoint") redcontrolpoints += 1;
+        else if (type == "KothBlueControlPoint") bluecontrolpoints += 1;
+        else if (type == "CapturePoint") zones += 1;
+    }
+    if (redcontrolpoints != 1 || bluecontrolpoints != 1 || zones == 0) return false;
+    return true;
+' -> "
+    var redcontrolpoints, bluecontrolpoints, zones;
+    redcontrolpoints = 0;
+    bluecontrolpoints = 0;
+    zones = 0;
+    with(LevelEntity) {
+        if (type == "+"\""+@"KothRedControlPoint"+"\""+@") redcontrolpoints += 1;
+        else if (type == "+"\""+@"KothBlueControlPoint"+"\""+@") bluecontrolpoints += 1;
+        else if (type == "+"\""+@"CapturePoint"+"\""+@") zones += 1;
+    }
+    if (redcontrolpoints != 1 || bluecontrolpoints != 1 || zones == 0) return false;
+    return true;
+"
+Converted string - line 237: '
+    var controlpoints, zones;
+    controlpoints = 0;
+    zones = 0;
+    with(LevelEntity) {
+        if (type == "ArenaControlPoint") controlpoints += 1;
+        else if (type == "CapturePoint") zones += 1;
+    }
+    if (controlpoints != 1 || zones == 0) return false;
+    return true;
+' -> "
+    var controlpoints, zones;
+    controlpoints = 0;
+    zones = 0;
+    with(LevelEntity) {
+        if (type == "+"\""+@"ArenaControlPoint"+"\""+@") controlpoints += 1;
+        else if (type == "+"\""+@"CapturePoint"+"\""+@") zones += 1;
+    }
+    if (controlpoints != 1 || zones == 0) return false;
+    return true;
+"
+Converted string - line 248: '
+    var redgen, bluegen;
+    redgen = 0;
+    bluegen = 0;
+    with(LevelEntity) {
+        if (type == "GeneratorRed") redgen += 1;
+        else if (type == "GeneratorBlue") bluegen += 1;
+    }
+    if (redgen != 1 || bluegen != 1) return false;
+    return true;
+' -> "
+    var redgen, bluegen;
+    redgen = 0;
+    bluegen = 0;
+    with(LevelEntity) {
+        if (type == "+"\""+@"GeneratorRed"+"\""+@") redgen += 1;
+        else if (type == "+"\""+@"GeneratorBlue"+"\""+@") bluegen += 1;
+    }
+    if (redgen != 1 || bluegen != 1) return false;
+    return true;
+"
+Converted string - line 263: "Red forward spawn \#1" -> "Red forward spawn \\#1"
+Converted string - line 264: "Red forward spawn \#2" -> "Red forward spawn \\#2"
+Converted string - line 265: "Red forward spawn \#3" -> "Red forward spawn \\#3"
+Converted string - line 266: "Red forward spawn \#4" -> "Red forward spawn \\#4"
+Converted string - line 268: "Blue forward spawn \#1" -> "Blue forward spawn \\#1"
+Converted string - line 269: "Blue forward spawn \#2" -> "Blue forward spawn \\#2"
+Converted string - line 270: "Blue forward spawn \#3" -> "Blue forward spawn \\#3"
+Converted string - line 271: "Blue forward spawn \#4" -> "Blue forward spawn \\#4"
+Converted string - line 294: "Control point \#1" -> "Control point \\#1"
+Converted string - line 295: "Control point \#2" -> "Control point \\#2"
+Converted string - line 296: "Control point \#3" -> "Control point \\#3"
+Converted string - line 297: "Control point \#4" -> "Control point \\#4"
+Converted string - line 298: "Control point \#5" -> "Control point \\#5"
+
+Converting GML script: ${project_dir}\scripts\showPropertyMenu\showPropertyMenu.gml
+ERROR: C:\Users\Valerio\AppData\Local\GameMakerStudio2\GMS2TEMP\conv\gmx\Gang Garrison 2 on GMS2_4B365CA7\scripts\showPropertyMenu\showPropertyMenu.gml - 10: unexpected syntax error
+ERROR: C:\Users\Valerio\AppData\Local\GameMakerStudio2\GMS2TEMP\conv\gmx\Gang Garrison 2 on GMS2_4B365CA7\scripts\showPropertyMenu\showPropertyMenu.gml - 10: unexpected terminal operator new
+ERROR: C:\Users\Valerio\AppData\Local\GameMakerStudio2\GMS2TEMP\conv\gmx\Gang Garrison 2 on GMS2_4B365CA7\scripts\showPropertyMenu\showPropertyMenu.gml - 17: unexpected syntax error
+ERROR: C:\Users\Valerio\AppData\Local\GameMakerStudio2\GMS2TEMP\conv\gmx\Gang Garrison 2 on GMS2_4B365CA7\scripts\showPropertyMenu\showPropertyMenu.gml - 17: malformed variable reference got new
+ERROR: C:\Users\Valerio\AppData\Local\GameMakerStudio2\GMS2TEMP\conv\gmx\Gang Garrison 2 on GMS2_4B365CA7\scripts\showPropertyMenu\showPropertyMenu.gml - 17: unexpected terminal operator new
+ERROR: C:\Users\Valerio\AppData\Local\GameMakerStudio2\GMS2TEMP\conv\gmx\Gang Garrison 2 on GMS2_4B365CA7\scripts\showPropertyMenu\showPropertyMenu.gml - 65: unexpected syntax error
+ERROR: C:\Users\Valerio\AppData\Local\GameMakerStudio2\GMS2TEMP\conv\gmx\Gang Garrison 2 on GMS2_4B365CA7\scripts\showPropertyMenu\showPropertyMenu.gml - 65: malformed variable reference got new
+ERROR: C:\Users\Valerio\AppData\Local\GameMakerStudio2\GMS2TEMP\conv\gmx\Gang Garrison 2 on GMS2_4B365CA7\scripts\showPropertyMenu\showPropertyMenu.gml - 65: unexpected terminal operator new
+ERROR: C:\Users\Valerio\AppData\Local\GameMakerStudio2\GMS2TEMP\conv\gmx\Gang Garrison 2 on GMS2_4B365CA7\scripts\showPropertyMenu\showPropertyMenu.gml - 67: unexpected syntax error
+Too many errors - GML not processed : ${project_dir}\scripts\showPropertyMenu\showPropertyMenu.gml
+
+Converting GML script: ${project_dir}\scripts\stringToResource\stringToResource.gml
+Converted string - line 21: "\TmpResource." -> "\\TmpResource."
+
+Converting GML script: ${project_dir}\scripts\loadMetadata\loadMetadata.gml
+Converted builtin - line 59: background_visible[i] = true -> __background_set( e__BG.Visible, i, true )
+Converted builtin - line 63: background_visible[i] = false -> __background_set( e__BG.Visible, i, false )
+Converted builtin - line 55: background_index[i] = ds_map_find_value(global.resources, "bg_layer" + string(i)) -> __background_set( e__BG.Index, i, ds_map_find_value(global.resources, "bg_layer" + string(i)) )
+Converted builtin - line 58: background_htiled[i] = true -> __background_set( e__BG.HTiled, i, true )
+Converted builtin - line 56: background_xscale[7] -> __background_get( e__BG.XScale, 7 )
+Converted builtin - line 29: background_xscale[7] = scale -> __background_set( e__BG.XScale, 7, scale )
+Converted builtin - line 57: background_yscale[7] -> __background_get( e__BG.YScale, 7 )
+Converted builtin - line 30: background_yscale[7] = scale -> __background_set( e__BG.YScale, 7, scale )
+Converted builtin - line 14: background_color = make_color_rgb((background&$ff0000)>>16, (background&$00ff00)>>8, background&$0000ff) -> __background_set_colour( make_color_rgb((background&$ff0000)>>16, (background&$00ff00)>>8, background&$0000ff) )
+Converted builtin - line 56: background_xscale[i] = __background_get( e__BG.XScale, 7 ) -> __background_set( e__BG.XScale, i, __background_get( e__BG.XScale, 7 ) )
+Converted builtin - line 57: background_yscale[i] = __background_get( e__BG.YScale, 7 ) -> __background_set( e__BG.YScale, i, __background_get( e__BG.YScale, 7 ) )
+
+Converting GML script: ${project_dir}\scripts\basicRoomSetup\basicRoomSetup.gml
+Error: variable 'message' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\scripts\move_all_gore\move_all_gore.gml
+Converted builtin - line 96: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 96: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\scripts\move_all_bullets\move_all_bullets.gml
+Error: variable 'variable_global_exists' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\scripts\createGlobalDamageSource\createGlobalDamageSource.gml
+Error: variable 'variable_global_set' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\scripts\recordEventInLog\recordEventInLog.gml
+Error: variable 'message' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\scripts\setHeadPose\setHeadPose.gml
+Error: variable 'variable_global_exists' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\scripts\setGearOverlayInfo\setGearOverlayInfo.gml
+Error: variable 'variable_global_exists' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\scripts\offloadSpawnPoints\offloadSpawnPoints.gml
+Error: variable 'variable_global_exists' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\scripts\drawHealth\drawHealth.gml
+Converted builtin - line 7: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 9: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 10: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\scripts\drawProgressBar\drawProgressBar.gml
+Converted builtin - line 5: view_wport[0] -> __view_get( e__VW.WPort, 0 )
+Converted builtin - line 5: view_wport[0] -> __view_get( e__VW.WPort, 0 )
+Converted builtin - line 8: view_wport[0] -> __view_get( e__VW.WPort, 0 )
+Converted builtin - line 9: view_wport[0] -> __view_get( e__VW.WPort, 0 )
+Converted builtin - line 5: view_hport[0] -> __view_get( e__VW.HPort, 0 )
+Converted builtin - line 5: view_hport[0] -> __view_get( e__VW.HPort, 0 )
+Converted builtin - line 8: view_hport[0] -> __view_get( e__VW.HPort, 0 )
+Converted builtin - line 9: view_hport[0] -> __view_get( e__VW.HPort, 0 )
+
+Converting GML script: ${project_dir}\scripts\drawControlPointStatus\drawControlPointStatus.gml
+Converted builtin - line 9: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 10: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 11: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 12: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\scripts\__http_parse_url\__http_parse_url.gml
+Converted string - line 44: 'url' -> "url"
+Converted string - line 49: ':' -> ":"
+Converted string - line 53: 'scheme' -> "scheme"
+Converted string - line 58: '/' -> "/"
+Converted string - line 64: '/' -> "/"
+Converted string - line 69: ':' -> ":"
+Converted string - line 74: ':' -> ":"
+Converted string - line 82: 'host' -> "host"
+Converted string - line 88: 'host' -> "host"
+Converted string - line 98: 'host' -> "host"
+Converted string - line 99: 'port' -> "port"
+Converted string - line 105: 'host' -> "host"
+Converted string - line 107: '/' -> "/"
+Converted string - line 108: 'port' -> "port"
+Converted string - line 115: '?' -> "?"
+Converted string - line 119: 'abs_path' -> "abs_path"
+Converted string - line 124: 'abs_path' -> "abs_path"
+Converted string - line 125: 'query' -> "query"
+
+Converting GML script: ${project_dir}\scripts\__http_resolve_url\__http_resolve_url.gml
+Converted string - line 49: '' -> ""
+Converted string - line 59: '' -> ""
+Converted string - line 67: '//' -> "//"
+Converted string - line 69: 'scheme' -> "scheme"
+Converted string - line 69: ':' -> ":"
+Converted string - line 72: '/' -> "/"
+Converted string - line 72: '/' -> "/"
+Converted string - line 74: ':' -> ":"
+Converted string - line 78: '?' -> "?"
+Converted string - line 82: 'abs_path' -> "abs_path"
+Converted string - line 83: 'abs_path' -> "abs_path"
+Converted string - line 84: 'query' -> "query"
+Converted string - line 85: 'query' -> "query"
+Converted string - line 93: 'abs_path' -> "abs_path"
+Converted string - line 94: 'abs_path' -> "abs_path"
+Converted string - line 95: 'query' -> "query"
+Converted string - line 96: 'query' -> "query"
+Converted string - line 98: 'query' -> "query"
+
+Converting GML script: ${project_dir}\scripts\__http_resolve_path\__http_resolve_path.gml
+Converted string - line 34: '/' -> "/"
+Converted string - line 37: '' -> ""
+Converted string - line 41: '/' -> "/"
+Converted string - line 42: '/' -> "/"
+Converted string - line 44: '' -> ""
+Converted string - line 51: '' -> ""
+Converted string - line 71: '.' -> "."
+Converted string - line 74: '' -> ""
+Converted string - line 80: '..' -> ".."
+Converted string - line 90: '' -> ""
+Converted string - line 95: '' -> ""
+Converted string - line 105: '' -> ""
+Converted string - line 109: '/' -> "/"
+
+Converting GML script: ${project_dir}\scripts\__http_construct_url\__http_construct_url.gml
+Converted string - line 43: '' -> ""
+Converted string - line 45: 'scheme' -> "scheme"
+Converted string - line 46: '://' -> "://"
+Converted string - line 47: 'host' -> "host"
+Converted string - line 48: 'port' -> "port"
+Converted string - line 49: ':' -> ":"
+Converted string - line 49: 'port' -> "port"
+Converted string - line 50: 'abs_path' -> "abs_path"
+Converted string - line 52: 'abs_path' -> "abs_path"
+Converted string - line 53: 'query' -> "query"
+Converted string - line 54: '?' -> "?"
+Converted string - line 54: 'query' -> "query"
+
+Converting GML script: ${project_dir}\scripts\__http_prepare_request\__http_prepare_request.gml
+Error: variable 'method' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+Converted string - line 44: 'port' -> "port"
+Converted string - line 45: 'port' -> "port"
+Converted string - line 46: 'abs_path' -> "abs_path"
+Converted string - line 47: 'abs_path' -> "abs_path"
+Converted string - line 47: '/' -> "/"
+Converted string - line 55: 'host' -> "host"
+Converted string - line 55: 'port' -> "port"
+Converted string - line 58: '' -> ""
+Converted string - line 59: '' -> ""
+Converted string - line 62: '' -> ""
+Converted string - line 84: 'query' -> "query"
+Converted string - line 85: ' ' -> " "
+Converted string - line 85: 'abs_path' -> "abs_path"
+Converted string - line 85: '?' -> "?"
+Converted string - line 85: 'query' -> "query"
+Converted string - line 85: ' HTTP/1.1' -> " HTTP/1.1"
+Converted string - line 87: ' ' -> " "
+Converted string - line 87: 'abs_path' -> "abs_path"
+Converted string - line 87: ' HTTP/1.1' -> " HTTP/1.1"
+Converted string - line 93: 'port' -> "port"
+Converted string - line 94: 'Host: ' -> "Host: "
+Converted string - line 94: 'host' -> "host"
+Converted string - line 96: 'Host: ' -> "Host: "
+Converted string - line 96: 'host' -> "host"
+Converted string - line 97: ':' -> ":"
+Converted string - line 97: 'port' -> "port"
+Converted string - line 102: 'Connection: close' -> "Connection: close"
+Converted string - line 106: 'Accept-Encoding:' -> "Accept-Encoding:"
+Converted string - line 111: 'Content-Length: ' -> "Content-Length: "
+Converted string - line 112: 'Content-Type: ' -> "Content-Type: "
+Converted string - line 122: ': ' -> ": "
+
+Converting GML script: ${project_dir}\scripts\__http_parse_header\__http_parse_header.gml
+Converted string - line 30: ' ' -> " "
+Converted string - line 48: ':' -> ":"
+Converted string - line 62: ' ' -> " "
+Converted string - line 68: 'content-length' -> "content-length"
+
+Converting GML script: ${project_dir}\scripts\__http_client_step\__http_client_step.gml
+Converted string - line 72: ' ' -> " "
+Converted string - line 82: ' ' -> " "
+Converted string - line 96: '' -> ""
+Converted string - line 112: '' -> ""
+Converted string - line 125: 'transfer-encoding' -> "transfer-encoding"
+Converted string - line 127: 'transfer-encoding' -> "transfer-encoding"
+Converted string - line 127: 'chunked' -> "chunked"
+Converted string - line 141: '' -> ""
+Converted string - line 147: ';' -> ";"
+Converted string - line 154: ';' -> ";"
+Converted string - line 170: 'header of chunk in chunked transfer did not end in CRLF' -> "header of chunk in chunked transfer did not end in CRLF"
+Converted string - line 175: '' -> ""
+Converted string - line 178: 'empty chunk-size in a chunked transfer' -> "empty chunk-size in a chunked transfer"
+Converted string - line 187: 'chunk-size was not hexadecimal in a chunked transfer' -> "chunk-size was not hexadecimal in a chunked transfer"
+Converted string - line 195: 'chunk-size was greater than remaining data in a chunked transfer' -> "chunk-size was greater than remaining data in a chunked transfer"
+Converted string - line 206: 'chunk did not end in CRLF in a chunked transfer' -> "chunk did not end in CRLF in a chunked transfer"
+Converted string - line 213: 'did not find CR after reading chunk header in a chunked transfer, Faucet HTTP bug?' -> "did not find CR after reading chunk header in a chunked transfer, Faucet HTTP bug?"
+Converted string - line 219: 'trailer' -> "trailer"
+Converted string - line 227: '' -> ""
+Converted string - line 240: 'trailer header did not end in CRLF in a chunked transfer' -> "trailer header did not end in CRLF in a chunked transfer"
+Converted string - line 256: 'Unsupported Transfer-Encoding: "' -> "Unsupported Transfer-Encoding: \""
+Converted string - line 256: 'transfer-encoding' -> "transfer-encoding"
+Converted string - line 256: '"' -> "\""
+Converted string - line 272: 'location' -> "location"
+Converted string - line 275: 'location' -> "location"
+Converted string - line 278: '' -> ""
+Converted string - line 278: 'http://' -> "http://"
+Converted string - line 282: 'GET' -> "GET"
+
+Converting GML script: ${project_dir}\scripts\http_new_get\http_new_get.gml
+Error: variable 'variable_global_exists' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+Converted string - line 33: '__HttpClient' -> "__HttpClient"
+Converted string - line 37: 'GET' -> "GET"
+Converted string - line 37: '' -> ""
+
+Converting GML script: ${project_dir}\scripts\http_new_get_ex\http_new_get_ex.gml
+Error: variable 'variable_global_exists' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+Converted string - line 35: '__HttpClient' -> "__HttpClient"
+Converted string - line 39: 'GET' -> "GET"
+Converted string - line 39: '' -> ""
+
+Converting GML script: ${project_dir}\scripts\http_new_post\http_new_post.gml
+Error: variable 'variable_global_exists' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+Converted string - line 37: '__HttpClient' -> "__HttpClient"
+Converted string - line 41: 'POST' -> "POST"
+
+Converting GML script: ${project_dir}\scripts\http_new_post_ex\http_new_post_ex.gml
+Error: variable 'variable_global_exists' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+Converted string - line 39: '__HttpClient' -> "__HttpClient"
+Converted string - line 43: 'POST' -> "POST"
+
+Converting GML script: ${project_dir}\scripts\sanitiseNewlines\sanitiseNewlines.gml
+Converted string - line 10: "\#" -> "\\#"
+
+Converting GML script: ${project_dir}\scripts\stringIsReal\stringIsReal.gml
+Converted string - line 12: '+' -> "+"
+Converted string - line 12: '-' -> "-"
+Converted string - line 12: '.' -> "."
+Converted string - line 14: '.' -> "."
+
+Converting GML script: ${project_dir}\scripts\trim\trim.gml
+Converted string - line 6: ' ' -> " "
+Converted string - line 13: ' ' -> " "
+
+Converting GML script: ${project_dir}\scripts\takeScreenshot\takeScreenshot.gml
+Converted string - line 21: '<>:"/\|?*' -> "<>:\"/\\|?*"
+Converted string - line 25: '_' -> "_"
+
+Converting GML script: ${project_dir}\scripts\getRelativePathIfDescendant\getRelativePathIfDescendant.gml
+Converted string - line 9: "\" -> "\\"
+Converted string - line 10: "\" -> "\\"
+
+Converting GML script: ${project_dir}\scripts\ggon_encode\ggon_encode.gml
+Converted string - line 21: 'a' -> "a"
+Converted string - line 21: 'z' -> "z"
+Converted string - line 21: 'A' -> "A"
+Converted string - line 21: 'Z' -> "Z"
+Converted string - line 21: '0' -> "0"
+Converted string - line 21: '9' -> "9"
+Converted string - line 21: '_' -> "_"
+Converted string - line 21: '.' -> "."
+Converted string - line 21: '+' -> "+"
+Converted string - line 21: '-' -> "-"
+Converted string - line 44: "\" -> "\\"
+Converted string - line 45: '\' -> "\\"
+Converted string - line 48: '\n' -> "\\n"
+Converted string - line 50: '\r' -> "\\r"
+Converted string - line 52: '\t' -> "\\t"
+Converted string - line 54: '\0' -> "\\0"
+Converted string - line 72: '0' -> "0"
+Converted string - line 72: '9' -> "9"
+Converted string - line 109: ',' -> ","
+Converted string - line 129: ',' -> ","
+Converted string - line 132: ':' -> ":"
+
+Converting GML script: ${project_dir}\scripts\ggon_tokenise\ggon_tokenise.gml
+Converted string - line 22: '{' -> "{"
+Converted string - line 23: '}' -> "}"
+Converted string - line 24: ':' -> ":"
+Converted string - line 25: '[' -> "["
+Converted string - line 26: ']' -> "]"
+Converted string - line 27: ',' -> ","
+Converted string - line 32: ' ' -> " "
+Converted string - line 40: 'a' -> "a"
+Converted string - line 40: 'z' -> "z"
+Converted string - line 40: 'A' -> "A"
+Converted string - line 40: 'Z' -> "Z"
+Converted string - line 40: '0' -> "0"
+Converted string - line 40: '9' -> "9"
+Converted string - line 40: '_' -> "_"
+Converted string - line 40: '.' -> "."
+Converted string - line 40: '+' -> "+"
+Converted string - line 40: '-' -> "-"
+Converted string - line 43: '' -> ""
+Converted string - line 44: 'a' -> "a"
+Converted string - line 44: 'z' -> "z"
+Converted string - line 44: 'A' -> "A"
+Converted string - line 44: 'Z' -> "Z"
+Converted string - line 44: '0' -> "0"
+Converted string - line 44: '9' -> "9"
+Converted string - line 44: '_' -> "_"
+Converted string - line 44: '.' -> "."
+Converted string - line 44: '+' -> "+"
+Converted string - line 44: '-' -> "-"
+Converted string - line 47: 'Error when tokenising GGON: unexpected end of text while parsing string' -> "Error when tokenising GGON: unexpected end of text while parsing string"
+Converted string - line 52: '%' -> "%"
+Converted string - line 60: '' -> ""
+Converted string - line 66: 'Error when tokenising GGON: unexpected end of text while parsing string' -> "Error when tokenising GGON: unexpected end of text while parsing string"
+Converted string - line 68: '\' -> "\\"
+Converted string - line 72: '\' -> "\\"
+Converted string - line 75: 'n' -> "n"
+Converted string - line 78: 'r' -> "r"
+Converted string - line 81: 't' -> "t"
+Converted string - line 84: '0' -> "0"
+Converted string - line 87: 'Error when tokenising GGON: unknown escape sequence "\' -> "Error when tokenising GGON: unknown escape sequence \"\\"
+Converted string - line 87: '"' -> "\""
+Converted string - line 97: 'Error when tokenising GGON: unexpected character "' -> "Error when tokenising GGON: unexpected character \""
+Converted string - line 97: '" while parsing string, expected "' -> "\" while parsing string, expected \""
+Converted string - line 97: '"' -> "\""
+Converted string - line 101: '%' -> "%"
+Converted string - line 105: 'Error when tokenising GGON: unexpected character "' -> "Error when tokenising GGON: unexpected character \""
+Converted string - line 105: '"' -> "\""
+
+Converting GML script: ${project_dir}\scripts\ggon_parse_tokens\ggon_parse_tokens.gml
+Converted string - line 14: '%' -> "%"
+Converted string - line 18: '{' -> "{"
+Converted string - line 18: '[' -> "["
+Converted string - line 19: 'Error when parsing GGON: unexpected token "' -> "Error when parsing GGON: unexpected token \""
+Converted string - line 19: '"' -> "\""
+Converted string - line 26: '{' -> "{"
+Converted string - line 29: '}' -> "}"
+Converted string - line 37: '%' -> "%"
+Converted string - line 50: ':' -> ":"
+Converted string - line 51: 'Error when parsing GGON: unexpected token "' -> "Error when parsing GGON: unexpected token \""
+Converted string - line 51: '" after key' -> "\" after key"
+Converted string - line 62: ',' -> ","
+Converted string - line 64: '}' -> "}"
+Converted string - line 67: 'Error when parsing GGON: unexpected token "' -> "Error when parsing GGON: unexpected token \""
+Converted string - line 67: '" after value' -> "\" after value"
+Converted string - line 71: 'Error when parsing GGON: unexpected token "' -> "Error when parsing GGON: unexpected token \""
+Converted string - line 71: '"' -> "\""
+Converted string - line 78: ']' -> "]"
+Converted string - line 104: ',' -> ","
+Converted string - line 106: ']' -> "]"
+Converted string - line 112: 'Error when parsing GGON: unexpected token "' -> "Error when parsing GGON: unexpected token \""
+Converted string - line 112: '" after value' -> "\" after value"
+
+Converting GML script: ${project_dir}\scripts\ggon_map_to_list\ggon_map_to_list.gml
+Converted string - line 12: 'length' -> "length"
+
+Converting GML script: ${project_dir}\objects\MenuController\Step_0.gml
+Converted builtin - line 60: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 61: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 95: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 95: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 97: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 61: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 63: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 94: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 94: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 18: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 19: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\MenuController\Draw_0.gml
+Converted builtin - line 30: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 30: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 37: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 55: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 75: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 96: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 188: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 30: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 30: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 38: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 52: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 78: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 96: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 188: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 30: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 6: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 18: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 19: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 30: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\MainMenuController\Create_0.gml
+Error: variable 'variable_global_exists' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+Converted string - line 7: 'event_user(0);' -> "event_user(0);"
+Converted string - line 8: '
+        room_goto_fix(Lobby);
+    ' -> "
+        room_goto_fix(Lobby);
+    "
+Converted string - line 11: '
+        global.isHost = false;
+        global.serverIP = get_string("Please enter the IP address or hostname of the server you want to join", "127.0.0.1");
+        global.serverPort = get_integer("Please enter the port of the server you want to join", 8190);
+        instance_create(0,0,Client);
+        Client.returnRoom = Menu;
+    ' -> "
+        global.isHost = false;
+        global.serverIP = get_string("+"\""+@"Please enter the IP address or hostname of the server you want to join"+"\""+@", "+"\""+@"127.0.0.1"+"\""+@");
+        global.serverPort = get_integer("+"\""+@"Please enter the port of the server you want to join"+"\""+@", 8190);
+        instance_create(0,0,Client);
+        Client.returnRoom = Menu;
+    "
+Converted string - line 18: '
+        room_goto_fix(BuilderOptions);
+    ' -> "
+        room_goto_fix(BuilderOptions);
+    "
+Converted string - line 21: '
+        room_goto_fix(Options);
+    ' -> "
+        room_goto_fix(Options);
+    "
+Converted string - line 24: '' -> ""
+Converted string - line 26: '
+            splash_set_main(false);
+            splash_set_interrupt(false);
+            splash_show_web("http://www.ganggarrison.com/forums/rewards/frame.php?gg2_login=yes&reward_id=" + global.rewardId + "&reward_key=" + hex(global.rewardKey), 0);
+        ' -> "
+            splash_set_main(false);
+            splash_set_interrupt(false);
+            splash_show_web("+"\""+@"http://www.ganggarrison.com/forums/rewards/frame.php?gg2_login=yes&reward_id="+"\""+@" + global.rewardId + "+"\""+@"&reward_key="+"\""+@" + hex(global.rewardKey), 0);
+        "
+Converted string - line 32: '
+        room_goto_fix(Credits);
+    ' -> "
+        room_goto_fix(Credits);
+    "
+Converted string - line 35: '
+        action_splash_web("http://www.ganggarrison.com/forums/index.php", 1)
+    ' -> "
+        action_splash_web("+"\""+@"http://www.ganggarrison.com/forums/index.php"+"\""+@", 1)
+    "
+Converted string - line 38: '
+        game_end();
+    ' -> "
+        game_end();
+    "
+
+Converting GML script: ${project_dir}\objects\DevMessageChecker\Create_0.gml
+Error: variable 'variable_global_exists' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\BackgroundDownloader\Create_0.gml
+Converted string - line 6: "\background.png.tmp" -> "\\background.png.tmp"
+
+Converting GML script: ${project_dir}\objects\LobbySideController\Create_0.gml
+Converted string - line 5: '
+    event_user(0);
+' -> "
+    event_user(0);
+"
+Converted string - line 8: '
+    room_goto_fix(Menu);
+' -> "
+    room_goto_fix(Menu);
+"
+
+Converting GML script: ${project_dir}\objects\LobbyNameController\Create_0.gml
+Converted string - line 5: '
+    var newName;
+    newName = string_copy(argument0, 0, min(string_length(argument0), MAX_PLAYERNAME_LENGTH));
+    gg2_write_ini("Settings", "PlayerName", newName);
+    oldPlayerName = newName;
+    return newName;
+' -> "
+    var newName;
+    newName = string_copy(argument0, 0, min(string_length(argument0), MAX_PLAYERNAME_LENGTH));
+    gg2_write_ini("+"\""+@"Settings"+"\""+@", "+"\""+@"PlayerName"+"\""+@", newName);
+    oldPlayerName = newName;
+    return newName;
+"
+
+Converting GML script: ${project_dir}\objects\LobbyController\Draw_0.gml
+Converted string - line 45: '#' -> "#"
+
+Converting GML script: ${project_dir}\objects\HostOptionsController\Create_0.gml
+Converted string - line 20: '
+    var newName;
+    newName = string_copy(argument0, 0, 25);
+    gg2_write_ini("Server", "ServerName", newName);
+    return newName;
+' -> "
+    var newName;
+    newName = string_copy(argument0, 0, 25);
+    gg2_write_ini("+"\""+@"Server"+"\""+@", "+"\""+@"ServerName"+"\""+@", newName);
+    return newName;
+"
+Converted string - line 26: '
+    var newMessage;
+    newMessage = string_copy(argument0, 0, 255);
+    gg2_write_ini("Server", "WelcomeMessage", newMessage);
+    return newMessage;
+' -> "
+    var newMessage;
+    newMessage = string_copy(argument0, 0, 255);
+    gg2_write_ini("+"\""+@"Server"+"\""+@", "+"\""+@"WelcomeMessage"+"\""+@", newMessage);
+    return newMessage;
+"
+Converted string - line 33: '
+    gg2_write_ini("Server", "Password", argument0);
+' -> "
+    gg2_write_ini("+"\""+@"Server"+"\""+@", "+"\""+@"Password"+"\""+@", argument0);
+"
+Converted string - line 36: '
+    gg2_write_ini("Settings", "PlayerLimit", argument0);
+' -> "
+    gg2_write_ini("+"\""+@"Settings"+"\""+@", "+"\""+@"PlayerLimit"+"\""+@", argument0);
+"
+Converted string - line 39: '
+    gg2_write_ini("Server", "Time Limit", argument0);
+' -> "
+    gg2_write_ini("+"\""+@"Server"+"\""+@", "+"\""+@"Time Limit"+"\""+@", argument0);
+"
+Converted string - line 42: '
+    gg2_write_ini("Server", "CapLimit", argument0);
+' -> "
+    gg2_write_ini("+"\""+@"Server"+"\""+@", "+"\""+@"CapLimit"+"\""+@", argument0);
+"
+Converted string - line 45: '
+    gg2_write_ini("Server", "Deathmatch Kill Limit", argument0);
+' -> "
+    gg2_write_ini("+"\""+@"Server"+"\""+@", "+"\""+@"Deathmatch Kill Limit"+"\""+@", argument0);
+"
+Converted string - line 48: '
+    gg2_write_ini("Server", "Team Deathmatch Invulnerability Seconds", argument0);
+' -> "
+    gg2_write_ini("+"\""+@"Server"+"\""+@", "+"\""+@"Team Deathmatch Invulnerability Seconds"+"\""+@", argument0);
+"
+Converted string - line 51: '
+    gg2_write_ini("Server", "Respawn Time", argument0);
+' -> "
+    gg2_write_ini("+"\""+@"Server"+"\""+@", "+"\""+@"Respawn Time"+"\""+@", argument0);
+"
+Converted string - line 56: '
+    instance_create(x,y,HostOptionsController);
+    instance_destroy();
+' -> "
+    instance_create(x,y,HostOptionsController);
+    instance_destroy();
+"
+Converted string - line 60: '
+    instance_create(x,y,AdvHostOptionsController);
+    instance_destroy();
+' -> "
+    instance_create(x,y,AdvHostOptionsController);
+    instance_destroy();
+"
+Converted string - line 64: '
+    instance_create(x,y,ClasslimitsMenuController);
+    instance_destroy();
+' -> "
+    instance_create(x,y,ClasslimitsMenuController);
+    instance_destroy();
+"
+Converted string - line 69: '
+    start_server();
+' -> "
+    start_server();
+"
+Converted string - line 72: '
+    instance_create(x,y,MainMenuController);
+    instance_destroy();
+' -> "
+    instance_create(x,y,MainMenuController);
+    instance_destroy();
+"
+
+Converting GML script: ${project_dir}\objects\AdvHostOptionsController\Create_0.gml
+Converted string - line 7: '
+    gg2_write_ini("Settings", "HostingPort", argument0);
+' -> "
+    gg2_write_ini("+"\""+@"Settings"+"\""+@", "+"\""+@"HostingPort"+"\""+@", argument0);
+"
+Converted string - line 11: '
+    var absPath;
+
+    absPath = get_open_filename("Map Rotation|*.txt", "");
+
+    if (absPath == "") {
+        global.mapRotationFile = absPath;
+    } else {
+        global.mapRotationFile = getRelativePathIfDescendant(working_directory + "\", absPath);
+    }
+    
+    gg2_write_ini("Server", "MapRotation", global.mapRotationFile);
+    
+    load_map_rotation();
+    return menu_format_maprotation_filepath(global.mapRotationFile);
+' -> "
+    var absPath;
+
+    absPath = get_open_filename("+"\""+@"Map Rotation|*.txt"+"\""+@", "+"\""+@""+"\""+@");
+
+    if (absPath == "+"\""+@""+"\""+@") {
+        global.mapRotationFile = absPath;
+    } else {
+        global.mapRotationFile = getRelativePathIfDescendant(working_directory + "+"\""+@"\"+"\""+@", absPath);
+    }
+    
+    gg2_write_ini("+"\""+@"Server"+"\""+@", "+"\""+@"MapRotation"+"\""+@", global.mapRotationFile);
+    
+    load_map_rotation();
+    return menu_format_maprotation_filepath(global.mapRotationFile);
+"
+Converted string - line 28: '
+    gg2_write_ini("Server", "ShuffleRotation", argument0);
+' -> "
+    gg2_write_ini("+"\""+@"Server"+"\""+@", "+"\""+@"ShuffleRotation"+"\""+@", argument0);
+"
+Converted string - line 35: '
+    gg2_write_ini("Server", "ServerPluginList", argument0);
+' -> "
+    gg2_write_ini("+"\""+@"Server"+"\""+@", "+"\""+@"ServerPluginList"+"\""+@", argument0);
+"
+Converted string - line 39: '
+    gg2_write_ini("Server", "AutoBalance", argument0);
+' -> "
+    gg2_write_ini("+"\""+@"Server"+"\""+@", "+"\""+@"AutoBalance"+"\""+@", argument0);
+"
+Converted string - line 42: '
+    gg2_write_ini("Settings", "UseLobby", argument0);
+' -> "
+    gg2_write_ini("+"\""+@"Settings"+"\""+@", "+"\""+@"UseLobby"+"\""+@", argument0);
+"
+Converted string - line 45: '
+    if (argument0 == 1)
+        show_message("Warning: UPNP support is currently experimental and enabling it may cause freezing while starting a server, but should cause no freezing ingame")
+    gg2_write_ini("Server", "Attempt UPnP Forwarding", argument0);
+' -> "
+    if (argument0 == 1)
+        show_message("+"\""+@"Warning: UPNP support is currently experimental and enabling it may cause freezing while starting a server, but should cause no freezing ingame"+"\""+@")
+    gg2_write_ini("+"\""+@"Server"+"\""+@", "+"\""+@"Attempt UPnP Forwarding"+"\""+@", argument0);
+"
+Converted string - line 51: '
+    start_server();
+' -> "
+    start_server();
+"
+Converted string - line 55: '
+    instance_create(x,y,HostOptionsController);
+    instance_destroy();
+' -> "
+    instance_create(x,y,HostOptionsController);
+    instance_destroy();
+"
+Converted string - line 59: '
+    instance_create(x,y,AdvHostOptionsController);
+    instance_destroy();
+' -> "
+    instance_create(x,y,AdvHostOptionsController);
+    instance_destroy();
+"
+Converted string - line 63: '
+    instance_create(x,y,ClasslimitsMenuController);
+    instance_destroy();
+' -> "
+    instance_create(x,y,ClasslimitsMenuController);
+    instance_destroy();
+"
+Converted string - line 68: '
+    instance_create(x,y,MainMenuController);
+    instance_destroy();
+' -> "
+    instance_create(x,y,MainMenuController);
+    instance_destroy();
+"
+
+Converting GML script: ${project_dir}\objects\HostWarningsController\Create_0.gml
+Converted string - line 6: '' -> ""
+Converted string - line 7: '' -> ""
+Converted string - line 8: '' -> ""
+Converted string - line 9: '' -> ""
+
+Converting GML script: ${project_dir}\objects\ClasslimitsMenuController\Create_0.gml
+Converted string - line 7: '
+    gg2_write_ini("Classlimits", "Scout", argument0);
+' -> "
+    gg2_write_ini("+"\""+@"Classlimits"+"\""+@", "+"\""+@"Scout"+"\""+@", argument0);
+"
+Converted string - line 10: '
+    gg2_write_ini("Classlimits", "Pyro", argument0);
+' -> "
+    gg2_write_ini("+"\""+@"Classlimits"+"\""+@", "+"\""+@"Pyro"+"\""+@", argument0);
+"
+Converted string - line 13: '
+    gg2_write_ini("Classlimits", "Soldier", argument0);
+' -> "
+    gg2_write_ini("+"\""+@"Classlimits"+"\""+@", "+"\""+@"Soldier"+"\""+@", argument0);
+"
+Converted string - line 16: '
+    gg2_write_ini("Classlimits", "Heavy", argument0);
+' -> "
+    gg2_write_ini("+"\""+@"Classlimits"+"\""+@", "+"\""+@"Heavy"+"\""+@", argument0);
+"
+Converted string - line 19: '
+    gg2_write_ini("Classlimits", "Demoman", argument0);
+' -> "
+    gg2_write_ini("+"\""+@"Classlimits"+"\""+@", "+"\""+@"Demoman"+"\""+@", argument0);
+"
+Converted string - line 22: '
+    gg2_write_ini("Classlimits", "Medic", argument0);
+' -> "
+    gg2_write_ini("+"\""+@"Classlimits"+"\""+@", "+"\""+@"Medic"+"\""+@", argument0);
+"
+Converted string - line 25: '
+    gg2_write_ini("Classlimits", "Engineer", argument0);
+' -> "
+    gg2_write_ini("+"\""+@"Classlimits"+"\""+@", "+"\""+@"Engineer"+"\""+@", argument0);
+"
+Converted string - line 28: '
+    gg2_write_ini("Classlimits", "Spy", argument0);
+' -> "
+    gg2_write_ini("+"\""+@"Classlimits"+"\""+@", "+"\""+@"Spy"+"\""+@", argument0);
+"
+Converted string - line 31: '
+    gg2_write_ini("Classlimits", "Sniper", argument0);
+' -> "
+    gg2_write_ini("+"\""+@"Classlimits"+"\""+@", "+"\""+@"Sniper"+"\""+@", argument0);
+"
+Converted string - line 34: '
+    gg2_write_ini("Classlimits", "Quote", argument0);
+' -> "
+    gg2_write_ini("+"\""+@"Classlimits"+"\""+@", "+"\""+@"Quote"+"\""+@", argument0);
+"
+Converted string - line 38: '
+    instance_create(x,y,HostOptionsController);
+    instance_destroy();
+' -> "
+    instance_create(x,y,HostOptionsController);
+    instance_destroy();
+"
+Converted string - line 42: '
+    instance_create(x,y,AdvHostOptionsController);
+    instance_destroy();
+' -> "
+    instance_create(x,y,AdvHostOptionsController);
+    instance_destroy();
+"
+Converted string - line 46: '
+    instance_create(x,y,ClasslimitsMenuController);
+    instance_destroy();
+' -> "
+    instance_create(x,y,ClasslimitsMenuController);
+    instance_destroy();
+"
+Converted string - line 51: '
+    instance_create(x,y,MainMenuController);
+    instance_destroy();
+' -> "
+    instance_create(x,y,MainMenuController);
+    instance_destroy();
+"
+
+Converting GML script: ${project_dir}\objects\OptionsController\Create_0.gml
+Converted string - line 12: '
+        var newName;
+        newName = string_copy(argument0, 0, min(string_length(argument0), MAX_PLAYERNAME_LENGTH));
+        gg2_write_ini("Settings", "PlayerName", newName);
+        if(room != Options and newName != oldPlayerName)
+        {
+            write_ubyte(global.serverSocket, PLAYER_CHANGENAME);
+            write_ubyte(global.serverSocket, string_length(newName));
+            write_string(global.serverSocket, newName);
+            socket_send(global.serverSocket);
+        }
+        oldPlayerName = newName;
+        return newName;
+    ' -> "
+        var newName;
+        newName = string_copy(argument0, 0, min(string_length(argument0), MAX_PLAYERNAME_LENGTH));
+        gg2_write_ini("+"\""+@"Settings"+"\""+@", "+"\""+@"PlayerName"+"\""+@", newName);
+        if(room != Options and newName != oldPlayerName)
+        {
+            write_ubyte(global.serverSocket, PLAYER_CHANGENAME);
+            write_ubyte(global.serverSocket, string_length(newName));
+            write_string(global.serverSocket, newName);
+            socket_send(global.serverSocket);
+        }
+        oldPlayerName = newName;
+        return newName;
+    "
+Converted string - line 26: '
+        gg2_write_ini("Settings", "Healer Radar", argument0);
+    ' -> "
+        gg2_write_ini("+"\""+@"Settings"+"\""+@", "+"\""+@"Healer Radar"+"\""+@", argument0);
+    "
+Converted string - line 29: '
+        gg2_write_ini("Settings", "Show Healer", argument0);
+    ' -> "
+        gg2_write_ini("+"\""+@"Settings"+"\""+@", "+"\""+@"Show Healer"+"\""+@", argument0);
+    "
+Converted string - line 32: '
+        gg2_write_ini("Settings", "Show Healing", argument0);
+    ' -> "
+        gg2_write_ini("+"\""+@"Settings"+"\""+@", "+"\""+@"Show Healing"+"\""+@", argument0);
+    "
+Converted string - line 35: '
+        gg2_write_ini("Settings", "Show Healthbar", argument0);
+    ' -> "
+        gg2_write_ini("+"\""+@"Settings"+"\""+@", "+"\""+@"Show Healthbar"+"\""+@", argument0);
+    "
+Converted string - line 38: '
+        gg2_write_ini("Settings", "Show Extra Teammate Stats", argument0);
+    ' -> "
+        gg2_write_ini("+"\""+@"Settings"+"\""+@", "+"\""+@"Show Extra Teammate Stats"+"\""+@", argument0);
+    "
+Converted string - line 41: '
+        gg2_write_ini("Settings", "Kill Cam", argument0);
+    ' -> "
+        gg2_write_ini("+"\""+@"Settings"+"\""+@", "+"\""+@"Kill Cam"+"\""+@", argument0);
+    "
+Converted string - line 44: '
+        gg2_write_ini("Settings", "Queued Jumping", argument0);
+    ' -> "
+        gg2_write_ini("+"\""+@"Settings"+"\""+@", "+"\""+@"Queued Jumping"+"\""+@", argument0);
+    "
+Converted string - line 48: '
+        instance_destroy();
+        instance_create(x,y,OptionsController);
+    ' -> "
+        instance_destroy();
+        instance_create(x,y,OptionsController);
+    "
+Converted string - line 52: '
+        instance_destroy();
+        instance_create(x,y,EngineOptionsController);
+    ' -> "
+        instance_destroy();
+        instance_create(x,y,EngineOptionsController);
+    "
+Converted string - line 56: '
+        instance_destroy();
+        instance_create(x,y,ControlsController);
+    ' -> "
+        instance_destroy();
+        instance_create(x,y,ControlsController);
+    "
+Converted string - line 60: '
+        instance_destroy();
+        instance_create(x,y,AdvControlsController);
+    ' -> "
+        instance_destroy();
+        instance_create(x,y,AdvControlsController);
+    "
+Converted string - line 64: '
+        instance_destroy();
+        instance_create(x,y,HUDOptionsController);
+    ' -> "
+        instance_destroy();
+        instance_create(x,y,HUDOptionsController);
+    "
+Converted string - line 69: '
+        instance_destroy();
+        if(room == Options)
+            room_goto_fix(Menu);
+        else
+            instance_create(0,0,InGameMenuController);
+    ' -> "
+        instance_destroy();
+        if(room == Options)
+            room_goto_fix(Menu);
+        else
+            instance_create(0,0,InGameMenuController);
+    "
+
+Converting GML script: ${project_dir}\objects\AdvControlsController\Create_0.gml
+Converted string - line 19: '
+        instance_destroy();
+        instance_create(x,y,OptionsController);
+    ' -> "
+        instance_destroy();
+        instance_create(x,y,OptionsController);
+    "
+Converted string - line 23: '
+        instance_destroy();
+        instance_create(x,y,EngineOptionsController);
+    ' -> "
+        instance_destroy();
+        instance_create(x,y,EngineOptionsController);
+    "
+Converted string - line 27: '
+        instance_destroy();
+        instance_create(x,y,ControlsController);
+    ' -> "
+        instance_destroy();
+        instance_create(x,y,ControlsController);
+    "
+Converted string - line 31: '
+        instance_destroy();
+        instance_create(x,y,AdvControlsController);
+    ' -> "
+        instance_destroy();
+        instance_create(x,y,AdvControlsController);
+    "
+Converted string - line 35: '
+        instance_destroy();
+        instance_create(x,y,HUDOptionsController);
+    ' -> "
+        instance_destroy();
+        instance_create(x,y,HUDOptionsController);
+    "
+Converted string - line 40: '
+        instance_destroy();
+        if(room == Options)
+            room_goto_fix(Menu);
+        else
+            instance_create(0,0,InGameMenuController);
+    ' -> "
+        instance_destroy();
+        if(room == Options)
+            room_goto_fix(Menu);
+        else
+            instance_create(0,0,InGameMenuController);
+    "
+
+Converting GML script: ${project_dir}\objects\ControlsController\Create_0.gml
+Converted string - line 24: '
+        instance_destroy();
+        instance_create(x,y,OptionsController);
+    ' -> "
+        instance_destroy();
+        instance_create(x,y,OptionsController);
+    "
+Converted string - line 28: '
+        instance_destroy();
+        instance_create(x,y,EngineOptionsController);
+    ' -> "
+        instance_destroy();
+        instance_create(x,y,EngineOptionsController);
+    "
+Converted string - line 32: '
+        instance_destroy();
+        instance_create(x,y,ControlsController);
+    ' -> "
+        instance_destroy();
+        instance_create(x,y,ControlsController);
+    "
+Converted string - line 36: '
+        instance_destroy();
+        instance_create(x,y,AdvControlsController);
+    ' -> "
+        instance_destroy();
+        instance_create(x,y,AdvControlsController);
+    "
+Converted string - line 40: '
+        instance_destroy();
+        instance_create(x,y,HUDOptionsController);
+    ' -> "
+        instance_destroy();
+        instance_create(x,y,HUDOptionsController);
+    "
+Converted string - line 45: '
+        instance_destroy();
+        if(room == Options)
+            room_goto_fix(Menu);
+        else
+            instance_create(0,0,InGameMenuController);
+    ' -> "
+        instance_destroy();
+        if(room == Options)
+            room_goto_fix(Menu);
+        else
+            instance_create(0,0,InGameMenuController);
+    "
+
+Converting GML script: ${project_dir}\objects\HUDOptionsController\Create_0.gml
+Converted string - line 11: '
+        gg2_write_ini("Settings", "Timer Position", argument0);
+    ' -> "
+        gg2_write_ini("+"\""+@"Settings"+"\""+@", "+"\""+@"Timer Position"+"\""+@", argument0);
+    "
+Converted string - line 17: '
+        gg2_write_ini("Settings", "Kill Log Position", argument0);
+    ' -> "
+        gg2_write_ini("+"\""+@"Settings"+"\""+@", "+"\""+@"Kill Log Position"+"\""+@", argument0);
+    "
+Converted string - line 23: '
+        gg2_write_ini("Settings","KoTH HUD Position", argument0);
+    ' -> "
+        gg2_write_ini("+"\""+@"Settings"+"\""+@","+"\""+@"KoTH HUD Position"+"\""+@", argument0);
+    "
+Converted string - line 29: '
+        gg2_write_ini("Settings", "Fade Scoreboard", argument0);
+    ' -> "
+        gg2_write_ini("+"\""+@"Settings"+"\""+@", "+"\""+@"Fade Scoreboard"+"\""+@", argument0);
+    "
+Converted string - line 33: '
+        instance_destroy();
+        instance_create(x,y,OptionsController);
+    ' -> "
+        instance_destroy();
+        instance_create(x,y,OptionsController);
+    "
+Converted string - line 37: '
+        instance_destroy();
+        instance_create(x,y,EngineOptionsController);
+    ' -> "
+        instance_destroy();
+        instance_create(x,y,EngineOptionsController);
+    "
+Converted string - line 41: '
+        instance_destroy();
+        instance_create(x,y,ControlsController);
+    ' -> "
+        instance_destroy();
+        instance_create(x,y,ControlsController);
+    "
+Converted string - line 45: '
+        instance_destroy();
+        instance_create(x,y,AdvControlsController);
+    ' -> "
+        instance_destroy();
+        instance_create(x,y,AdvControlsController);
+    "
+Converted string - line 50: '
+        instance_destroy();
+        instance_create(x,y,HUDOptionsController);
+    ' -> "
+        instance_destroy();
+        instance_create(x,y,HUDOptionsController);
+    "
+Converted string - line 55: '
+        instance_destroy();
+        if(room == Options)
+            room_goto_fix(Menu);
+        else
+            instance_create(0,0,InGameMenuController);
+    ' -> "
+        instance_destroy();
+        if(room == Options)
+            room_goto_fix(Menu);
+        else
+            instance_create(0,0,InGameMenuController);
+    "
+
+Converting GML script: ${project_dir}\objects\EngineOptionsController\Create_0.gml
+Converted string - line 12: '
+        gg2_write_ini("Settings", "Fullscreen", argument0);
+        window_set_fullscreen(argument0);
+    ' -> "
+        gg2_write_ini("+"\""+@"Settings"+"\""+@", "+"\""+@"Fullscreen"+"\""+@", argument0);
+        window_set_fullscreen(argument0);
+    "
+Converted string - line 16: '
+        gg2_write_ini("Settings", "Music", argument0);
+        if(room != Options)
+        {
+            if (argument0 == MUSIC_BOTH || argument0 == MUSIC_INGAME_ONLY)
+            {
+                AudioControlPlaySong(global.IngameMusic, true);
+            }
+            else
+            {
+                AudioControlPlaySong(-1, false);
+            }
+        }
+        else
+        {
+            if(argument0 == MUSIC_BOTH || argument0 == MUSIC_MENU_ONLY)
+            {
+                AudioControlPlaySong(global.MenuMusic, true);
+            }
+            else
+            {
+                AudioControlPlaySong(-1, false);
+            }
+        }
+    ' -> "
+        gg2_write_ini("+"\""+@"Settings"+"\""+@", "+"\""+@"Music"+"\""+@", argument0);
+        if(room != Options)
+        {
+            if (argument0 == MUSIC_BOTH || argument0 == MUSIC_INGAME_ONLY)
+            {
+                AudioControlPlaySong(global.IngameMusic, true);
+            }
+            else
+            {
+                AudioControlPlaySong(-1, false);
+            }
+        }
+        else
+        {
+            if(argument0 == MUSIC_BOTH || argument0 == MUSIC_MENU_ONLY)
+            {
+                AudioControlPlaySong(global.MenuMusic, true);
+            }
+            else
+            {
+                AudioControlPlaySong(-1, false);
+            }
+        }
+    "
+Converted string - line 46: '
+        gg2_write_ini("Settings", "Particles", argument0);
+    ' -> "
+        gg2_write_ini("+"\""+@"Settings"+"\""+@", "+"\""+@"Particles"+"\""+@", argument0);
+    "
+Converted string - line 53: '
+        gg2_write_ini("Settings", "Gib Level", argument0);
+    ' -> "
+        gg2_write_ini("+"\""+@"Settings"+"\""+@", "+"\""+@"Gib Level"+"\""+@", argument0);
+    "
+Converted string - line 61: '
+        gg2_write_ini("Settings", "Hide Spy Ghosts", argument0);
+    ' -> "
+        gg2_write_ini("+"\""+@"Settings"+"\""+@", "+"\""+@"Hide Spy Ghosts"+"\""+@", argument0);
+    "
+Converted string - line 65: '
+        gg2_write_ini("Settings", "Resolution", argument0);
+        if(room != Options)
+            warnoptioneffect = !global.isHost;
+        global.changed_resolution = true;
+    ' -> "
+        gg2_write_ini("+"\""+@"Settings"+"\""+@", "+"\""+@"Resolution"+"\""+@", argument0);
+        if(room != Options)
+            warnoptioneffect = !global.isHost;
+        global.changed_resolution = true;
+    "
+Converted string - line 77: '
+        gg2_write_ini("Settings", "Framerate", argument0);
+        if(room != Options)
+            warnoptioneffect = !global.isHost;
+    ' -> "
+        gg2_write_ini("+"\""+@"Settings"+"\""+@", "+"\""+@"Framerate"+"\""+@", argument0);
+        if(room != Options)
+            warnoptioneffect = !global.isHost;
+    "
+Converted string - line 85: '
+        gg2_write_ini("Settings", "Monitor Sync", argument0);
+        if (!instance_exists(GameServer))
+            set_synchronization(argument0);
+    ' -> "
+        gg2_write_ini("+"\""+@"Settings"+"\""+@", "+"\""+@"Monitor Sync"+"\""+@", argument0);
+        if (!instance_exists(GameServer))
+            set_synchronization(argument0);
+    "
+Converted string - line 92: '
+        if (argument0 == false)
+            show_message("Please note that plugins can be dangerous, so you should only disable the prompt if you trust all plugins hosted at the source:#" + PLUGIN_SOURCE + "#" + PLUGIN_SOURCE_NOTICE)
+        gg2_write_ini("Settings", "ServerPluginsPrompt", argument0);
+    ' -> "
+        if (argument0 == false)
+            show_message("+"\""+@"Please note that plugins can be dangerous, so you should only disable the prompt if you trust all plugins hosted at the source:#"+"\""+@" + PLUGIN_SOURCE + "+"\""+@"#"+"\""+@" + PLUGIN_SOURCE_NOTICE)
+        gg2_write_ini("+"\""+@"Settings"+"\""+@", "+"\""+@"ServerPluginsPrompt"+"\""+@", argument0);
+    "
+Converted string - line 97: '
+        gg2_write_ini("Settings", "RestartPrompt", argument0);
+    ' -> "
+        gg2_write_ini("+"\""+@"Settings"+"\""+@", "+"\""+@"RestartPrompt"+"\""+@", argument0);
+    "
+Converted string - line 101: '
+        instance_destroy();
+        instance_create(x,y,OptionsController);
+    ' -> "
+        instance_destroy();
+        instance_create(x,y,OptionsController);
+    "
+Converted string - line 105: '
+        instance_destroy();
+        instance_create(x,y,EngineOptionsController);
+    ' -> "
+        instance_destroy();
+        instance_create(x,y,EngineOptionsController);
+    "
+Converted string - line 109: '
+        instance_destroy();
+        instance_create(x,y,ControlsController);
+    ' -> "
+        instance_destroy();
+        instance_create(x,y,ControlsController);
+    "
+Converted string - line 113: '
+        instance_destroy();
+        instance_create(x,y,AdvControlsController);
+    ' -> "
+        instance_destroy();
+        instance_create(x,y,AdvControlsController);
+    "
+Converted string - line 117: '
+        instance_destroy();
+        instance_create(x,y,HUDOptionsController);
+    ' -> "
+        instance_destroy();
+        instance_create(x,y,HUDOptionsController);
+    "
+Converted string - line 122: '
+        if(warnoptioneffect)
+            show_message("An option you changed only takes effect on map change or server join.");
+        instance_destroy();
+        if(room == Options)
+            room_goto_fix(Menu);
+        else
+            instance_create(0,0,InGameMenuController);
+    ' -> "
+        if(warnoptioneffect)
+            show_message("+"\""+@"An option you changed only takes effect on map change or server join."+"\""+@");
+        instance_destroy();
+        if(room == Options)
+            room_goto_fix(Menu);
+        else
+            instance_create(0,0,InGameMenuController);
+    "
+
+Converting GML script: ${project_dir}\objects\InGameMenuController\Create_0.gml
+Converted string - line 9: '
+        instance_destroy();
+    ' -> "
+        instance_destroy();
+    "
+Converted string - line 12: '
+        instance_destroy();
+    ' -> "
+        instance_destroy();
+    "
+Converted string - line 16: '
+            if(!instance_exists(ScoreTableController)) instance_create(0,0,ScoreTableController);
+            ScoreTableController.showadmin = true;
+            instance_destroy();
+        ' -> "
+            if(!instance_exists(ScoreTableController)) instance_create(0,0,ScoreTableController);
+            ScoreTableController.showadmin = true;
+            instance_destroy();
+        "
+Converted string - line 22: '
+        instance_destroy();
+        instance_create(0,0,OptionsController);
+    ' -> "
+        instance_destroy();
+        instance_create(0,0,OptionsController);
+    "
+Converted string - line 26: '
+        // Force dedicated mode to off so you can go to main menu instead of just restarting server
+        if (show_question("Do you really want to leave this match?")) {
+            if (global.serverPluginsInUse)
+            {
+                pluginscleanup(true);
+            }
+            else
+            {
+                global.dedicatedMode = 0;
+                with(Client)
+                    instance_destroy();
+                    
+                with(GameServer)
+                    instance_destroy();
+            }
+        }
+    ' -> "
+        // Force dedicated mode to off so you can go to main menu instead of just restarting server
+        if (show_question("+"\""+@"Do you really want to leave this match?"+"\""+@")) {
+            if (global.serverPluginsInUse)
+            {
+                pluginscleanup(true);
+            }
+            else
+            {
+                global.dedicatedMode = 0;
+                with(Client)
+                    instance_destroy();
+                    
+                with(GameServer)
+                    instance_destroy();
+            }
+        }
+    "
+Converted string - line 44: '
+        if (show_question("Do you really want to quit?")) {
+            game_end();
+        }
+    ' -> "
+        if (show_question("+"\""+@"Do you really want to quit?"+"\""+@")) {
+            game_end();
+        }
+    "
+
+Converting GML script: ${project_dir}\objects\BuilderMenuController\Create_0.gml
+Converted string - line 9: '            
+            var builder;
+            if (!instance_exists(Builder)) builder = instance_create(0,0, Builder);
+            else builder = Builder.id;
+            
+            builder.gamemode = power(2, virtualitem);
+            builder.name = item_name[virtualitem];
+
+            if (room != BuilderRoom) room_goto_fix(BuilderRoom);
+            else {
+                with(Builder) event_user(0);
+                instance_destroy();
+            }
+        ' -> "            
+            var builder;
+            if (!instance_exists(Builder)) builder = instance_create(0,0, Builder);
+            else builder = Builder.id;
+            
+            builder.gamemode = power(2, virtualitem);
+            builder.name = item_name[virtualitem];
+
+            if (room != BuilderRoom) room_goto_fix(BuilderRoom);
+            else {
+                with(Builder) event_user(0);
+                instance_destroy();
+            }
+        "
+Converted string - line 26: '
+            room_goto_fix(Menu);
+            with(Builder) instance_destroy();
+        ' -> "
+            room_goto_fix(Menu);
+            with(Builder) instance_destroy();
+        "
+Converted string - line 30: '
+            // Wait 1 frame or the Builder will reopen the menu in the same step.
+            alarm[0] = 1;
+        ' -> "
+            // Wait 1 frame or the Builder will reopen the menu in the same step.
+            alarm[0] = 1;
+        "
+Converted string - line 35: '
+            room_goto_fix(Menu);
+            with(Builder) instance_destroy();
+        ' -> "
+            room_goto_fix(Menu);
+            with(Builder) instance_destroy();
+        "
+
+Converting GML script: ${project_dir}\objects\Server\Create_0.gml
+Error: variable 'variable_global_exists' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\SSControl\Create_0.gml
+Converted string - line 5: "\Screenshots" -> "\\Screenshots"
+Converted string - line 5: "\Screenshots" -> "\\Screenshots"
+
+Converting GML script: ${project_dir}\objects\Character\Create_0.gml
+Converted string - line 209: 'Grey_Accessories_' -> "Grey_Accessories_"
+Converted string - line 225: 'Gold_Accessories_' -> "Gold_Accessories_"
+Converted string - line 243: 'BH' -> "BH"
+Converted string - line 269: 'TopHatMonocle_' -> "TopHatMonocle_"
+Converted string - line 294: 'TopHat_' -> "TopHat_"
+Converted string - line 319: 'Crown' -> "Crown"
+Converted string - line 324: 'Navigator' -> "Navigator"
+Converted string - line 334: 'WillOWisp' -> "WillOWisp"
+Converted string - line 338: 'HaxxyCape_' -> "HaxxyCape_"
+Converted string - line 342: 'RaybannCape_' -> "RaybannCape_"
+Converted string - line 346: 'GW' -> "GW"
+
+Converting GML script: ${project_dir}\objects\Character\Step_2.gml
+Converted builtin - line 116: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 119: view_xview[0] = x+relxmouse-view_wview[0] -> __view_set( e__VW.XView, 0, x+relxmouse-view_wview[0] )
+Converted builtin - line 124: view_xview[0] = x-view_wview[0]/2 -> __view_set( e__VW.XView, 0, x-view_wview[0]/2 )
+Converted builtin - line 117: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 120: view_yview[0] = y+relymouse-view_hview[0] -> __view_set( e__VW.YView, 0, y+relymouse-view_hview[0] )
+Converted builtin - line 125: view_yview[0] = y-view_hview[0]/2 -> __view_set( e__VW.YView, 0, y-view_hview[0]/2 )
+Converted builtin - line 116: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 117: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 119: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 124: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 120: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 125: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\Character\Step_1.gml
+Error: variable 'variable_global_exists' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script: ${project_dir}\objects\Character\Draw_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 4: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\Weapon\Create_0.gml
+Converted string - line 10: 'GW' -> "GW"
+
+Converting GML script: ${project_dir}\objects\Weapon\Draw_0.gml
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 1: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\NoticeO\Create_0.gml
+Error: variable 'message' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\NoticeO\Draw_0.gml
+Error: variable 'message' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+Converted builtin - line 7: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 9: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 10: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\Spectator\Step_2.gml
+Converted builtin - line 92: view_xview = x-view_wview/2 -> __view_set( e__VW.XView, 0, x-view_wview/2 )
+Converted builtin - line 93: view_yview = y-view_hview/2 -> __view_set( e__VW.YView, 0, y-view_hview/2 )
+Converted builtin - line 16: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 22: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 84: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 84: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 29: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 35: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 85: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 85: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 92: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 93: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\Spectator\Draw_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 10: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 10: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 11: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 11: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 10: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 10: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 11: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 11: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 4: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted string - line 43: 'Respawn in ' -> "Respawn in "
+Converted string - line 43: ' second(s).' -> " second(s)."
+Converted string - line 45: 'No Respawning in Arena' -> "No Respawning in Arena"
+
+Converting GML script: ${project_dir}\objects\Balancer\Create_0.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\Balancer\Draw_0.gml
+Converted builtin - line 4: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 5: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 7: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\Builder\Step_0.gml
+ERROR: C:\Users\Valerio\AppData\Local\GameMakerStudio2\GMS2TEMP\conv\gmx\Gang Garrison 2 on GMS2_4B365CA7\objects\Builder\Step_0.gml - 310: unexpected syntax error
+ERROR: C:\Users\Valerio\AppData\Local\GameMakerStudio2\GMS2TEMP\conv\gmx\Gang Garrison 2 on GMS2_4B365CA7\objects\Builder\Step_0.gml - 318: unexpected syntax error
+ERROR: C:\Users\Valerio\AppData\Local\GameMakerStudio2\GMS2TEMP\conv\gmx\Gang Garrison 2 on GMS2_4B365CA7\objects\Builder\Step_0.gml - 330: unexpected syntax error
+ERROR: C:\Users\Valerio\AppData\Local\GameMakerStudio2\GMS2TEMP\conv\gmx\Gang Garrison 2 on GMS2_4B365CA7\objects\Builder\Step_0.gml - 346: unexpected syntax error
+Too many errors - GML not processed : ${project_dir}\objects\Builder\Step_0.gml
+
+Converting GML script: ${project_dir}\objects\Builder\Other_11.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 5: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview[0] = 6 * background_get_width(BuilderBGB) - view_wview[0] -> __view_set( e__VW.XView, 0, 6 * background_get_width(BuilderBGB) - view_wview[0] )
+Converted builtin - line 5: view_xview[0] = 0 -> __view_set( e__VW.XView, 0, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 4: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] = 6 * background_get_height(BuilderBGB) - view_hview[0] -> __view_set( e__VW.YView, 0, 6 * background_get_height(BuilderBGB) - view_hview[0] )
+Converted builtin - line 4: view_yview[0] = 0 -> __view_set( e__VW.YView, 0, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\Builder\Other_10.gml
+Converted builtin - line 38: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 39: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 40: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\Builder\Draw_0.gml
+Converted builtin - line 27: background_visible[layerIndex] -> __background_get( e__BG.Visible, layerIndex )
+Converted builtin - line 177: background_visible[layerIndex] -> __background_get( e__BG.Visible, layerIndex )
+Converted builtin - line 178: background_index[layerIndex] -> __background_get( e__BG.Index, layerIndex )
+Converted builtin - line 28: background_x[layerIndex] -> __background_get( e__BG.X, layerIndex )
+Converted builtin - line 28: background_y[layerIndex] -> __background_get( e__BG.Y, layerIndex )
+Converted builtin - line 14: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 103: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 135: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 185: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 209: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 15: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 104: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 136: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 186: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 16: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 209: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 17: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 104: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\SpriteObject\Draw_0.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 5: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 6: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\ParallaxController\Step_2.gml
+Converted builtin - line 22: background_x[i] = xorigin - xparallax -> __background_set( e__BG.X, i, xorigin - xparallax )
+Converted builtin - line 23: background_y[i] = yorigin - yparallax -> __background_set( e__BG.Y, i, yorigin - yparallax )
+Converted builtin - line 8: background_width[i] -> __background_get( e__BG.Width, i )
+Converted builtin - line 9: background_height[i] -> __background_get( e__BG.Height, i )
+Converted builtin - line 8: background_xscale[i] -> __background_get( e__BG.XScale, i )
+Converted builtin - line 9: background_yscale[i] -> __background_get( e__BG.YScale, i )
+Converted builtin - line 8: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 9: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 9: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\ParallaxController\Draw_0.gml
+ERROR: C:\Users\Valerio\AppData\Local\GameMakerStudio2\GMS2TEMP\conv\gmx\Gang Garrison 2 on GMS2_4B365CA7\objects\ParallaxController\Draw_0.gml - 11: unexpected syntax error
+ERROR: C:\Users\Valerio\AppData\Local\GameMakerStudio2\GMS2TEMP\conv\gmx\Gang Garrison 2 on GMS2_4B365CA7\objects\ParallaxController\Draw_0.gml - 11: expected expression
+Too many errors - GML not processed : ${project_dir}\objects\ParallaxController\Draw_0.gml
+
+Converting GML script: ${project_dir}\objects\Generator\Draw_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 4: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\Revolver\Other_11.gml
+Converted string - line 29: 'BH' -> "BH"
+
+Converting GML script: ${project_dir}\objects\SentryTurret\Draw_0.gml
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 1: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\CharacterPortraitAnimation\Draw_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 4: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\CTFHUD\Draw_0.gml
+Error: variable 'infinity' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 4: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 5: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\InvasionHUD\Draw_0.gml
+Error: variable 'infinity' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 49: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 59: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 64: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 49: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 59: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 64: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 49: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 59: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 64: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 4: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 49: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 59: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 64: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\ControlPointHUD\Draw_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 4: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\ArenaHUD\Draw_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 4: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\KothHUD\Draw_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 4: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\GeneratorHUD\Draw_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 4: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\DKothHUD\Draw_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 4: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\TeamDeathmatchHUD\Draw_0.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 4: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 5: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\TeamSelectController\Step_0.gml
+Converted builtin - line 16: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 17: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\TeamSelectController\Draw_0.gml
+Converted builtin - line 9: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 10: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 11: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 12: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\ClassSelectController\Step_0.gml
+Converted builtin - line 13: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 14: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\ClassSelectController\Draw_0.gml
+Converted builtin - line 8: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 9: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 10: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 11: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\BubbleMenuZ\Draw_0.gml
+Converted builtin - line 6: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 9: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\BubbleMenuX\Draw_0.gml
+Converted builtin - line 6: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 9: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\BubbleMenuC\Draw_0.gml
+Converted builtin - line 6: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 9: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\ScoreTableController\Draw_0.gml
+Converted builtin - line 4: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 5: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 4: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 8: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 5: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted string - line 215: '' -> ""
+Converted string - line 219: ', ' -> ", "
+Converted string - line 223: '[' -> "["
+Converted string - line 223: ']' -> "]"
+Converted string - line 233: '[' -> "["
+Converted string - line 233: ']' -> "]"
+
+Converting GML script: ${project_dir}\objects\KillLog\Draw_0.gml
+Converted builtin - line 26: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 27: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 28: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 29: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 38: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 41: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 47: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 57: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 26: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 27: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 28: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 29: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 38: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 41: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 47: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 57: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 26: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 27: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 28: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 29: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 38: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 41: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 47: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 57: view_wview[0] -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\SentryHealthHud\Draw_0.gml
+Converted builtin - line 15: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 15: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 14: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 15: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\NutsNBoltsHud\Draw_0.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 4: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 5: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\SandwichHud\Draw_0.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 4: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 5: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\UberHud\Draw_0.gml
+Converted builtin - line 6: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 9: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\StickyCounter\Draw_0.gml
+Converted builtin - line 8: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 9: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 10: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 11: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\AmmoCounter\Draw_0.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\DeathCam\Destroy_0.gml
+Converted builtin - line 2: view_xview=oldxview -> __view_set( e__VW.XView, 0, oldxview )
+Converted builtin - line 3: view_yview=oldyview -> __view_set( e__VW.YView, 0, oldyview )
+
+Converting GML script: ${project_dir}\objects\DeathCam\Alarm_0.gml
+Converted builtin - line 42: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 9: view_xview=killedby.sentry.x-400 -> __view_set( e__VW.XView, 0, killedby.sentry.x-400 )
+Converted builtin - line 17: view_xview=killedby.object.x-400 -> __view_set( e__VW.XView, 0, killedby.object.x-400 )
+Converted builtin - line 25: view_xview=killedby.lastKnownx-400 -> __view_set( e__VW.XView, 0, killedby.lastKnownx-400 )
+Converted builtin - line 42: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 10: view_yview=killedby.sentry.y-300 -> __view_set( e__VW.YView, 0, killedby.sentry.y-300 )
+Converted builtin - line 18: view_yview=killedby.object.y-300 -> __view_set( e__VW.YView, 0, killedby.object.y-300 )
+Converted builtin - line 26: view_yview=killedby.lastKnowny-300 -> __view_set( e__VW.YView, 0, killedby.lastKnowny-300 )
+
+Converting GML script: ${project_dir}\objects\DeathCam\Draw_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 11: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 12: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 12: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 13: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 13: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 20: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 21: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 11: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 12: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 12: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 13: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 13: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 20: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 21: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 4: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\HealthHud\Draw_0.gml
+Converted builtin - line 16: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 16: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\MedicRadar\Draw_0.gml
+Converted builtin - line 5: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 7: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 8: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\WinBanner\Draw_0.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 5: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 6: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\HealedHud\Draw_0.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 4: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 12: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 15: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\HealingHud\Draw_0.gml
+Converted builtin - line 5: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 7: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 4: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\Ghost\Draw_0.gml
+Converted string - line 12: 'Ghost of ' -> "Ghost of "
+
+Converting GML script: ${project_dir}\objects\Updater\Create_0.gml
+Converted string - line 16: "\gg2update.zip" -> "\\gg2update.zip"
+Converted string - line 52: '% complete...' -> "% complete..."
+
+Converting GML script: ${project_dir}\rooms\CustomMapRoom\RoomCreationCode.gml
+Converted string - line 8: "\" -> "\\"
+
+Missing audiogroup for sound: 'ChaingunSnd' - setting to default audio group
+Missing audiogroup for sound: 'DeathSnd1' - setting to default audio group
+Missing audiogroup for sound: 'DeathSnd2' - setting to default audio group
+Missing audiogroup for sound: 'ExplosionSnd' - setting to default audio group
+Missing audiogroup for sound: 'FlamethrowerSnd' - setting to default audio group
+Missing audiogroup for sound: 'IntelGetSnd' - setting to default audio group
+Missing audiogroup for sound: 'IntelPutSnd' - setting to default audio group
+Missing audiogroup for sound: 'JumpSnd' - setting to default audio group
+Missing audiogroup for sound: 'MedigunSnd' - setting to default audio group
+Missing audiogroup for sound: 'RespawnSnd' - setting to default audio group
+Missing audiogroup for sound: 'RevolverSnd' - setting to default audio group
+Missing audiogroup for sound: 'KnifeSnd' - setting to default audio group
+Missing audiogroup for sound: 'RocketSnd' - setting to default audio group
+Missing audiogroup for sound: 'ShotgunSnd' - setting to default audio group
+Missing audiogroup for sound: 'VictorySnd' - setting to default audio group
+Missing audiogroup for sound: 'FailureSnd' - setting to default audio group
+Missing audiogroup for sound: 'SentryAlert' - setting to default audio group
+Missing audiogroup for sound: 'SentryIdle' - setting to default audio group
+Missing audiogroup for sound: 'SniperSnd' - setting to default audio group
+Missing audiogroup for sound: 'MinegunSnd' - setting to default audio group
+Missing audiogroup for sound: 'CbntHealSnd' - setting to default audio group
+Missing audiogroup for sound: 'MedichaingunSnd' - setting to default audio group
+Missing audiogroup for sound: 'IntelDropSnd' - setting to default audio group
+Missing audiogroup for sound: 'Splat' - setting to default audio group
+Missing audiogroup for sound: 'Gibbing' - setting to default audio group
+Missing audiogroup for sound: 'CompressionBlastSnd' - setting to default audio group
+Missing audiogroup for sound: 'BladeSnd' - setting to default audio group
+Missing audiogroup for sound: 'NoticeSnd' - setting to default audio group
+Missing audiogroup for sound: 'DeathCamSnd' - setting to default audio group
+Missing audiogroup for sound: 'UberStartSnd' - setting to default audio group
+Missing audiogroup for sound: 'UberEndSnd' - setting to default audio group
+Missing audiogroup for sound: 'UberIdleSnd' - setting to default audio group
+Missing audiogroup for sound: 'UberChargedSnd' - setting to default audio group
+Missing audiogroup for sound: 'CPBeginCapSnd' - setting to default audio group
+Missing audiogroup for sound: 'CPCapturedSnd' - setting to default audio group
+Missing audiogroup for sound: 'CPDefendedSnd' - setting to default audio group
+Missing audiogroup for sound: 'CountDown1Snd' - setting to default audio group
+Missing audiogroup for sound: 'CountDown2Snd' - setting to default audio group
+Missing audiogroup for sound: 'SirenSnd' - setting to default audio group
+Missing audiogroup for sound: 'SentryFloorSnd' - setting to default audio group
+Missing audiogroup for sound: 'SentryBuildSnd' - setting to default audio group
+Missing audiogroup for sound: 'PickupSnd' - setting to default audio group
+Missing audiogroup for sound: 'ImpactSnd' - setting to default audio group
+Missing audiogroup for sound: 'DominationSnd' - setting to default audio group
+Missing audiogroup for sound: 'RevengeSnd' - setting to default audio group
+Game speed set to 30
+String not found: ConversionLog_ScriptNameInUse
+Added compatibility script 'action/action_inherited.gml'
+Added compatibility script 'action/action_kill_object.gml'
+Added compatibility script 'action/action_set_alarm.gml'
+Added compatibility script 'action/action_splash_web.gml'
+Added compatibility script 'action/action_sprite_transform.gml'
+Added compatibility script 'action/action_webpage.gml'
+Added compatibility script 'background/background_add.gml'
+Added compatibility script 'background/background_delete.gml'
+Added compatibility script 'background/background_get_height.gml'
+Added compatibility script 'background/background_get_width.gml'
+Added compatibility script 'background/background_replace.gml'
+Added compatibility script 'background/draw_background.gml'
+Added compatibility script 'background/draw_background_ext.gml'
+Added compatibility script 'background/__background_get.gml'
+Added compatibility script 'background/__background_get_element.gml'
+Added compatibility script 'background/__background_get_internal.gml'
+Added compatibility script 'background/__background_set.gml'
+Added compatibility script 'background/__background_set_colour.gml'
+Added compatibility script 'background/__background_set_element.gml'
+Added compatibility script 'background/__background_set_internal.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'sound/sound_add.gml'
+Added compatibility script 'sound/sound_global_volume.gml'
+Added compatibility script 'sound/sound_isplaying.gml'
+Added compatibility script 'sound/sound_loop.gml'
+Added compatibility script 'sound/sound_play.gml'
+Added compatibility script 'sound/sound_stop.gml'
+Added compatibility script 'sound/sound_stop_all.gml'
+Added compatibility script 'sound/sound_volume.gml'
+Added compatibility script 'view/room_set_view.gml'
+Added compatibility script 'view/__view_get.gml'
+Added compatibility script 'view/__view_set.gml'
+Added compatibility script 'view/__view_set_internal.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script 'background/__init_background.gml'
+Added compatibility script 'view/__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script 'background/__background_get_colour_element.gml'
+Added compatibility script '__global_object_depths.gml'

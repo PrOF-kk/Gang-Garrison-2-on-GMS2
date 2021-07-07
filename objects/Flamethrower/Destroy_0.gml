@@ -1,0 +1,3 @@
+{
+    loopsoundstop(FlamethrowerSnd);
+}

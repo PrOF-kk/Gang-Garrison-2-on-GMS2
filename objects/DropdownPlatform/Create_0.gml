@@ -1,0 +1,2 @@
+resetMoveStatus = 1;
+

@@ -1,0 +1,2 @@
+intensityDecay = burnIntensity / decayDuration;
+

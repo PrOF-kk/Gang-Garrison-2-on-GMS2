@@ -1,0 +1,171 @@
+{
+  "bboxMode": 0,
+  "collisionKind": 0,
+  "type": 0,
+  "origin": 9,
+  "preMultiplyAlpha": false,
+  "edgeFiltering": false,
+  "collisionTolerance": 0,
+  "swfPrecision": 2.525,
+  "bbox_left": 2,
+  "bbox_right": 47,
+  "bbox_top": 8,
+  "bbox_bottom": 31,
+  "HTile": false,
+  "VTile": false,
+  "For3D": false,
+  "width": 60,
+  "height": 36,
+  "textureGroupId": {
+    "name": "Default",
+    "path": "texturegroups/Default",
+  },
+  "swatchColours": null,
+  "gridX": 0,
+  "gridY": 0,
+  "frames": [
+    {"compositeImage":{"FrameId":{"name":"03800fd6-d076-4c3e-a7b3-f6c91647fbf4","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"03800fd6-d076-4c3e-a7b3-f6c91647fbf4","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":{"name":"e7dc3da5-ffb4-4c3a-8283-a8ba9881a6d3","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherGoldFRS","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"03800fd6-d076-4c3e-a7b3-f6c91647fbf4","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"5501b024-358d-4495-a401-74cc09654e66","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"5501b024-358d-4495-a401-74cc09654e66","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":{"name":"e7dc3da5-ffb4-4c3a-8283-a8ba9881a6d3","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherGoldFRS","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"5501b024-358d-4495-a401-74cc09654e66","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"66561d33-d754-41d1-be00-c4854ae61cf0","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"66561d33-d754-41d1-be00-c4854ae61cf0","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":{"name":"e7dc3da5-ffb4-4c3a-8283-a8ba9881a6d3","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherGoldFRS","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"66561d33-d754-41d1-be00-c4854ae61cf0","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"1b6d0213-beef-4261-b8e6-69c0f6d7af88","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"1b6d0213-beef-4261-b8e6-69c0f6d7af88","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":{"name":"e7dc3da5-ffb4-4c3a-8283-a8ba9881a6d3","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherGoldFRS","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"1b6d0213-beef-4261-b8e6-69c0f6d7af88","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"53a819ff-c75d-4c7e-991f-e70d5fa982a2","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"53a819ff-c75d-4c7e-991f-e70d5fa982a2","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":{"name":"e7dc3da5-ffb4-4c3a-8283-a8ba9881a6d3","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherGoldFRS","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"53a819ff-c75d-4c7e-991f-e70d5fa982a2","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"6eb37129-0333-403f-bfee-f6e93d847b72","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"6eb37129-0333-403f-bfee-f6e93d847b72","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":{"name":"e7dc3da5-ffb4-4c3a-8283-a8ba9881a6d3","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherGoldFRS","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"6eb37129-0333-403f-bfee-f6e93d847b72","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"a5d94f6f-fcce-404f-83fd-bab2028e29bd","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"a5d94f6f-fcce-404f-83fd-bab2028e29bd","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":{"name":"e7dc3da5-ffb4-4c3a-8283-a8ba9881a6d3","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherGoldFRS","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"a5d94f6f-fcce-404f-83fd-bab2028e29bd","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"039a51e8-870b-4db4-81bb-8b6491e30f12","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"039a51e8-870b-4db4-81bb-8b6491e30f12","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":{"name":"e7dc3da5-ffb4-4c3a-8283-a8ba9881a6d3","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherGoldFRS","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"039a51e8-870b-4db4-81bb-8b6491e30f12","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"aef72495-3697-4020-b146-ebad555d87bb","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"aef72495-3697-4020-b146-ebad555d87bb","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":{"name":"e7dc3da5-ffb4-4c3a-8283-a8ba9881a6d3","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherGoldFRS","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"aef72495-3697-4020-b146-ebad555d87bb","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"2be655e4-3470-4f21-acdf-f7045cd1d736","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"2be655e4-3470-4f21-acdf-f7045cd1d736","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":{"name":"e7dc3da5-ffb4-4c3a-8283-a8ba9881a6d3","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherGoldFRS","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"2be655e4-3470-4f21-acdf-f7045cd1d736","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f074b379-40a3-43b2-983b-090bdb662792","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f074b379-40a3-43b2-983b-090bdb662792","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":{"name":"e7dc3da5-ffb4-4c3a-8283-a8ba9881a6d3","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherGoldFRS","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"f074b379-40a3-43b2-983b-090bdb662792","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"40f5087e-209a-44b9-ad18-9fb609e0d814","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"40f5087e-209a-44b9-ad18-9fb609e0d814","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":{"name":"e7dc3da5-ffb4-4c3a-8283-a8ba9881a6d3","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherGoldFRS","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"40f5087e-209a-44b9-ad18-9fb609e0d814","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"6b5cdefe-dc84-4b8b-9307-f6da445630e8","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"6b5cdefe-dc84-4b8b-9307-f6da445630e8","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":{"name":"e7dc3da5-ffb4-4c3a-8283-a8ba9881a6d3","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherGoldFRS","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"6b5cdefe-dc84-4b8b-9307-f6da445630e8","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"a6fcf45b-dbe0-4470-8416-6393ebfc3aa6","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"a6fcf45b-dbe0-4470-8416-6393ebfc3aa6","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":{"name":"e7dc3da5-ffb4-4c3a-8283-a8ba9881a6d3","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherGoldFRS","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"a6fcf45b-dbe0-4470-8416-6393ebfc3aa6","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e22e38cc-0726-45b2-92cf-7088d33b8cde","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e22e38cc-0726-45b2-92cf-7088d33b8cde","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":{"name":"e7dc3da5-ffb4-4c3a-8283-a8ba9881a6d3","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherGoldFRS","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"e22e38cc-0726-45b2-92cf-7088d33b8cde","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"04f8f19a-8f08-4bc0-a16e-ef8b8800f59a","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"04f8f19a-8f08-4bc0-a16e-ef8b8800f59a","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":{"name":"e7dc3da5-ffb4-4c3a-8283-a8ba9881a6d3","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherGoldFRS","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"04f8f19a-8f08-4bc0-a16e-ef8b8800f59a","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d20c6456-bbf9-478c-a06c-f2c9174f6d39","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d20c6456-bbf9-478c-a06c-f2c9174f6d39","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":{"name":"e7dc3da5-ffb4-4c3a-8283-a8ba9881a6d3","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherGoldFRS","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"d20c6456-bbf9-478c-a06c-f2c9174f6d39","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"9d95990b-283a-453e-baeb-d22f3cef70a0","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"9d95990b-283a-453e-baeb-d22f3cef70a0","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":{"name":"e7dc3da5-ffb4-4c3a-8283-a8ba9881a6d3","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherGoldFRS","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"9d95990b-283a-453e-baeb-d22f3cef70a0","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"be4457c1-92f4-469c-98f5-5b1183cd1850","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"be4457c1-92f4-469c-98f5-5b1183cd1850","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":{"name":"e7dc3da5-ffb4-4c3a-8283-a8ba9881a6d3","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherGoldFRS","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"be4457c1-92f4-469c-98f5-5b1183cd1850","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f63ced6a-3268-4e32-8eda-6ea784bda11a","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f63ced6a-3268-4e32-8eda-6ea784bda11a","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":{"name":"e7dc3da5-ffb4-4c3a-8283-a8ba9881a6d3","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherGoldFRS","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"f63ced6a-3268-4e32-8eda-6ea784bda11a","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"cb209854-b2ff-425b-8b96-73c81cc9cb83","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"cb209854-b2ff-425b-8b96-73c81cc9cb83","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":{"name":"e7dc3da5-ffb4-4c3a-8283-a8ba9881a6d3","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherGoldFRS","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"cb209854-b2ff-425b-8b96-73c81cc9cb83","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"b8dcf892-fa42-46cc-85d2-2efdff6b7945","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"b8dcf892-fa42-46cc-85d2-2efdff6b7945","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":{"name":"e7dc3da5-ffb4-4c3a-8283-a8ba9881a6d3","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherGoldFRS","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"b8dcf892-fa42-46cc-85d2-2efdff6b7945","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"5a0ca71e-0acf-4574-8ca6-12ffd7faa577","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"5a0ca71e-0acf-4574-8ca6-12ffd7faa577","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":{"name":"e7dc3da5-ffb4-4c3a-8283-a8ba9881a6d3","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherGoldFRS","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"5a0ca71e-0acf-4574-8ca6-12ffd7faa577","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"ea9c8da2-61ca-4ed8-bb5d-8bd941db2225","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"ea9c8da2-61ca-4ed8-bb5d-8bd941db2225","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"LayerId":{"name":"e7dc3da5-ffb4-4c3a-8283-a8ba9881a6d3","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherGoldFRS","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","name":"ea9c8da2-61ca-4ed8-bb5d-8bd941db2225","tags":[],"resourceType":"GMSpriteFrame",},
+  ],
+  "sequence": {
+    "spriteId": {"name":"RocketlauncherGoldFRS","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},
+    "timeUnits": 1,
+    "playback": 1,
+    "playbackSpeed": 1.0,
+    "playbackSpeedType": 1,
+    "autoRecord": true,
+    "volume": 1.0,
+    "length": 24.0,
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
+    "tracks": [
+      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"94252e71-5a24-4890-b207-86fabd3d100f","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"03800fd6-d076-4c3e-a7b3-f6c91647fbf4","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"a56a8956-9905-434c-b6ea-1de8b0e477c2","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5501b024-358d-4495-a401-74cc09654e66","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"89da3048-45a0-432b-b363-42882d5d480f","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"66561d33-d754-41d1-be00-c4854ae61cf0","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"86fd9447-084f-44d0-94f3-55a117e4baba","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1b6d0213-beef-4261-b8e6-69c0f6d7af88","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"8faaca42-9da6-4866-9808-0b7393f54473","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"53a819ff-c75d-4c7e-991f-e70d5fa982a2","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"19a0a848-e87e-4864-8c56-122a6968b22f","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6eb37129-0333-403f-bfee-f6e93d847b72","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"cd84761c-d6a0-4667-8aff-6f5a11bec9d3","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a5d94f6f-fcce-404f-83fd-bab2028e29bd","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"531386c7-5f08-46e7-b9a9-9e6aceb3e7bb","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"039a51e8-870b-4db4-81bb-8b6491e30f12","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"f6a520ea-b4b0-4e09-821a-f1db79970ed8","Key":8.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"aef72495-3697-4020-b146-ebad555d87bb","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"10bd4ad7-5969-4f3f-92d9-f382026041d8","Key":9.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2be655e4-3470-4f21-acdf-f7045cd1d736","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"2ce1dd45-672d-4e81-a865-c01b41680db6","Key":10.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f074b379-40a3-43b2-983b-090bdb662792","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"636af896-5b08-493a-893a-d9e48ceb94e8","Key":11.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"40f5087e-209a-44b9-ad18-9fb609e0d814","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"1c66f1cf-b3e5-469c-aa59-4115b2e07dca","Key":12.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6b5cdefe-dc84-4b8b-9307-f6da445630e8","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"97f6fabb-fcab-4350-a128-79463f121916","Key":13.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a6fcf45b-dbe0-4470-8416-6393ebfc3aa6","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"df189c66-e3f6-4e55-b42d-f774ed626c89","Key":14.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e22e38cc-0726-45b2-92cf-7088d33b8cde","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"de09cb39-01f3-46cf-86af-8565314f09ed","Key":15.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"04f8f19a-8f08-4bc0-a16e-ef8b8800f59a","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"6e5360b4-2b1b-47bf-a882-a7ae93c118f0","Key":16.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d20c6456-bbf9-478c-a06c-f2c9174f6d39","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"30fb3df2-0bbc-4d43-8935-dc33ac99edd9","Key":17.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9d95990b-283a-453e-baeb-d22f3cef70a0","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"3cc4da65-8937-4d5c-9e5b-d17b6c5d2d75","Key":18.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"be4457c1-92f4-469c-98f5-5b1183cd1850","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"8df22761-d00c-4df1-b424-e5e35c9b5739","Key":19.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f63ced6a-3268-4e32-8eda-6ea784bda11a","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"fe60e930-62df-410f-8417-9f29688a88d6","Key":20.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"cb209854-b2ff-425b-8b96-73c81cc9cb83","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"7aca09cf-1f54-4810-af08-1c569c3eb5dc","Key":21.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b8dcf892-fa42-46cc-85d2-2efdff6b7945","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"11eb6de7-afda-4095-8074-e13271fcc781","Key":22.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5a0ca71e-0acf-4574-8ca6-12ffd7faa577","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"266ae9e5-003d-40ee-8f99-3bab773486d8","Key":23.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ea9c8da2-61ca-4ed8-bb5d-8bd941db2225","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+    ],
+    "visibleRange": {"x":0.0,"y":0.0,},
+    "lockOrigin": false,
+    "showBackdrop": true,
+    "showBackdropImage": false,
+    "backdropImagePath": "",
+    "backdropImageOpacity": 0.5,
+    "backdropWidth": 1920,
+    "backdropHeight": 1080,
+    "backdropXOffset": 0.0,
+    "backdropYOffset": 0.0,
+    "xorigin": 16,
+    "yorigin": 14,
+    "eventToFunction": {},
+    "eventStubScript": null,
+    "parent": {"name":"RocketlauncherGoldFRS","path":"sprites/RocketlauncherGoldFRS/RocketlauncherGoldFRS.yy",},
+    "resourceVersion": "1.3",
+    "name": "",
+    "tags": [],
+    "resourceType": "GMSequence",
+  },
+  "layers": [
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"e7dc3da5-ffb4-4c3a-8283-a8ba9881a6d3","tags":[],"resourceType":"GMImageLayer",},
+  ],
+  "nineSlice": null,
+  "parent": {
+    "name": "Reloading",
+    "path": "folders/Sprites/Alternative Sprites/2012 Haxxy Rewards/Weapons/Reloading.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "RocketlauncherGoldFRS",
+  "tags": [],
+  "resourceType": "GMSprite",
+}

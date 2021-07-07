@@ -1,0 +1,13 @@
+action_inherited();
+image_speed = 0;
+image_index = -1;
+image_xscale = 2;
+image_yscale = 2;
+bloodchance = 5;
+hfric = 0.5;
+snd = true;
+rotfric = 0.4;
+direction = 270;
+alarm[0] = 250 / global.delta_factor;
+rotspeed = 1;
+fadeout = false;

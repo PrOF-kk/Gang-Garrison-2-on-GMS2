@@ -1,0 +1,3 @@
+transitioning = false;
+nextRoom = noone;
+

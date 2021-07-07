@@ -1,0 +1,171 @@
+{
+  "bboxMode": 0,
+  "collisionKind": 0,
+  "type": 0,
+  "origin": 9,
+  "preMultiplyAlpha": false,
+  "edgeFiltering": false,
+  "collisionTolerance": 0,
+  "swfPrecision": 2.525,
+  "bbox_left": 12,
+  "bbox_right": 63,
+  "bbox_top": 8,
+  "bbox_bottom": 25,
+  "HTile": false,
+  "VTile": false,
+  "For3D": false,
+  "width": 68,
+  "height": 32,
+  "textureGroupId": {
+    "name": "Default",
+    "path": "texturegroups/Default",
+  },
+  "swatchColours": null,
+  "gridX": 0,
+  "gridY": 0,
+  "frames": [
+    {"compositeImage":{"FrameId":{"name":"2fe4a404-60bb-40e3-b55d-96d3cab41eda","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"2fe4a404-60bb-40e3-b55d-96d3cab41eda","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":{"name":"b5729e99-166b-45b1-981b-457abfd0d9bf","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherFS","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"2fe4a404-60bb-40e3-b55d-96d3cab41eda","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"cea8a22e-c9c3-4328-ada3-3dd59a93c7c6","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"cea8a22e-c9c3-4328-ada3-3dd59a93c7c6","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":{"name":"b5729e99-166b-45b1-981b-457abfd0d9bf","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherFS","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"cea8a22e-c9c3-4328-ada3-3dd59a93c7c6","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"162efab9-090d-460c-8dab-65cb1c883c09","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"162efab9-090d-460c-8dab-65cb1c883c09","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":{"name":"b5729e99-166b-45b1-981b-457abfd0d9bf","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherFS","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"162efab9-090d-460c-8dab-65cb1c883c09","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"b9b1b6f9-b03c-4a87-95ca-2ae23805f027","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"b9b1b6f9-b03c-4a87-95ca-2ae23805f027","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":{"name":"b5729e99-166b-45b1-981b-457abfd0d9bf","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherFS","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"b9b1b6f9-b03c-4a87-95ca-2ae23805f027","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"c55272bd-717a-48ed-a072-e1889bcfbb9c","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"c55272bd-717a-48ed-a072-e1889bcfbb9c","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":{"name":"b5729e99-166b-45b1-981b-457abfd0d9bf","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherFS","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"c55272bd-717a-48ed-a072-e1889bcfbb9c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"5c99725c-9bdb-489b-aedf-65254d8a08a0","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"5c99725c-9bdb-489b-aedf-65254d8a08a0","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":{"name":"b5729e99-166b-45b1-981b-457abfd0d9bf","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherFS","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"5c99725c-9bdb-489b-aedf-65254d8a08a0","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"fa7f607c-7a21-4e4c-8291-364696727f07","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"fa7f607c-7a21-4e4c-8291-364696727f07","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":{"name":"b5729e99-166b-45b1-981b-457abfd0d9bf","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherFS","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"fa7f607c-7a21-4e4c-8291-364696727f07","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"04b5aaa0-7ecf-456d-afbc-4cd98c6368d8","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"04b5aaa0-7ecf-456d-afbc-4cd98c6368d8","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":{"name":"b5729e99-166b-45b1-981b-457abfd0d9bf","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherFS","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"04b5aaa0-7ecf-456d-afbc-4cd98c6368d8","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"c84ee4d4-2578-474c-9e29-5cbbb0970063","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"c84ee4d4-2578-474c-9e29-5cbbb0970063","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":{"name":"b5729e99-166b-45b1-981b-457abfd0d9bf","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherFS","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"c84ee4d4-2578-474c-9e29-5cbbb0970063","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"1f8fc61e-15bc-4736-a085-9bedf4394a4e","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"1f8fc61e-15bc-4736-a085-9bedf4394a4e","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":{"name":"b5729e99-166b-45b1-981b-457abfd0d9bf","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherFS","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"1f8fc61e-15bc-4736-a085-9bedf4394a4e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"c21603d2-b550-4164-95a8-ace213622d56","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"c21603d2-b550-4164-95a8-ace213622d56","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":{"name":"b5729e99-166b-45b1-981b-457abfd0d9bf","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherFS","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"c21603d2-b550-4164-95a8-ace213622d56","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"09f0b86d-6dc6-4f4b-9b6b-4459a0453fc9","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"09f0b86d-6dc6-4f4b-9b6b-4459a0453fc9","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":{"name":"b5729e99-166b-45b1-981b-457abfd0d9bf","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherFS","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"09f0b86d-6dc6-4f4b-9b6b-4459a0453fc9","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"0fc48025-1a55-4a74-82bd-3a9d441b7976","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"0fc48025-1a55-4a74-82bd-3a9d441b7976","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":{"name":"b5729e99-166b-45b1-981b-457abfd0d9bf","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherFS","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"0fc48025-1a55-4a74-82bd-3a9d441b7976","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e92ba487-2666-46be-8925-15f1ff3514f2","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e92ba487-2666-46be-8925-15f1ff3514f2","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":{"name":"b5729e99-166b-45b1-981b-457abfd0d9bf","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherFS","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"e92ba487-2666-46be-8925-15f1ff3514f2","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d54d13d3-1cc2-430e-9607-6acc1b540628","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d54d13d3-1cc2-430e-9607-6acc1b540628","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":{"name":"b5729e99-166b-45b1-981b-457abfd0d9bf","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherFS","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"d54d13d3-1cc2-430e-9607-6acc1b540628","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f19838fd-cfe4-42f8-afee-b55e0e994554","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f19838fd-cfe4-42f8-afee-b55e0e994554","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":{"name":"b5729e99-166b-45b1-981b-457abfd0d9bf","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherFS","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"f19838fd-cfe4-42f8-afee-b55e0e994554","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"9ea1bf6f-31f9-423b-b8f9-652c4809b168","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"9ea1bf6f-31f9-423b-b8f9-652c4809b168","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":{"name":"b5729e99-166b-45b1-981b-457abfd0d9bf","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherFS","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"9ea1bf6f-31f9-423b-b8f9-652c4809b168","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d4b1bcd7-e23b-4918-ac9d-facae8dc5f2d","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d4b1bcd7-e23b-4918-ac9d-facae8dc5f2d","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":{"name":"b5729e99-166b-45b1-981b-457abfd0d9bf","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherFS","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"d4b1bcd7-e23b-4918-ac9d-facae8dc5f2d","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"7587b791-2af3-4d97-85ad-b1ffeb673d42","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"7587b791-2af3-4d97-85ad-b1ffeb673d42","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":{"name":"b5729e99-166b-45b1-981b-457abfd0d9bf","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherFS","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"7587b791-2af3-4d97-85ad-b1ffeb673d42","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"04f3e5c5-609a-4ea8-8e5d-244170be2dfc","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"04f3e5c5-609a-4ea8-8e5d-244170be2dfc","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":{"name":"b5729e99-166b-45b1-981b-457abfd0d9bf","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherFS","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"04f3e5c5-609a-4ea8-8e5d-244170be2dfc","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"926cb499-a7ad-4571-a152-f493785eceaf","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"926cb499-a7ad-4571-a152-f493785eceaf","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":{"name":"b5729e99-166b-45b1-981b-457abfd0d9bf","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherFS","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"926cb499-a7ad-4571-a152-f493785eceaf","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e9016a91-c0a1-45b6-a399-fae76c9741e4","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e9016a91-c0a1-45b6-a399-fae76c9741e4","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":{"name":"b5729e99-166b-45b1-981b-457abfd0d9bf","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherFS","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"e9016a91-c0a1-45b6-a399-fae76c9741e4","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"019339d3-fd87-48a3-b788-d93d3e086ff2","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"019339d3-fd87-48a3-b788-d93d3e086ff2","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":{"name":"b5729e99-166b-45b1-981b-457abfd0d9bf","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherFS","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"019339d3-fd87-48a3-b788-d93d3e086ff2","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e9d567c8-1d51-4efa-a9f8-5e6e80cc7b7a","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e9d567c8-1d51-4efa-a9f8-5e6e80cc7b7a","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"LayerId":{"name":"b5729e99-166b-45b1-981b-457abfd0d9bf","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"RocketlauncherFS","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","name":"e9d567c8-1d51-4efa-a9f8-5e6e80cc7b7a","tags":[],"resourceType":"GMSpriteFrame",},
+  ],
+  "sequence": {
+    "spriteId": {"name":"RocketlauncherFS","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},
+    "timeUnits": 1,
+    "playback": 1,
+    "playbackSpeed": 1.0,
+    "playbackSpeedType": 1,
+    "autoRecord": true,
+    "volume": 1.0,
+    "length": 24.0,
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
+    "tracks": [
+      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"9bcdf931-29f8-439c-8c22-2014a50867d6","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2fe4a404-60bb-40e3-b55d-96d3cab41eda","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"b9f735ee-dc44-41e0-933d-e0d275ae86b2","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"cea8a22e-c9c3-4328-ada3-3dd59a93c7c6","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"b0cf0339-a55b-430c-a9e5-a77d319c06ee","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"162efab9-090d-460c-8dab-65cb1c883c09","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"8ef99d57-6ecd-456c-9dc4-6d1b26fa01f5","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b9b1b6f9-b03c-4a87-95ca-2ae23805f027","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"251aac2a-48f4-459f-a742-2fece3b1d74a","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c55272bd-717a-48ed-a072-e1889bcfbb9c","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"4104af52-1621-48d6-be58-fb2522a28e39","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5c99725c-9bdb-489b-aedf-65254d8a08a0","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"5599d682-1681-406b-8add-065bae5fbb23","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fa7f607c-7a21-4e4c-8291-364696727f07","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"562829b4-dedd-4908-b491-9175e676120e","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"04b5aaa0-7ecf-456d-afbc-4cd98c6368d8","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"0bfe4e64-6565-448f-a9c7-6ec340b00945","Key":8.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c84ee4d4-2578-474c-9e29-5cbbb0970063","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"8f1bcc7e-70e1-4631-9d67-a083f6ee7233","Key":9.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1f8fc61e-15bc-4736-a085-9bedf4394a4e","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"cde59b4c-7e06-4ddc-86e7-debce80cf8d3","Key":10.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c21603d2-b550-4164-95a8-ace213622d56","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"cc2f3099-4d5f-4ad9-945c-df4434601a8a","Key":11.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"09f0b86d-6dc6-4f4b-9b6b-4459a0453fc9","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"91ec671d-987f-4841-af3c-90821cec3454","Key":12.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0fc48025-1a55-4a74-82bd-3a9d441b7976","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"4b74ee74-e6e7-40a1-8f88-79cf87aa4a01","Key":13.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e92ba487-2666-46be-8925-15f1ff3514f2","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"7313f465-2c68-4f2d-a706-ef61ddf55bc3","Key":14.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d54d13d3-1cc2-430e-9607-6acc1b540628","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"9e68fbd0-671f-450e-a4bf-9efdb508b4ce","Key":15.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f19838fd-cfe4-42f8-afee-b55e0e994554","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"efec952a-3065-4d32-a77c-9d2bd06cb4f7","Key":16.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9ea1bf6f-31f9-423b-b8f9-652c4809b168","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"067e1f73-7c21-41fe-98a6-9105efcc4cb3","Key":17.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d4b1bcd7-e23b-4918-ac9d-facae8dc5f2d","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"5371c7f7-e949-481e-aac9-de24a1b17a69","Key":18.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7587b791-2af3-4d97-85ad-b1ffeb673d42","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"318cac98-66f7-4097-9fd4-dded173ac9ba","Key":19.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"04f3e5c5-609a-4ea8-8e5d-244170be2dfc","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"42e23f44-327a-448f-9eab-d0a682ade77a","Key":20.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"926cb499-a7ad-4571-a152-f493785eceaf","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"54e28216-6356-4be1-ac14-771e3ec9286b","Key":21.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e9016a91-c0a1-45b6-a399-fae76c9741e4","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"cd51dfdc-2958-4f35-bbf4-805e2b51d07c","Key":22.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"019339d3-fd87-48a3-b788-d93d3e086ff2","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"422ca79b-7f21-4531-9403-4f198eaaf306","Key":23.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e9d567c8-1d51-4efa-a9f8-5e6e80cc7b7a","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+    ],
+    "visibleRange": {"x":0.0,"y":0.0,},
+    "lockOrigin": false,
+    "showBackdrop": true,
+    "showBackdropImage": false,
+    "backdropImagePath": "",
+    "backdropImageOpacity": 0.5,
+    "backdropWidth": 1920,
+    "backdropHeight": 1080,
+    "backdropXOffset": 0.0,
+    "backdropYOffset": 0.0,
+    "xorigin": 28,
+    "yorigin": 16,
+    "eventToFunction": {},
+    "eventStubScript": null,
+    "parent": {"name":"RocketlauncherFS","path":"sprites/RocketlauncherFS/RocketlauncherFS.yy",},
+    "resourceVersion": "1.3",
+    "name": "",
+    "tags": [],
+    "resourceType": "GMSequence",
+  },
+  "layers": [
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b5729e99-166b-45b1-981b-457abfd0d9bf","tags":[],"resourceType":"GMImageLayer",},
+  ],
+  "nineSlice": null,
+  "parent": {
+    "name": "Firing",
+    "path": "folders/Sprites/Weapons/Firing.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "RocketlauncherFS",
+  "tags": [],
+  "resourceType": "GMSprite",
+}

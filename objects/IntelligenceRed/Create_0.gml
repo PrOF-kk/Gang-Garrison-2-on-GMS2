@@ -1,0 +1,2 @@
+team = TEAM_RED;
+

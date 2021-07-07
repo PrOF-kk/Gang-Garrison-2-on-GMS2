@@ -1,0 +1,171 @@
+{
+  "bboxMode": 0,
+  "collisionKind": 0,
+  "type": 0,
+  "origin": 9,
+  "preMultiplyAlpha": false,
+  "edgeFiltering": false,
+  "collisionTolerance": 0,
+  "swfPrecision": 2.525,
+  "bbox_left": 18,
+  "bbox_right": 39,
+  "bbox_top": 12,
+  "bbox_bottom": 25,
+  "HTile": false,
+  "VTile": false,
+  "For3D": false,
+  "width": 64,
+  "height": 32,
+  "textureGroupId": {
+    "name": "Default",
+    "path": "texturegroups/Default",
+  },
+  "swatchColours": null,
+  "gridX": 0,
+  "gridY": 0,
+  "frames": [
+    {"compositeImage":{"FrameId":{"name":"7dbf0a50-29ff-4b72-9349-16575d2a3334","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"7dbf0a50-29ff-4b72-9349-16575d2a3334","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":{"name":"4c71a42d-bf94-45d1-a7c8-c478b1c77fac","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"MinegunGoldFS","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"7dbf0a50-29ff-4b72-9349-16575d2a3334","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"9956f640-5adc-42f6-9104-46a31eb89bbc","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"9956f640-5adc-42f6-9104-46a31eb89bbc","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":{"name":"4c71a42d-bf94-45d1-a7c8-c478b1c77fac","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"MinegunGoldFS","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"9956f640-5adc-42f6-9104-46a31eb89bbc","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"04fa6990-3cf3-4b91-8e9e-9589785714c3","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"04fa6990-3cf3-4b91-8e9e-9589785714c3","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":{"name":"4c71a42d-bf94-45d1-a7c8-c478b1c77fac","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"MinegunGoldFS","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"04fa6990-3cf3-4b91-8e9e-9589785714c3","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"27949be5-6144-488e-af13-5163c68c1929","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"27949be5-6144-488e-af13-5163c68c1929","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":{"name":"4c71a42d-bf94-45d1-a7c8-c478b1c77fac","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"MinegunGoldFS","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"27949be5-6144-488e-af13-5163c68c1929","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e54ce3c5-e501-4c6c-9f42-8f6a80cc45ee","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e54ce3c5-e501-4c6c-9f42-8f6a80cc45ee","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":{"name":"4c71a42d-bf94-45d1-a7c8-c478b1c77fac","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"MinegunGoldFS","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"e54ce3c5-e501-4c6c-9f42-8f6a80cc45ee","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"6bab092a-878d-4477-9fd8-87a96c6a0a23","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"6bab092a-878d-4477-9fd8-87a96c6a0a23","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":{"name":"4c71a42d-bf94-45d1-a7c8-c478b1c77fac","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"MinegunGoldFS","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"6bab092a-878d-4477-9fd8-87a96c6a0a23","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"ae2f1224-4d32-45b7-8922-2f4b8da9b9ab","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"ae2f1224-4d32-45b7-8922-2f4b8da9b9ab","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":{"name":"4c71a42d-bf94-45d1-a7c8-c478b1c77fac","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"MinegunGoldFS","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"ae2f1224-4d32-45b7-8922-2f4b8da9b9ab","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"bdb7b8f4-75d1-4a63-a82a-c3438c8f9267","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"bdb7b8f4-75d1-4a63-a82a-c3438c8f9267","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":{"name":"4c71a42d-bf94-45d1-a7c8-c478b1c77fac","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"MinegunGoldFS","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"bdb7b8f4-75d1-4a63-a82a-c3438c8f9267","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"218d5d4b-3499-4ebe-bb77-ff5506c6b365","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"218d5d4b-3499-4ebe-bb77-ff5506c6b365","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":{"name":"4c71a42d-bf94-45d1-a7c8-c478b1c77fac","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"MinegunGoldFS","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"218d5d4b-3499-4ebe-bb77-ff5506c6b365","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"40bfd72d-5271-44a8-80d2-856c78751888","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"40bfd72d-5271-44a8-80d2-856c78751888","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":{"name":"4c71a42d-bf94-45d1-a7c8-c478b1c77fac","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"MinegunGoldFS","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"40bfd72d-5271-44a8-80d2-856c78751888","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"02d91d3f-abbb-43d3-86ab-b7c9636da535","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"02d91d3f-abbb-43d3-86ab-b7c9636da535","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":{"name":"4c71a42d-bf94-45d1-a7c8-c478b1c77fac","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"MinegunGoldFS","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"02d91d3f-abbb-43d3-86ab-b7c9636da535","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f9212e96-59cc-4dc7-a650-f9520ef633cb","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f9212e96-59cc-4dc7-a650-f9520ef633cb","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":{"name":"4c71a42d-bf94-45d1-a7c8-c478b1c77fac","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"MinegunGoldFS","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"f9212e96-59cc-4dc7-a650-f9520ef633cb","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"4513a15a-b6a7-4aed-980e-0f1d0d3a952b","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"4513a15a-b6a7-4aed-980e-0f1d0d3a952b","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":{"name":"4c71a42d-bf94-45d1-a7c8-c478b1c77fac","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"MinegunGoldFS","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"4513a15a-b6a7-4aed-980e-0f1d0d3a952b","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"765f43e7-d6ab-470f-88a8-381ed8e4b733","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"765f43e7-d6ab-470f-88a8-381ed8e4b733","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":{"name":"4c71a42d-bf94-45d1-a7c8-c478b1c77fac","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"MinegunGoldFS","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"765f43e7-d6ab-470f-88a8-381ed8e4b733","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f404f818-f8ff-454e-9b05-d06dc87433db","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f404f818-f8ff-454e-9b05-d06dc87433db","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":{"name":"4c71a42d-bf94-45d1-a7c8-c478b1c77fac","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"MinegunGoldFS","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"f404f818-f8ff-454e-9b05-d06dc87433db","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d3905c2e-9720-4217-bc4f-e33c3e9b2623","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d3905c2e-9720-4217-bc4f-e33c3e9b2623","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":{"name":"4c71a42d-bf94-45d1-a7c8-c478b1c77fac","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"MinegunGoldFS","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"d3905c2e-9720-4217-bc4f-e33c3e9b2623","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d72c7825-c6f0-433e-9ec0-de08ba6e7fd1","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d72c7825-c6f0-433e-9ec0-de08ba6e7fd1","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":{"name":"4c71a42d-bf94-45d1-a7c8-c478b1c77fac","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"MinegunGoldFS","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"d72c7825-c6f0-433e-9ec0-de08ba6e7fd1","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"81de224f-31d2-4ca8-bf13-41bbe612c488","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"81de224f-31d2-4ca8-bf13-41bbe612c488","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":{"name":"4c71a42d-bf94-45d1-a7c8-c478b1c77fac","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"MinegunGoldFS","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"81de224f-31d2-4ca8-bf13-41bbe612c488","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"c8db9c18-4ff4-4e43-9b6b-5da1678f56bb","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"c8db9c18-4ff4-4e43-9b6b-5da1678f56bb","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":{"name":"4c71a42d-bf94-45d1-a7c8-c478b1c77fac","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"MinegunGoldFS","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"c8db9c18-4ff4-4e43-9b6b-5da1678f56bb","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"09f46d58-7547-4545-b7e1-0a1ab510d6fe","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"09f46d58-7547-4545-b7e1-0a1ab510d6fe","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":{"name":"4c71a42d-bf94-45d1-a7c8-c478b1c77fac","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"MinegunGoldFS","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"09f46d58-7547-4545-b7e1-0a1ab510d6fe","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"8c50d088-10ba-40c0-8ec1-9573012f4c32","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"8c50d088-10ba-40c0-8ec1-9573012f4c32","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":{"name":"4c71a42d-bf94-45d1-a7c8-c478b1c77fac","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"MinegunGoldFS","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"8c50d088-10ba-40c0-8ec1-9573012f4c32","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"b727be4a-7889-4a8d-b1a7-7d0dee1d7b63","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"b727be4a-7889-4a8d-b1a7-7d0dee1d7b63","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":{"name":"4c71a42d-bf94-45d1-a7c8-c478b1c77fac","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"MinegunGoldFS","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"b727be4a-7889-4a8d-b1a7-7d0dee1d7b63","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e966965f-25b9-477f-a040-731aaf67cba4","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e966965f-25b9-477f-a040-731aaf67cba4","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":{"name":"4c71a42d-bf94-45d1-a7c8-c478b1c77fac","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"MinegunGoldFS","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"e966965f-25b9-477f-a040-731aaf67cba4","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"07e60466-2295-4715-93dd-a60955c3e784","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"07e60466-2295-4715-93dd-a60955c3e784","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"LayerId":{"name":"4c71a42d-bf94-45d1-a7c8-c478b1c77fac","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"MinegunGoldFS","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","name":"07e60466-2295-4715-93dd-a60955c3e784","tags":[],"resourceType":"GMSpriteFrame",},
+  ],
+  "sequence": {
+    "spriteId": {"name":"MinegunGoldFS","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},
+    "timeUnits": 1,
+    "playback": 1,
+    "playbackSpeed": 1.0,
+    "playbackSpeedType": 1,
+    "autoRecord": true,
+    "volume": 1.0,
+    "length": 24.0,
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
+    "tracks": [
+      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"47656830-c610-43e6-92de-7fd3171ef837","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7dbf0a50-29ff-4b72-9349-16575d2a3334","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"4fd3ab9a-021c-4aa6-ba66-be0638f9a4eb","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9956f640-5adc-42f6-9104-46a31eb89bbc","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"6be1cec7-cf7e-4656-9828-75186227c906","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"04fa6990-3cf3-4b91-8e9e-9589785714c3","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"5f42dad5-7aeb-482f-892a-1654ceaa3ab9","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"27949be5-6144-488e-af13-5163c68c1929","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"a96e34bf-07d3-4aea-8067-63a866abb3ef","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e54ce3c5-e501-4c6c-9f42-8f6a80cc45ee","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"987f5732-a436-4760-9d0b-1c4207784d61","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6bab092a-878d-4477-9fd8-87a96c6a0a23","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"fa68cc58-320c-40d7-95d4-43696848059c","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ae2f1224-4d32-45b7-8922-2f4b8da9b9ab","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"73b7eba8-9d0d-44eb-85f1-e1ad5fe0f3fc","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"bdb7b8f4-75d1-4a63-a82a-c3438c8f9267","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"e83ec7f9-d759-452d-a908-6f3e82cd772d","Key":8.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"218d5d4b-3499-4ebe-bb77-ff5506c6b365","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"de6c6320-1ffc-4a73-b8d8-5e8b86974b54","Key":9.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"40bfd72d-5271-44a8-80d2-856c78751888","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"fc0217ca-be99-490e-bafd-3d2028ecc734","Key":10.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"02d91d3f-abbb-43d3-86ab-b7c9636da535","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"22f6f7ab-c06f-4df3-8e14-0ecba7ab7a91","Key":11.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f9212e96-59cc-4dc7-a650-f9520ef633cb","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"24592a79-3080-4262-bc6e-9e7c0d0d7235","Key":12.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4513a15a-b6a7-4aed-980e-0f1d0d3a952b","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"36fa2f64-4ec3-401f-930d-c2dd98bb9b17","Key":13.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"765f43e7-d6ab-470f-88a8-381ed8e4b733","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"6e10f8ce-017e-439a-b170-cf861e4f6536","Key":14.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f404f818-f8ff-454e-9b05-d06dc87433db","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"8765291d-ff1a-4112-b4bb-d69a6ef3a4be","Key":15.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d3905c2e-9720-4217-bc4f-e33c3e9b2623","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"40b4c7d1-a4c8-4a49-bc12-e8342fe6b941","Key":16.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d72c7825-c6f0-433e-9ec0-de08ba6e7fd1","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"007723b2-b7d2-4483-85ac-5f7bd9d9e257","Key":17.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"81de224f-31d2-4ca8-bf13-41bbe612c488","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"171a0ec5-7d9e-497b-b562-c1bd1336918d","Key":18.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c8db9c18-4ff4-4e43-9b6b-5da1678f56bb","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"1e12fb95-66ee-48a1-b816-404a90943ba1","Key":19.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"09f46d58-7547-4545-b7e1-0a1ab510d6fe","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"da975ea4-3ce8-48be-9368-8e4af59a72ad","Key":20.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8c50d088-10ba-40c0-8ec1-9573012f4c32","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"453c551f-0371-4464-a262-54424a152f20","Key":21.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b727be4a-7889-4a8d-b1a7-7d0dee1d7b63","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"4544dc43-d23c-48fb-a990-4cb79bbdcc0d","Key":22.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e966965f-25b9-477f-a040-731aaf67cba4","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"eea3f248-0247-4f4d-8fba-1fb48a4e29d5","Key":23.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"07e60466-2295-4715-93dd-a60955c3e784","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+    ],
+    "visibleRange": {"x":0.0,"y":0.0,},
+    "lockOrigin": false,
+    "showBackdrop": true,
+    "showBackdropImage": false,
+    "backdropImagePath": "",
+    "backdropImageOpacity": 0.5,
+    "backdropWidth": 1920,
+    "backdropHeight": 1080,
+    "backdropXOffset": 0.0,
+    "backdropYOffset": 0.0,
+    "xorigin": 25,
+    "yorigin": 19,
+    "eventToFunction": {},
+    "eventStubScript": null,
+    "parent": {"name":"MinegunGoldFS","path":"sprites/MinegunGoldFS/MinegunGoldFS.yy",},
+    "resourceVersion": "1.3",
+    "name": "",
+    "tags": [],
+    "resourceType": "GMSequence",
+  },
+  "layers": [
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"4c71a42d-bf94-45d1-a7c8-c478b1c77fac","tags":[],"resourceType":"GMImageLayer",},
+  ],
+  "nineSlice": null,
+  "parent": {
+    "name": "Firing",
+    "path": "folders/Sprites/Alternative Sprites/2012 Haxxy Rewards/Weapons/Firing.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "MinegunGoldFS",
+  "tags": [],
+  "resourceType": "GMSprite",
+}

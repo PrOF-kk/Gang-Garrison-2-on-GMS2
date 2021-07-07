@@ -1,0 +1,171 @@
+{
+  "bboxMode": 0,
+  "collisionKind": 1,
+  "type": 0,
+  "origin": 4,
+  "preMultiplyAlpha": false,
+  "edgeFiltering": false,
+  "collisionTolerance": 0,
+  "swfPrecision": 2.525,
+  "bbox_left": 0,
+  "bbox_right": 8,
+  "bbox_top": 0,
+  "bbox_bottom": 8,
+  "HTile": false,
+  "VTile": false,
+  "For3D": false,
+  "width": 10,
+  "height": 10,
+  "textureGroupId": {
+    "name": "Default",
+    "path": "texturegroups/Default",
+  },
+  "swatchColours": null,
+  "gridX": 0,
+  "gridY": 0,
+  "frames": [
+    {"compositeImage":{"FrameId":{"name":"8f28ecba-3e59-40d0-88f8-9d8afe4564ca","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"8f28ecba-3e59-40d0-88f8-9d8afe4564ca","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":{"name":"b91b3e0e-5ae8-4438-ab09-21252deb4c2d","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"IntelTimerS","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"8f28ecba-3e59-40d0-88f8-9d8afe4564ca","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d625449a-6a47-46c7-9462-f8d1d93d0b01","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d625449a-6a47-46c7-9462-f8d1d93d0b01","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":{"name":"b91b3e0e-5ae8-4438-ab09-21252deb4c2d","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"IntelTimerS","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"d625449a-6a47-46c7-9462-f8d1d93d0b01","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"351c2eb1-f91d-4277-90ac-11487e0e6e22","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"351c2eb1-f91d-4277-90ac-11487e0e6e22","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":{"name":"b91b3e0e-5ae8-4438-ab09-21252deb4c2d","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"IntelTimerS","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"351c2eb1-f91d-4277-90ac-11487e0e6e22","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"bb518fca-1cc5-4540-99ab-e4d31e5a87e1","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"bb518fca-1cc5-4540-99ab-e4d31e5a87e1","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":{"name":"b91b3e0e-5ae8-4438-ab09-21252deb4c2d","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"IntelTimerS","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"bb518fca-1cc5-4540-99ab-e4d31e5a87e1","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"7a7f3092-f5c0-4689-ae45-8b9093ce99e8","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"7a7f3092-f5c0-4689-ae45-8b9093ce99e8","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":{"name":"b91b3e0e-5ae8-4438-ab09-21252deb4c2d","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"IntelTimerS","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"7a7f3092-f5c0-4689-ae45-8b9093ce99e8","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"23416cb5-596b-4df3-8085-6a5d73e961f0","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"23416cb5-596b-4df3-8085-6a5d73e961f0","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":{"name":"b91b3e0e-5ae8-4438-ab09-21252deb4c2d","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"IntelTimerS","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"23416cb5-596b-4df3-8085-6a5d73e961f0","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"167ef2eb-ae54-40bc-8e86-6c2cbb55a7d2","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"167ef2eb-ae54-40bc-8e86-6c2cbb55a7d2","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":{"name":"b91b3e0e-5ae8-4438-ab09-21252deb4c2d","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"IntelTimerS","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"167ef2eb-ae54-40bc-8e86-6c2cbb55a7d2","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"0c2a68f5-b20a-4a6c-9b4d-252dfaef8ceb","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"0c2a68f5-b20a-4a6c-9b4d-252dfaef8ceb","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":{"name":"b91b3e0e-5ae8-4438-ab09-21252deb4c2d","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"IntelTimerS","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"0c2a68f5-b20a-4a6c-9b4d-252dfaef8ceb","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"5201e6df-8375-4cb1-96af-f705eff275e5","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"5201e6df-8375-4cb1-96af-f705eff275e5","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":{"name":"b91b3e0e-5ae8-4438-ab09-21252deb4c2d","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"IntelTimerS","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"5201e6df-8375-4cb1-96af-f705eff275e5","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"6d36416e-eb1e-460c-8ec8-cabf3cb86c60","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"6d36416e-eb1e-460c-8ec8-cabf3cb86c60","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":{"name":"b91b3e0e-5ae8-4438-ab09-21252deb4c2d","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"IntelTimerS","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"6d36416e-eb1e-460c-8ec8-cabf3cb86c60","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f4507ce4-ec18-4cc7-9f3a-4039c4992855","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f4507ce4-ec18-4cc7-9f3a-4039c4992855","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":{"name":"b91b3e0e-5ae8-4438-ab09-21252deb4c2d","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"IntelTimerS","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"f4507ce4-ec18-4cc7-9f3a-4039c4992855","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"46e4b15f-750f-48ca-ab20-98a0aeef8015","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"46e4b15f-750f-48ca-ab20-98a0aeef8015","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":{"name":"b91b3e0e-5ae8-4438-ab09-21252deb4c2d","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"IntelTimerS","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"46e4b15f-750f-48ca-ab20-98a0aeef8015","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"83369345-d159-4659-9aba-5a88d06a5d5a","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"83369345-d159-4659-9aba-5a88d06a5d5a","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":{"name":"b91b3e0e-5ae8-4438-ab09-21252deb4c2d","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"IntelTimerS","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"83369345-d159-4659-9aba-5a88d06a5d5a","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"86e70e0d-c360-4b17-932f-a7b09cbf8ecd","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"86e70e0d-c360-4b17-932f-a7b09cbf8ecd","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":{"name":"b91b3e0e-5ae8-4438-ab09-21252deb4c2d","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"IntelTimerS","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"86e70e0d-c360-4b17-932f-a7b09cbf8ecd","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"3d033932-7c2b-4ae3-8b79-9fb7f8b55619","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"3d033932-7c2b-4ae3-8b79-9fb7f8b55619","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":{"name":"b91b3e0e-5ae8-4438-ab09-21252deb4c2d","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"IntelTimerS","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"3d033932-7c2b-4ae3-8b79-9fb7f8b55619","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"31f6028b-79a7-4390-bcc5-b3f73cf3771b","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"31f6028b-79a7-4390-bcc5-b3f73cf3771b","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":{"name":"b91b3e0e-5ae8-4438-ab09-21252deb4c2d","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"IntelTimerS","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"31f6028b-79a7-4390-bcc5-b3f73cf3771b","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"60e47eff-04d2-4e2c-9db4-020b71e8d23c","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"60e47eff-04d2-4e2c-9db4-020b71e8d23c","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":{"name":"b91b3e0e-5ae8-4438-ab09-21252deb4c2d","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"IntelTimerS","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"60e47eff-04d2-4e2c-9db4-020b71e8d23c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"12d3ae8e-9a51-41a2-a201-b39c9c0e9ea4","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"12d3ae8e-9a51-41a2-a201-b39c9c0e9ea4","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":{"name":"b91b3e0e-5ae8-4438-ab09-21252deb4c2d","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"IntelTimerS","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"12d3ae8e-9a51-41a2-a201-b39c9c0e9ea4","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"dc16a76f-6a77-4815-b738-99e769b6b6c4","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"dc16a76f-6a77-4815-b738-99e769b6b6c4","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":{"name":"b91b3e0e-5ae8-4438-ab09-21252deb4c2d","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"IntelTimerS","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"dc16a76f-6a77-4815-b738-99e769b6b6c4","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"6dbddd34-54ff-4582-b9f3-2e489985f7fb","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"6dbddd34-54ff-4582-b9f3-2e489985f7fb","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":{"name":"b91b3e0e-5ae8-4438-ab09-21252deb4c2d","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"IntelTimerS","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"6dbddd34-54ff-4582-b9f3-2e489985f7fb","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"00645fa9-f30d-4c87-8156-dd74772e3922","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"00645fa9-f30d-4c87-8156-dd74772e3922","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":{"name":"b91b3e0e-5ae8-4438-ab09-21252deb4c2d","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"IntelTimerS","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"00645fa9-f30d-4c87-8156-dd74772e3922","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"08dd4fb9-a760-4562-a54d-1091285248e6","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"08dd4fb9-a760-4562-a54d-1091285248e6","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":{"name":"b91b3e0e-5ae8-4438-ab09-21252deb4c2d","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"IntelTimerS","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"08dd4fb9-a760-4562-a54d-1091285248e6","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"4e408c45-eb33-4a39-ae42-821b4f30f51f","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"4e408c45-eb33-4a39-ae42-821b4f30f51f","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":{"name":"b91b3e0e-5ae8-4438-ab09-21252deb4c2d","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"IntelTimerS","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"4e408c45-eb33-4a39-ae42-821b4f30f51f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"04bfeab4-3f6f-4c8b-8b1f-3d3c32520dd6","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"04bfeab4-3f6f-4c8b-8b1f-3d3c32520dd6","path":"sprites/IntelTimerS/IntelTimerS.yy",},"LayerId":{"name":"b91b3e0e-5ae8-4438-ab09-21252deb4c2d","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"IntelTimerS","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","name":"04bfeab4-3f6f-4c8b-8b1f-3d3c32520dd6","tags":[],"resourceType":"GMSpriteFrame",},
+  ],
+  "sequence": {
+    "spriteId": {"name":"IntelTimerS","path":"sprites/IntelTimerS/IntelTimerS.yy",},
+    "timeUnits": 1,
+    "playback": 1,
+    "playbackSpeed": 1.0,
+    "playbackSpeedType": 1,
+    "autoRecord": true,
+    "volume": 1.0,
+    "length": 24.0,
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
+    "tracks": [
+      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"55807d29-1a34-4187-a8e0-0770c06cf34f","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8f28ecba-3e59-40d0-88f8-9d8afe4564ca","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"53099f5d-ac06-463e-afa0-144044a93a30","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d625449a-6a47-46c7-9462-f8d1d93d0b01","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"11a5b896-7223-4483-bccd-286aa4fcd412","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"351c2eb1-f91d-4277-90ac-11487e0e6e22","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"073a026a-4d4b-473e-ac16-389efc05fae5","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"bb518fca-1cc5-4540-99ab-e4d31e5a87e1","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"efbc08da-4fe9-4fba-8eda-3917b1b9dde8","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7a7f3092-f5c0-4689-ae45-8b9093ce99e8","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"5688e07b-1841-4a3e-8d11-260eb30219c3","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"23416cb5-596b-4df3-8085-6a5d73e961f0","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"49899606-cd0a-4b00-87c3-f5eda024b724","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"167ef2eb-ae54-40bc-8e86-6c2cbb55a7d2","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"3e799134-b82b-4c7e-923b-cbb2fd0258d8","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0c2a68f5-b20a-4a6c-9b4d-252dfaef8ceb","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"21edd4be-21fd-406b-9d1b-a58469037b5b","Key":8.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5201e6df-8375-4cb1-96af-f705eff275e5","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"c34439a7-4fca-46af-95f6-154ebaca19f6","Key":9.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6d36416e-eb1e-460c-8ec8-cabf3cb86c60","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"26dbe230-a77b-4d0b-8721-f9a0cbdf884d","Key":10.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f4507ce4-ec18-4cc7-9f3a-4039c4992855","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"82e6b757-b8a5-47cf-af09-56ecb247be21","Key":11.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"46e4b15f-750f-48ca-ab20-98a0aeef8015","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"70961d48-c34b-42fe-b862-9f2b82bf1dfb","Key":12.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"83369345-d159-4659-9aba-5a88d06a5d5a","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"9ae98d86-bdf7-46d2-b587-e8851306ab69","Key":13.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"86e70e0d-c360-4b17-932f-a7b09cbf8ecd","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"c4ca9a52-3caa-4ec5-a7eb-3e566644c683","Key":14.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3d033932-7c2b-4ae3-8b79-9fb7f8b55619","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"fddf9c87-8a40-45f0-9770-ccb46d34fade","Key":15.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"31f6028b-79a7-4390-bcc5-b3f73cf3771b","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"ee81ee98-2513-41ca-9821-81c18ad63e0e","Key":16.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"60e47eff-04d2-4e2c-9db4-020b71e8d23c","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"1bda04dd-dab7-48ea-9e49-fda1cf938f5f","Key":17.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"12d3ae8e-9a51-41a2-a201-b39c9c0e9ea4","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"2b48c89e-356f-4435-b562-5be297abb1dd","Key":18.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"dc16a76f-6a77-4815-b738-99e769b6b6c4","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"8ba29adc-c965-4eec-9870-c899c3fa267a","Key":19.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6dbddd34-54ff-4582-b9f3-2e489985f7fb","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"0fa24a96-fd46-4f2c-be9a-3624dfaf2dad","Key":20.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"00645fa9-f30d-4c87-8156-dd74772e3922","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"39a07ff1-9689-4f3d-8d6e-63ce723fc6e0","Key":21.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"08dd4fb9-a760-4562-a54d-1091285248e6","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"dcd868ab-dd38-40e7-8c47-3e25dec27c0d","Key":22.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4e408c45-eb33-4a39-ae42-821b4f30f51f","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"59f6f46e-be48-4b52-9cef-3869e9ef3b4b","Key":23.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"04bfeab4-3f6f-4c8b-8b1f-3d3c32520dd6","path":"sprites/IntelTimerS/IntelTimerS.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+    ],
+    "visibleRange": {"x":0.0,"y":0.0,},
+    "lockOrigin": false,
+    "showBackdrop": true,
+    "showBackdropImage": false,
+    "backdropImagePath": "",
+    "backdropImageOpacity": 0.5,
+    "backdropWidth": 1920,
+    "backdropHeight": 1080,
+    "backdropXOffset": 0.0,
+    "backdropYOffset": 0.0,
+    "xorigin": 5,
+    "yorigin": 5,
+    "eventToFunction": {},
+    "eventStubScript": null,
+    "parent": {"name":"IntelTimerS","path":"sprites/IntelTimerS/IntelTimerS.yy",},
+    "resourceVersion": "1.3",
+    "name": "",
+    "tags": [],
+    "resourceType": "GMSequence",
+  },
+  "layers": [
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b91b3e0e-5ae8-4438-ab09-21252deb4c2d","tags":[],"resourceType":"GMImageLayer",},
+  ],
+  "nineSlice": null,
+  "parent": {
+    "name": "InGameElements",
+    "path": "folders/Sprites/InGameElements.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "IntelTimerS",
+  "tags": [],
+  "resourceType": "GMSprite",
+}

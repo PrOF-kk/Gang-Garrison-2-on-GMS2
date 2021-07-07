@@ -1,0 +1,1 @@
+window_set_position(previous_window_x+previous_window_w/2-window_get_width()/2, previous_window_y);
