@@ -1,5 +1,5 @@
 function calculateMonthAndDay() {
-	currentDate = date_current_date();
+	currentDate = date_current_datetime();
 	global.gg_birthday = false;
 	global.xmas = false;
 
