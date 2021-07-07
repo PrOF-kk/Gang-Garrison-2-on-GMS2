@@ -673,6 +673,7 @@
     {"id":{"name":"SoldierGoldAttireS","path":"sprites/SoldierGoldAttireS/SoldierGoldAttireS.yy",},"order":1,},
     {"id":{"name":"SoldierGoldAttireTauntS","path":"sprites/SoldierGoldAttireTauntS/SoldierGoldAttireTauntS.yy",},"order":3,},
     {"id":{"name":"HeavyGoldAttireS","path":"sprites/HeavyGoldAttireS/HeavyGoldAttireS.yy",},"order":1,},
+    {"id":{"name":"variable_local_exists","path":"scripts/variable_local_exists/variable_local_exists.yy",},"order":5,},
     {"id":{"name":"HeavyGoldAttireTauntS","path":"sprites/HeavyGoldAttireTauntS/HeavyGoldAttireTauntS.yy",},"order":3,},
     {"id":{"name":"OmnomnomnomGoldAttireS","path":"sprites/OmnomnomnomGoldAttireS/OmnomnomnomGoldAttireS.yy",},"order":5,},
     {"id":{"name":"DemomanGoldAttireS","path":"sprites/DemomanGoldAttireS/DemomanGoldAttireS.yy",},"order":1,},
