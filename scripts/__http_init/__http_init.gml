@@ -21,7 +21,7 @@ function __http_init() {
 	// Creates global.__HttpClient
 	// real __http_init()
 
-	global.__HttpClient = object_add();
+	global.__HttpClient = HttpClient;
 	object_set_persistent(global.__HttpClient, true);
 
 

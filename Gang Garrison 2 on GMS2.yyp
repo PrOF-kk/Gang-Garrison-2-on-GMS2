@@ -862,6 +862,7 @@
     {"id":{"name":"sendEventArenaWaitForPlayers","path":"scripts/sendEventArenaWaitForPlayers/sendEventArenaWaitForPlayers.yy",},"order":51,},
     {"id":{"name":"doEventArenaRestart","path":"scripts/doEventArenaRestart/doEventArenaRestart.yy",},"order":53,},
     {"id":{"name":"sendEventArenaRestart","path":"scripts/sendEventArenaRestart/sendEventArenaRestart.yy",},"order":55,},
+    {"id":{"name":"HttpClient","path":"objects/HttpClient/HttpClient.yy",},"order":6,},
     {"id":{"name":"doEventArenaStartRound","path":"scripts/doEventArenaStartRound/doEventArenaStartRound.yy",},"order":57,},
     {"id":{"name":"sendEventArenaStartRound","path":"scripts/sendEventArenaStartRound/sendEventArenaStartRound.yy",},"order":59,},
     {"id":{"name":"doEventArenaEndRound","path":"scripts/doEventArenaEndRound/doEventArenaEndRound.yy",},"order":61,},
