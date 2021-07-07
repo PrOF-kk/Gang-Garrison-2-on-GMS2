@@ -1,0 +1,1 @@
+Scripts that either replicate legacy GM features, or do nothing and hope for the best
