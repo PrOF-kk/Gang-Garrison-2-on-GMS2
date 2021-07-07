@@ -307,7 +307,7 @@ if (canClick) {
 if ((mouse_check_button_released(mb_left) || !scale) && scaling) {
     scaling = false;
     if (scale && entityButtons[selected, SCALE] && !scaleLock) {
-        var entity, entity2 xscale, yscale, _x, _y;
+        var entity, entity2, xscale, yscale, _x, _y;
         _x = max(scaleX+6, round(mouse_x/6)*6+spriteCenterX);
         _y = max(scaleY+6, round(mouse_y/6)*6+spriteCenterY);
         xscale = (_x-scaleX) / spriteWidth;
