@@ -22,15 +22,15 @@ function __http_prepare_request(argument0, argument1, argument2, argument3, argu
 	// void __http_prepare_request(real client, string method, string url, real headers, [real requestBody, string requestMimeType])
 
 	// client - HttpClient object to prepare
-	// method - method of request ('GET' or 'POST')
+	// methodOfRequest - method of request ('GET' or 'POST')
 	// url - URL to send GET request to
 	// headers - ds_map of extra headers to send, -1 if none
 	// requestBody - buffer of request body to send, 0 if none
 	// requestMimeType - content type of request body, '' if no request body
 
-	var client, method, url, headers, _requestBody, _requestBodyMimeType;
+	var client, methodOfRequest, url, headers, _requestBody, _requestBodyMimeType;
 	client = argument0;
-	method = argument1;
+	methodOfRequest = argument1;
 	url = argument2;
 	headers = argument3;
 	_requestBody = argument4;
@@ -66,7 +66,7 @@ function __http_prepare_request(argument0, argument1, argument2, argument3, argu
 	    responseBodyProgress = -1;
 	    responseHeaders = ds_map_create();
 	    requestUrl = url;
-	    requestMethod = method;
+	    requestMethod = methodOfRequest;
 	    requestHeaders = headers;
 	    requestBody = _requestBody;
 	    requestBodyMimeType = _requestBodyMimeType;
