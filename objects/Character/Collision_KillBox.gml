@@ -1,6 +1,6 @@
 hp=0;
 if (instance_exists(lastDamageDealer) && lastDamageDealer != player)
-    lastDamageSource = DAMAGE_SOURCE_FINISHED_OFF;
+    lastDamageSource = DamageSource.FINISHED_OFF;
 else
-    lastDamageSource = DAMAGE_SOURCE_KILL_BOX;
+    lastDamageSource = DamageSource.KILL_BOX;
 

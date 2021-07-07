@@ -12,7 +12,7 @@
         shoty = y+12+lengthdir_y(20,owner.aimDirection);
         if(!collision_line_bulletblocking(x, y, shotx, shoty))
         {
-            shot = createShot(shotx, shoty, Shot, DAMAGE_SOURCE_MINIGUN, owner.aimDirection+(random(14)-7), 12+random(1));
+            shot = createShot(shotx, shoty, Shot, DamageSource.MINIGUN, owner.aimDirection+(random(14)-7), 12+random(1));
             if(golden)
                 shot.sprite_index = ShotGoldS;
             shot.hspeed += owner.hspeed;

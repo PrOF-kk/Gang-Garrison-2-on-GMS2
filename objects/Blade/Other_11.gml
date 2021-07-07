@@ -3,7 +3,7 @@
     {
         var shot;
         randomize();
-        shot = createShot(x+lengthdir_x(8, owner.aimDirection), y+lengthdir_y(8, owner.aimDirection), Bubble, DAMAGE_SOURCE_BUBBLE, owner.aimDirection, 10);
+        shot = createShot(x+lengthdir_x(8, owner.aimDirection), y+lengthdir_y(8, owner.aimDirection), Bubble, DamageSource.BUBBLE, owner.aimDirection, 10);
         shot.gun = id;
         with(shot)
         {

@@ -31,7 +31,7 @@ function doEventPlayerDeath(argument0, argument1, argument2, argument3) {
 	victim.stats[DEATHS] += 1;
 	if(killer)
 	{
-	    if(damageSource == DAMAGE_SOURCE_KNIFE || damageSource == DAMAGE_SOURCE_BACKSTAB)
+	    if(damageSource == DamageSource.KNIFE || damageSource == DamageSource.BACKSTAB)
 	    {
 	        killer.stats[STABS] += 1;
 	        killer.roundStats[STABS] += 1;
@@ -116,13 +116,13 @@ function doEventPlayerDeath(argument0, argument1, argument2, argument3) {
 	with(victim.object) {
 	    var hasTombstone, diedOfExplosion, gibsWhenExploded, isCloseBy;
 	    hasTombstone = (victim.class != CLASS_QUOTE) and hasClassReward(victim, "Tombstone_");
-	    diedOfExplosion = damageSource == DAMAGE_SOURCE_ROCKETLAUNCHER
-	        or damageSource == DAMAGE_SOURCE_MINEGUN
-	        or damageSource == DAMAGE_SOURCE_FRAG_BOX
-	        or damageSource == DAMAGE_SOURCE_REFLECTED_STICKY
-	        or damageSource == DAMAGE_SOURCE_REFLECTED_ROCKET
-	        or damageSource == DAMAGE_SOURCE_FINISHED_OFF_GIB
-	        or damageSource == DAMAGE_SOURCE_GENERATOR_EXPLOSION;
+	    diedOfExplosion = damageSource == DamageSource.ROCKETLAUNCHER
+	        or damageSource == DamageSource.MINEGUN
+	        or damageSource == DamageSource.FRAG_BOX
+	        or damageSource == DamageSource.REFLECTED_STICKY
+	        or damageSource == DamageSource.REFLECTED_ROCKET
+	        or damageSource == DamageSource.FINISHED_OFF_GIB
+	        or damageSource == DamageSource.GENERATOR_EXPLOSION;
 	    gibsWhenExploded = (player.class != CLASS_QUOTE) and (global.gibLevel>1);
 	    isCloseBy = distance_to_point(xoffset+xsize/2,yoffset+ysize/2) < 900;
     
@@ -295,7 +295,7 @@ function doEventPlayerDeath(argument0, argument1, argument2, argument3) {
 	//*************************************
 	//*         Deathcam
 	//*************************************
-	if( global.killCam and victim == global.myself and killer and killer != victim and !(damageSource == DAMAGE_SOURCE_KILL_BOX || damageSource == DAMAGE_SOURCE_FRAG_BOX || damageSource == DAMAGE_SOURCE_FINISHED_OFF || damageSource == DAMAGE_SOURCE_FINISHED_OFF_GIB || damageSource == DAMAGE_SOURCE_GENERATOR_EXPLOSION)) {
+	if( global.killCam and victim == global.myself and killer and killer != victim and !(damageSource == DamageSource.KILL_BOX || damageSource == DamageSource.FRAG_BOX || damageSource == DamageSource.FINISHED_OFF || damageSource == DamageSource.FINISHED_OFF_GIB || damageSource == DamageSource.GENERATOR_EXPLOSION)) {
 	    instance_create(0,0,DeathCam);
 	    DeathCam.killedby=killer;
 	    DeathCam.name=killer.name;

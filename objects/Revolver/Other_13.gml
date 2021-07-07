@@ -2,7 +2,7 @@ ammoCount = max(0, ammoCount-1);
 playsound(x,y,RevolverSnd);
 var shot;
 
-shot = createShot(x,y + yoffset + 1,Shot, DAMAGE_SOURCE_REVOLVER, owner.aimDirection, 21);
+shot = createShot(x,y + yoffset + 1,Shot, DamageSource.REVOLVER, owner.aimDirection, 21);
 shot.hitDamage = 28;
 if(golden)
     shot.sprite_index = ShotGoldS;

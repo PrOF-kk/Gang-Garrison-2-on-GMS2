@@ -22,7 +22,7 @@ else if(readyToStab && owner.cloak && !(owner.keyState & $08))
     stab.ownerPlayer = ownerPlayer;
     stab.team = owner.team;
     stab.hitDamage = 0;
-    stab.weapon = DAMAGE_SOURCE_KNIFE;
+    stab.weapon = DamageSource.KNIFE;
     stab.golden = golden;
     
     // 'BH' reward - *B*obble *H*ead

@@ -43,7 +43,7 @@
                         damageCharacter( other.ownerPlayer, id, other.explosionDamage*(1-(fake_distance/other.blastRadius)) );
                         
                         if(id == other.ownerPlayer.object and instance_exists(lastDamageDealer) and lastDamageDealer != other.ownerPlayer)
-                            lastDamageSource = DAMAGE_SOURCE_FINISHED_OFF_GIB;
+                            lastDamageSource = DamageSource.FINISHED_OFF_GIB;
                         else 
                         {
                             if (lastDamageDealer != other.ownerPlayer && lastDamageDealer != player){

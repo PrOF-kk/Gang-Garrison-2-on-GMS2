@@ -27,7 +27,7 @@
                 damageCharacter(other.ownerPlayer, id, dmg);
                 timeUnscathed = 0;
                 if (id == other.ownerPlayer.object and instance_exists(lastDamageDealer) and lastDamageDealer != other.ownerPlayer and !instance_exists(other.reflector))
-                    lastDamageSource = DAMAGE_SOURCE_FINISHED_OFF_GIB;
+                    lastDamageSource = DamageSource.FINISHED_OFF_GIB;
                 else 
                 {
                     if (lastDamageDealer != other.ownerPlayer and lastDamageDealer != player and other.reflector != lastDamageDealer)
@@ -42,7 +42,7 @@
                     if (id==other.ownerPlayer.object and instance_exists(other.reflector))
                     {
                         lastDamageDealer = other.reflector;
-                        lastDamageSource = DAMAGE_SOURCE_REFLECTED_STICKY;
+                        lastDamageSource = DamageSource.REFLECTED_STICKY;
                     }
                 }
                 if(global.gibLevel > 0)
@@ -77,7 +77,7 @@
                 continue;
             damageSentry(other.ownerPlayer, id, other.explosionDamage*3/2*(1-(distance_to_object(other)/other.blastRadius))); // we want sentries to take ~11% extra damage so that two stickies will do 100 instead of 90 dmg. we don't change the base damage so scouts can't be 2-hitted. 
             lastDamageDealer = other.ownerPlayer;
-            lastDamageSource = DAMAGE_SOURCE_MINEGUN;
+            lastDamageSource = DamageSource.MINEGUN;
         }   
     }    
      

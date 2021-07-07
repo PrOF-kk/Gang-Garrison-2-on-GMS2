@@ -123,18 +123,18 @@ with(hitInstance) {
                 blood.direction = other.owner.aimDirection - 180;
             }
             if (!other.owner.zoomed) {
-                lastDamageSource = DAMAGE_SOURCE_RIFLE;
+                lastDamageSource = DamageSource.RIFLE;
             } else {
-                lastDamageSource = DAMAGE_SOURCE_RIFLE_CHARGED;
+                lastDamageSource = DamageSource.RIFLE_CHARGED;
             }
         }
     } else if(object_index == Sentry or object_is_ancestor(object_index, Sentry)) {
         damageSentry(other.ownerPlayer, id, other.hitDamage);
         lastDamageDealer = other.ownerPlayer;
         if (!other.owner.zoomed)
-            lastDamageSource = DAMAGE_SOURCE_RIFLE;
+            lastDamageSource = DamageSource.RIFLE;
         else
-            lastDamageSource = DAMAGE_SOURCE_RIFLE_CHARGED;
+            lastDamageSource = DamageSource.RIFLE_CHARGED;
     } else if(object_index == Generator or object_is_ancestor(object_index, Generator)) {
         damageGenerator(other.ownerPlayer, id, other.hitDamage);
     }

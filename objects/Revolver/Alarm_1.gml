@@ -6,7 +6,7 @@
         shot.ownerPlayer=ownerPlayer;
         shot.team=owner.team;
         shot.hitDamage = 200;
-        shot.weapon=DAMAGE_SOURCE_KNIFE;
+        shot.weapon=DamageSource.KNIFE;
 }
 
 action_set_alarm(18, 2);

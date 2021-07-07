@@ -2,7 +2,7 @@ ammoCount = max(0, ammoCount-1);
 playsound(x,y,ShotgunSnd);
 var shot;
 repeat(5) {
-    shot = createShot(x, y, Shot, DAMAGE_SOURCE_SHOTGUN, owner.aimDirection, 13);
+    shot = createShot(x, y, Shot, DamageSource.SHOTGUN, owner.aimDirection, 13);
     shot.hitDamage = 7;
     if(golden)
         shot.sprite_index = ShotGoldS;

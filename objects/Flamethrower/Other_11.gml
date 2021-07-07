@@ -18,7 +18,7 @@
         randomize();
         calculatedspread = sign(random(2)-1)*power(random(3), 1.8);
         calculatedspread *= 1 - hspeed/owner.basemaxspeed;
-        shot = createShot(newx, newy, Flame, DAMAGE_SOURCE_FLAMETHROWER, owner.aimDirection+calculatedspread,6.5+random(3.5));
+        shot = createShot(newx, newy, Flame, DamageSource.FLAMETHROWER, owner.aimDirection+calculatedspread,6.5+random(3.5));
         with(shot)
             motion_add(owner.direction, owner.speed);
         

@@ -26,7 +26,7 @@ function doEventDestruction(argument0, argument1, argument2, argument3) {
 	    recordDestructionInLog(owner, killer, healer, damageSource);
 	    setChatBubble(owner, 60);
 	}
-	else if (argument3 == DAMAGE_SOURCE_GENERATOR_EXPLOSION) {
+	else if (argument3 == DamageSource.GENERATOR_EXPLOSION) {
 	    recordDestructionInLog(owner, noone, noone, damageSource);
 	    setChatBubble(owner, 60);
 	}

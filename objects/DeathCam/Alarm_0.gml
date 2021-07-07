@@ -4,7 +4,7 @@ if instance_exists(WinBanner)
     exit;
 }
 
-if(lastDamageSource == DAMAGE_SOURCE_SENTRYTURRET and killedby.sentry)
+if(lastDamageSource == DamageSource.SENTRYTURRET and killedby.sentry)
 {
     __view_set( e__VW.XView, 0, killedby.sentry.x-400 );
     __view_set( e__VW.YView, 0, killedby.sentry.y-300 );

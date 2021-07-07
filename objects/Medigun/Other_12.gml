@@ -4,7 +4,7 @@
         ammoCount -= 1;
         playsound(x,y,MedichaingunSnd);
         var shot;
-        shot = createShot(x, y + yoffset + 1, Needle, DAMAGE_SOURCE_NEEDLEGUN, owner.aimDirection, 7+random(3));
+        shot = createShot(x, y + yoffset + 1, Needle, DamageSource.NEEDLEGUN, owner.aimDirection, 7+random(3));
         shot.hitDamage = 4;
         justShot=true;
         with(shot)

@@ -86,8 +86,8 @@ function processClientCommands(argument0, argument1) {
 	                        {
 	                            if (!instance_exists(lastDamageDealer) || lastDamageDealer == player)
 	                            {
-	                                sendEventPlayerDeath(player, player, noone, DAMAGE_SOURCE_BID_FAREWELL);
-	                                doEventPlayerDeath(player, player, noone, DAMAGE_SOURCE_BID_FAREWELL);
+	                                sendEventPlayerDeath(player, player, noone, DamageSource.BID_FAREWELL);
+	                                doEventPlayerDeath(player, player, noone, DamageSource.BID_FAREWELL);
 	                            }
 	                            else
 	                            {
@@ -96,8 +96,8 @@ function processClientCommands(argument0, argument1) {
 	                                if (lastDamageDealer.object)
 	                                    if (lastDamageDealer.object.healer)
 	                                        assistant = lastDamageDealer.object.healer;
-	                                sendEventPlayerDeath(player, lastDamageDealer, assistant, DAMAGE_SOURCE_FINISHED_OFF);
-	                                doEventPlayerDeath(player, lastDamageDealer, assistant, DAMAGE_SOURCE_FINISHED_OFF);
+	                                sendEventPlayerDeath(player, lastDamageDealer, assistant, DamageSource.FINISHED_OFF);
+	                                doEventPlayerDeath(player, lastDamageDealer, assistant, DamageSource.FINISHED_OFF);
 	                            }
 	                        }
 	                        else 
@@ -159,8 +159,8 @@ function processClientCommands(argument0, argument1) {
 	                        {
 	                            if (!instance_exists(lastDamageDealer) || lastDamageDealer == player)
 	                            {
-	                                sendEventPlayerDeath(player, player, noone, DAMAGE_SOURCE_BID_FAREWELL);
-	                                doEventPlayerDeath(player, player, noone, DAMAGE_SOURCE_BID_FAREWELL);
+	                                sendEventPlayerDeath(player, player, noone, DamageSource.BID_FAREWELL);
+	                                doEventPlayerDeath(player, player, noone, DamageSource.BID_FAREWELL);
 	                            }
 	                            else
 	                            {
@@ -169,8 +169,8 @@ function processClientCommands(argument0, argument1) {
 	                                if (lastDamageDealer.object)
 	                                    if (lastDamageDealer.object.healer)
 	                                        assistant = lastDamageDealer.object.healer;
-	                                sendEventPlayerDeath(player, lastDamageDealer, assistant, DAMAGE_SOURCE_FINISHED_OFF);
-	                                doEventPlayerDeath(player, lastDamageDealer, assistant, DAMAGE_SOURCE_FINISHED_OFF);
+	                                sendEventPlayerDeath(player, lastDamageDealer, assistant, DamageSource.FINISHED_OFF);
+	                                doEventPlayerDeath(player, lastDamageDealer, assistant, DamageSource.FINISHED_OFF);
 	                            }
 	                        }
 	                        player.alarm[5] = global.Server_Respawntime / global.delta_factor;

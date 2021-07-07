@@ -3,7 +3,7 @@ function recordDestructionInLog(argument0, argument1, argument2, argument3) {
 	    // argument0: The owner of the destroyed building
 	    // argument1: The killer
 	    // argument2: The healer, or -1 for no assist
-	    // argument3: The source of the damage (e.g. DAMAGE_SOURCE_SCATTERGUN)
+	    // argument3: The source of the damage (e.g. DamageSource.SCATTERGUN)
       
 	        with (KillLog) {
 	            map = ds_map_create();
@@ -21,7 +21,7 @@ function recordDestructionInLog(argument0, argument1, argument2, argument3) {
 	                ds_map_add(map, "team1", argument1.team);
 				}
             
-	            if(argument3 == DAMAGE_SOURCE_BID_FAREWELL)
+	            if(argument3 == DamageSource.BID_FAREWELL)
 	            {
 	                ds_map_add(map, "name2", "");
 	                ds_map_add(map, "team2", 0);
@@ -39,11 +39,11 @@ function recordDestructionInLog(argument0, argument1, argument2, argument3) {
 	            ds_map_add(map, "weapon", findDamageSourceIcon(argument3));
             
 	            switch(argument3) {
-	                case DAMAGE_SOURCE_FINISHED_OFF:
-	                case DAMAGE_SOURCE_FINISHED_OFF_GIB:
+	                case DamageSource.FINISHED_OFF:
+	                case DamageSource.FINISHED_OFF_GIB:
 	                    ds_map_add(map, "string", "finished off ");
 	                    break;
-	                case DAMAGE_SOURCE_BID_FAREWELL:
+	                case DamageSource.BID_FAREWELL:
 	                    ds_map_add(map, "string", string_copy(argument0.name, 1, 20) + " bid farewell, cruel world!");
 	                    break;
 	                default:

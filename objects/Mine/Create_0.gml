@@ -11,6 +11,6 @@
     reflector = noone;
     knockback = 10;
     particleCycle = 0;
-    weapon = DAMAGE_SOURCE_MINEGUN;
+    weapon = DamageSource.MINEGUN;
 }
 

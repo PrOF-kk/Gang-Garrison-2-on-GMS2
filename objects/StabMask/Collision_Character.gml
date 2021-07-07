@@ -20,9 +20,9 @@ if(other.id != ownerPlayer.object and other.team != team  and other.hp > 0 and !
         other.alarm[3] = ASSIST_TIME / global.delta_factor;
         other.lastDamageDealer = ownerPlayer;
         if sign(other.image_xscale) == sign(image_xscale)
-            other.lastDamageSource = DAMAGE_SOURCE_BACKSTAB;
+            other.lastDamageSource = DamageSource.BACKSTAB;
         else
-            other.lastDamageSource = DAMAGE_SOURCE_KNIFE;
+            other.lastDamageSource = DamageSource.KNIFE;
         var blood;
         if(global.gibLevel > 0)
         {

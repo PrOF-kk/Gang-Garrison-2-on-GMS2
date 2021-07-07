@@ -27,7 +27,7 @@
             newy = y+lengthdir_y(25,owner.aimDirection);
             if !collision_line_bulletblocking(x, y, newx, newy)
             {
-                shot = createShot(newx,newy,Flare, DAMAGE_SOURCE_FLARE, owner.aimDirection, 15);                
+                shot = createShot(newx,newy,Flare, DamageSource.FLARE, owner.aimDirection, 15);                
                 justShot=true;
                 readyToFlare=false;
                 ammoCount -= 35;
@@ -47,7 +47,7 @@
                 {
                     ownerPlayer = other.ownerPlayer;
                     team = other.owner.team;
-                    weapon = DAMAGE_SOURCE_REFLECTED_ROCKET;
+                    weapon = DamageSource.REFLECTED_ROCKET;
                     hitDamage = 25;
                     explosionDamage = 30;
                     knockback = 8;
@@ -68,7 +68,7 @@
                 {
                     ownerPlayer = other.ownerPlayer;
                     team = other.owner.team;
-                    weapon = DAMAGE_SOURCE_REFLECTED_FLARE;
+                    weapon = DamageSource.REFLECTED_FLARE;
                     alarm[0]=40 / global.delta_factor;
                     
                     motion_set(other.owner.aimDirection, speed);
@@ -149,7 +149,7 @@
                         f.owner = other.owner;
                         f.ownerPlayer = other.ownerPlayer;
                         f.team = other.owner.team;
-                        f.weapon = DAMAGE_SOURCE_FLAMETHROWER;
+                        f.weapon = DamageSource.FLAMETHROWER;
                         with(f)
                             motion_add(direction, speed);
                     }

@@ -5,7 +5,7 @@
         playsound(x,y,BladeSnd);
         var shot;
         randomize();
-        shot = createShot(x+lengthdir_x(5, owner.aimDirection), y+lengthdir_y(5, owner.aimDirection), BladeB, DAMAGE_SOURCE_BLADE, owner.aimDirection, 12);
+        shot = createShot(x+lengthdir_x(5, owner.aimDirection), y+lengthdir_y(5, owner.aimDirection), BladeB, DamageSource.BLADE, owner.aimDirection, 12);
         // We don't want the blade sprite to be rotated with the direction of the shot, since that would cause the hitbox to also be rotated,
         // which can cause the blade to get stuck in walls that are behind the Querly. With an angle of 0, the BladeB hitbox is exactly as wide
         // as the Querly's, so that this won't happen. See https://github.com/Gang-Garrison-2/Gang-Garrison-2/issues/230
